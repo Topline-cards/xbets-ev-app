@@ -1,6 +1,6 @@
 {
  "sport": "nba",
- "generated_at": "2026-11-28T11:11:48-05:00",
+ "generated_at": "2026-11-28T11:22:24-05:00",
  "season": 2027,
  "week": "2026-11-30",
  "day": "2026-11-30",
@@ -10228,6 +10228,196 @@
    "vs_opp": []
   },
   {
+   "player": "Cade Cunningham",
+   "player_id": "4432166",
+   "pkey": "cade cunningham",
+   "team": "DET",
+   "injury_status": "Day-To-Day",
+   "injury": "Knee",
+   "opp": "DEN",
+   "position": "PG",
+   "stat": "reb",
+   "stat_label": "Rebounds",
+   "game_id": "401910062",
+   "kickoff": "2026-11-30T19:00:00-05:00",
+   "home_away": "home",
+   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png",
+   "baseline": 4.8,
+   "sd": 1.8,
+   "games": 10,
+   "last10": [
+    5.0,
+    5.0,
+    7.0,
+    4.0,
+    3.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    4.0
+   ],
+   "log": [
+    {
+     "season": 2027,
+     "wk": "2026-10-30",
+     "lbl": "10/30",
+     "opp": "BKN",
+     "v": 5.0,
+     "ha": "away",
+     "min": 28
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-02",
+     "lbl": "11/2",
+     "opp": "CHA",
+     "v": 5.0,
+     "ha": "away",
+     "min": 27
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-04",
+     "lbl": "11/4",
+     "opp": "PHI",
+     "v": 7.0,
+     "ha": "home",
+     "min": 40
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-08",
+     "lbl": "11/8",
+     "opp": "LAL",
+     "v": 4.0,
+     "ha": "home",
+     "min": 38
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-09",
+     "lbl": "11/9",
+     "opp": "WSH",
+     "v": 3.0,
+     "ha": "home",
+     "min": 27
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-12",
+     "lbl": "11/12",
+     "opp": "WSH",
+     "v": 5.0,
+     "ha": "away",
+     "min": 48
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-14",
+     "lbl": "11/14",
+     "opp": "MIA",
+     "v": 5.0,
+     "ha": "away",
+     "min": 36
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-17",
+     "lbl": "11/17",
+     "opp": "SA",
+     "v": 5.0,
+     "ha": "away",
+     "min": 38
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-20",
+     "lbl": "11/20",
+     "opp": "TOR",
+     "v": 5.0,
+     "ha": "home",
+     "min": 36
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-22",
+     "lbl": "11/22",
+     "opp": "ATL",
+     "v": 4.0,
+     "ha": "away",
+     "min": 33
+    }
+   ],
+   "minutes": 38.2,
+   "def_allowed": 7.2,
+   "league_avg": 5.7,
+   "matchup_factor": 1.257,
+   "matchup_pct": 25.7,
+   "projection": 5.4,
+   "def_rank": 1,
+   "def_n": 30,
+   "def_log": [
+    {
+     "season": 2027,
+     "wk": "2026-11-11",
+     "lbl": "11/11",
+     "vs": "MEM",
+     "v": 3.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-14",
+     "lbl": "11/14",
+     "vs": "NO",
+     "v": 4.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-16",
+     "lbl": "11/16",
+     "vs": "PHX",
+     "v": 9.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-18",
+     "lbl": "11/18",
+     "vs": "BOS",
+     "v": 4.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-20",
+     "lbl": "11/20",
+     "vs": "HOU",
+     "v": 5.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-22",
+     "lbl": "11/22",
+     "vs": "CHI",
+     "v": 16.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-24",
+     "lbl": "11/24",
+     "vs": "DAL",
+     "v": 7.0
+    },
+    {
+     "season": 2027,
+     "wk": "2026-11-27",
+     "lbl": "11/27",
+     "vs": "UTAH",
+     "v": 4.0
+    }
+   ],
+   "vs_opp": []
+  },
+  {
    "player": "Noah Clowney",
    "player_id": "4712896",
    "pkey": "noah clowney",
@@ -15123,196 +15313,6 @@
      "lbl": "11/27",
      "vs": "TOR",
      "v": 1.0
-    }
-   ],
-   "vs_opp": []
-  },
-  {
-   "player": "Cameron Johnson",
-   "player_id": "3138196",
-   "pkey": "cameron johnson",
-   "team": "DEN",
-   "injury_status": null,
-   "injury": null,
-   "opp": "DET",
-   "position": "PF",
-   "stat": "fg3",
-   "stat_label": "Threes Made",
-   "game_id": "401910062",
-   "kickoff": "2026-11-30T19:00:00-05:00",
-   "home_away": "away",
-   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3138196.png",
-   "baseline": 2.1,
-   "sd": 1.4,
-   "games": 10,
-   "last10": [
-    2.0,
-    2.0,
-    4.0,
-    1.0,
-    0.0,
-    0.0,
-    2.0,
-    4.0,
-    4.0,
-    2.0
-   ],
-   "log": [
-    {
-     "season": 2027,
-     "wk": "2026-11-07",
-     "lbl": "11/7",
-     "opp": "IND",
-     "v": 2.0,
-     "ha": "away",
-     "min": 29
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-09",
-     "lbl": "11/9",
-     "opp": "HOU",
-     "v": 2.0,
-     "ha": "away",
-     "min": 31
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-11",
-     "lbl": "11/11",
-     "opp": "MEM",
-     "v": 4.0,
-     "ha": "away",
-     "min": 30
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-14",
-     "lbl": "11/14",
-     "opp": "NO",
-     "v": 1.0,
-     "ha": "away",
-     "min": 31
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-16",
-     "lbl": "11/16",
-     "opp": "PHX",
-     "v": 0.0,
-     "ha": "home",
-     "min": 27
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-18",
-     "lbl": "11/18",
-     "opp": "BOS",
-     "v": 0.0,
-     "ha": "home",
-     "min": 26
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-20",
-     "lbl": "11/20",
-     "opp": "HOU",
-     "v": 2.0,
-     "ha": "home",
-     "min": 29
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-22",
-     "lbl": "11/22",
-     "opp": "CHI",
-     "v": 4.0,
-     "ha": "away",
-     "min": 36
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-24",
-     "lbl": "11/24",
-     "opp": "DAL",
-     "v": 4.0,
-     "ha": "home",
-     "min": 34
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-27",
-     "lbl": "11/27",
-     "opp": "UTAH",
-     "v": 2.0,
-     "ha": "away",
-     "min": 28
-    }
-   ],
-   "minutes": 30.6,
-   "def_allowed": 1.7,
-   "league_avg": 2.2,
-   "matchup_factor": 0.768,
-   "matchup_pct": -23.2,
-   "projection": 1.9,
-   "def_rank": 25,
-   "def_n": 30,
-   "def_log": [
-    {
-     "season": 2027,
-     "wk": "2026-11-12",
-     "lbl": "11/12",
-     "vs": "WSH",
-     "v": 0.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-14",
-     "lbl": "11/14",
-     "vs": "MIA",
-     "v": 2.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-17",
-     "lbl": "11/17",
-     "vs": "SA",
-     "v": 0.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-18",
-     "lbl": "11/18",
-     "vs": "NO",
-     "v": 0.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-20",
-     "lbl": "11/20",
-     "vs": "TOR",
-     "v": 2.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-22",
-     "lbl": "11/22",
-     "vs": "ATL",
-     "v": 2.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-24",
-     "lbl": "11/24",
-     "vs": "ORL",
-     "v": 0.0
-    },
-    {
-     "season": 2027,
-     "wk": "2026-11-27",
-     "lbl": "11/27",
-     "vs": "MIL",
-     "v": 3.0
     }
    ],
    "vs_opp": []
