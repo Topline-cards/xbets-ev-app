@@ -1,20 +1,21 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T13:18:53-05:00",
+ "generated_at": "2026-11-28T13:29:28-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
  "next_kickoff": "2026-11-28T13:30:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 310,
-  "book_unmatched": 7,
+  "book_game_lines": 308,
+  "book_unmatched": 8,
   "book_unmatched_games": [
    "Davidson @ Florida Atlantic",
    "Loyola Chicago @ UMass",
    "Memphis @ Dayton",
    "SE Missouri St @ UMKC",
    "SE Missouri State @ UMKC",
+   "South Florida @ Saint Louis",
    "Utah State @ New Mexico",
    "Weber State @ CSU Fullerton"
   ],
@@ -2945,8 +2946,8 @@
    "side": "away",
    "team": "The Citadel",
    "opp": "High Point",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/57327550417673",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/115243937748673",
    "game_id": "401920415",
    "kickoff": "2026-11-28T14:00:00-05:00",
    "home": "High Point",
@@ -2976,12 +2977,12 @@
    },
    "books": [
     {
-     "book": "draftkings",
+     "book": "fanduel",
      "a": null,
      "b": 23.0
     },
     {
-     "book": "fanduel",
+     "book": "draftkings",
      "a": null,
      "b": 23.0
     }
@@ -3353,14 +3354,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.459,
-     "b": 2.8
-    },
-    {
      "book": "fanduel",
      "a": 1.476,
      "b": 2.72
+    },
+    {
+     "book": "draftkings",
+     "a": 1.459,
+     "b": 2.8
     },
     {
      "book": "pinnacle",
@@ -4018,14 +4019,14 @@
    "side": "home",
    "team": "Pepperdine",
    "opp": "Lehigh",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/157942473840067",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/107226357643653",
    "game_id": "401926757",
    "kickoff": "2026-11-28T13:30:00-05:00",
    "home": "Pepperdine",
    "away": "Lehigh",
-   "dec": 1.172,
-   "american": -581,
+   "dec": 1.167,
+   "american": -599,
    "game_model": {
     "game_id": "401926757",
     "home": "Pepperdine",
@@ -4049,11 +4050,6 @@
    },
    "books": [
     {
-     "book": "fanduel",
-     "a": 1.172,
-     "b": 5.4
-    },
-    {
      "book": "draftkings",
      "a": 1.167,
      "b": 5.4
@@ -4065,7 +4061,7 @@
     }
    ],
    "model_prob": 0.954,
-   "model_edge": 13.23,
+   "model_edge": 13.17,
    "model_edge_txt": "+13.2%",
    "cheat_side": "home",
    "pinnacle_line": "Pepperdine -581 / Lehigh +440",
@@ -4081,16 +4077,16 @@
     "additive": 0.834,
     "power": 0.8411
    },
-   "ev_pct": -3.7,
+   "ev_pct": -4.11,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -21.51,
-   "trusted_prob": 0.828,
+   "kelly_pct": -24.62,
+   "trusted_prob": 0.8287,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.63,
+   "second_ev": null,
    "pinn_dec": 1.172
   },
   {
@@ -5762,14 +5758,14 @@
    "side": "home",
    "team": "Pepperdine",
    "opp": "Lehigh",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/25399205495228",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/248816786971363",
    "game_id": "401926757",
    "kickoff": "2026-11-28T13:30:00-05:00",
    "home": "Pepperdine",
    "away": "Lehigh",
-   "dec": 1.909,
-   "american": -110,
+   "dec": 1.862,
+   "american": -116,
    "game_model": {
     "game_id": "401926757",
     "home": "Pepperdine",
@@ -5792,11 +5788,6 @@
     "league_avg": 108.2
    },
    "books": [
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
     {
      "book": "draftkings",
      "a": 1.862,
@@ -5826,16 +5817,16 @@
     "additive": 0.5195,
     "power": 0.5199
    },
-   "ev_pct": -0.99,
-   "min_ev": 1.76,
+   "ev_pct": -3.43,
+   "min_ev": 1.62,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -1.09,
-   "trusted_prob": 0.5197,
+   "kelly_pct": -3.98,
+   "trusted_prob": 0.5223,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.05,
+   "second_ev": null,
    "pinn_dec": 1.847
   },
   {
@@ -6508,14 +6499,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.323,
-     "b": 3.5
-    },
-    {
      "book": "fanduel",
      "a": 1.339,
      "b": 3.4
+    },
+    {
+     "book": "draftkings",
+     "a": 1.323,
+     "b": 3.5
     },
     {
      "book": "pinnacle",
@@ -6595,14 +6586,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.083,
-     "b": 8.5
-    },
-    {
      "book": "fanduel",
      "a": 1.095,
      "b": 8.2
+    },
+    {
+     "book": "draftkings",
+     "a": 1.083,
+     "b": 8.5
     },
     {
      "book": "pinnacle",
@@ -6857,14 +6848,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 2.2,
-     "b": 1.704
-    },
-    {
      "book": "fanduel",
      "a": 2.16,
      "b": 1.725
+    },
+    {
+     "book": "draftkings",
+     "a": 2.2,
+     "b": 1.704
     },
     {
      "book": "pinnacle",
@@ -7288,14 +7279,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.063,
-     "b": 10.0
-    },
-    {
      "book": "fanduel",
      "a": 1.083,
      "b": 8.6
+    },
+    {
+     "book": "draftkings",
+     "a": 1.063,
+     "b": 10.0
     },
     {
      "book": "pinnacle",
@@ -7418,89 +7409,6 @@
    "tier": "single",
    "second_ev": -3.4,
    "pinn_dec": 1.154
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "North Florida @ Columbia",
-   "pkey": "401922224",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Columbia -12.5",
-   "line": -12.5,
-   "side": "home",
-   "team": "Columbia",
-   "opp": "North Florida",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/110890214110312",
-   "game_id": "401922224",
-   "kickoff": "2026-11-28T14:00:00-05:00",
-   "home": "Columbia",
-   "away": "North Florida",
-   "dec": 1.847,
-   "american": -118,
-   "game_model": {
-    "game_id": "401922224",
-    "home": "Columbia",
-    "away": "North Florida",
-    "kickoff": "2026-11-28T14:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 85.4,
-    "proj_away": 67.1,
-    "proj_margin": 18.3,
-    "proj_total": 152.6,
-    "home_win_prob": 0.952,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.967,
-    "home_em": 2.5,
-    "away_em": -12.9,
-    "home_t": 67.9,
-    "away_t": 75.0,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.847,
-     "b": 1.98
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.84,
-     "b": 2.0
-    }
-   ],
-   "model_prob": 0.701,
-   "model_edge": 5.8,
-   "model_edge_txt": "+5.8 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Columbia -12.5 -119 / North Florida +12.5 100",
-   "fair_prob": 0.5208,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5208,
-    0.5222
-   ],
-   "devig_all": {
-    "multiplicative": 0.5208,
-    "additive": 0.5217,
-    "power": 0.5222
-   },
-   "ev_pct": -3.8,
-   "min_ev": 1.57,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -4.49,
-   "trusted_prob": 0.525,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.84
   },
   {
    "kind": "spread",
@@ -8113,14 +8021,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.16,
-     "b": 5.55
-    },
-    {
      "book": "fanduel",
      "a": 1.172,
      "b": 5.3
+    },
+    {
+     "book": "draftkings",
+     "a": 1.16,
+     "b": 5.55
     },
     {
      "book": "pinnacle",
@@ -8156,6 +8064,94 @@
    "tier": "single",
    "second_ev": -3.06,
    "pinn_dec": 1.173
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "North Florida @ Columbia",
+   "pkey": "401922224",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Columbia -13.5",
+   "line": -13.5,
+   "side": "home",
+   "team": "Columbia",
+   "opp": "North Florida",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/124103515036701",
+   "game_id": "401922224",
+   "kickoff": "2026-11-28T14:00:00-05:00",
+   "home": "Columbia",
+   "away": "North Florida",
+   "dec": 1.98,
+   "american": -102,
+   "game_model": {
+    "game_id": "401922224",
+    "home": "Columbia",
+    "away": "North Florida",
+    "kickoff": "2026-11-28T14:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 85.4,
+    "proj_away": 67.1,
+    "proj_margin": 18.3,
+    "proj_total": 152.6,
+    "home_win_prob": 0.952,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.967,
+    "home_em": 2.5,
+    "away_em": -12.9,
+    "home_t": 67.9,
+    "away_t": 75.0,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.943,
+     "b": 1.877
+    },
+    {
+     "book": "draftkings",
+     "a": 1.98,
+     "b": 1.84
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.04,
+     "b": 1.813
+    }
+   ],
+   "model_prob": 0.669,
+   "model_edge": 4.8,
+   "model_edge_txt": "+4.8 pts \u00b7 GOOD",
+   "cheat_side": "home",
+   "cbb_tier": "GOOD",
+   "pinnacle_line": "Columbia -13.5 104 / North Florida +13.5 -123",
+   "fair_prob": 0.4687,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4687,
+    0.4705
+   ],
+   "devig_all": {
+    "multiplicative": 0.4705,
+    "additive": 0.4693,
+    "power": 0.4687
+   },
+   "ev_pct": -7.2,
+   "min_ev": 1.99,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -7.35,
+   "trusted_prob": 0.476,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.83,
+   "pinn_dec": 2.04
   },
   {
    "kind": "spread",
@@ -8200,14 +8196,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.862,
-     "b": 1.962
-    },
-    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
+    },
+    {
+     "book": "draftkings",
+     "a": 1.862,
+     "b": 1.962
     },
     {
      "book": "pinnacle",
@@ -8941,8 +8937,8 @@
    "side": "home",
    "team": "Stony Brook",
    "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/245065429840698",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126262306973788",
    "game_id": "401920906",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "Stony Brook",
@@ -8971,6 +8967,11 @@
     "league_avg": 108.2
    },
    "books": [
+    {
+     "book": "draftkings",
+     "a": 1.943,
+     "b": 1.87
+    },
     {
      "book": "fanduel",
      "a": 1.943,
@@ -9009,7 +9010,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -4.65,
    "pinn_dec": 2.01
   },
   {
@@ -9200,8 +9201,8 @@
    "side": "home",
    "team": "S Indiana",
    "opp": "Ball State",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/117047431834851",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/195541208413957",
    "game_id": "401911031",
    "kickoff": "2026-11-28T14:00:00-05:00",
    "home": "S Indiana",
@@ -9231,14 +9232,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.909,
-     "b": 1.917
-    },
-    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
+    },
+    {
+     "book": "draftkings",
+     "a": 1.909,
+     "b": 1.917
     },
     {
      "book": "pinnacle",
@@ -9273,7 +9274,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -4.55,
+   "second_ev": -4.35,
    "pinn_dec": 1.935
   },
   {
@@ -9490,14 +9491,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.87,
-     "b": 1.943
-    },
-    {
      "book": "fanduel",
      "a": 1.833,
      "b": 1.98
+    },
+    {
+     "book": "draftkings",
+     "a": 1.87,
+     "b": 1.943
     },
     {
      "book": "pinnacle",
@@ -9749,14 +9750,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.971,
-     "b": 1.855
-    },
-    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
+    },
+    {
+     "book": "draftkings",
+     "a": 1.926,
+     "b": 1.893
     },
     {
      "book": "pinnacle",
@@ -9791,7 +9792,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.66,
+   "second_ev": -3.73,
    "pinn_dec": 1.862
   },
   {
@@ -9920,14 +9921,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.943,
-     "b": 1.877
-    },
-    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
+    },
+    {
+     "book": "draftkings",
+     "a": 1.943,
+     "b": 1.877
     },
     {
      "book": "pinnacle",
@@ -10113,5 +10114,5 @@
   "ev": 0,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T13:18:53-05:00"
+ "odds_as_of": "2026-11-28T13:29:28-05:00"
 }
