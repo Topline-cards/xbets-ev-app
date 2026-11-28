@@ -1,21 +1,22 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T11:54:10-05:00",
+ "generated_at": "2026-11-28T12:04:46-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
- "next_kickoff": "2026-11-28T12:00:00-05:00",
+ "next_kickoff": "2026-11-28T13:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 362,
-  "book_unmatched": 3,
+  "book_game_lines": 347,
+  "book_unmatched": 4,
   "book_unmatched_games": [
+   "Princeton @ Saint Thomas MN",
    "SE Missouri St @ UMKC",
    "SE Missouri State @ UMKC",
    "Weber State @ CSU Fullerton"
   ],
-  "pinnacle_game_lines": 1046,
-  "pinnacle_unmatched": 4,
+  "pinnacle_game_lines": 998,
+  "pinnacle_unmatched": 7,
   "pinnacle_as_of": "2026-11-28T11:54:10-05:00"
  },
  "settings": {
@@ -541,21 +542,6 @@
  },
  "games": [
   {
-   "game_id": "401920849",
-   "label": "Princeton @ St Thomas",
-   "kickoff": "2026-11-28T12:00:00-05:00"
-  },
-  {
-   "game_id": "401920890",
-   "label": "Siena @ Seton Hall",
-   "kickoff": "2026-11-28T12:00:00-05:00"
-  },
-  {
-   "game_id": "401918961",
-   "label": "Elon @ NC State",
-   "kickoff": "2026-11-28T12:00:00-05:00"
-  },
-  {
    "game_id": "401911395",
    "label": "NC Central @ Gardner-Webb",
    "kickoff": "2026-11-28T13:00:00-05:00"
@@ -922,69 +908,6 @@
   }
  ],
  "game_model": [
-  {
-   "game_id": "401920849",
-   "home": "St Thomas",
-   "away": "Princeton",
-   "kickoff": "2026-11-28T12:00:00-05:00",
-   "neutral": true,
-   "non_d1": null,
-   "proj_home": 71.5,
-   "proj_away": 69.8,
-   "proj_margin": 1.7,
-   "proj_total": 141.2,
-   "home_win_prob": 0.561,
-   "model": "FULL",
-   "slope": 7.78,
-   "matchup_x": 0.218,
-   "home_em": 1.2,
-   "away_em": -0.2,
-   "home_t": 66.5,
-   "away_t": 65.7,
-   "league_avg": 108.2
-  },
-  {
-   "game_id": "401920890",
-   "home": "Seton Hall",
-   "away": "Siena",
-   "kickoff": "2026-11-28T12:00:00-05:00",
-   "neutral": false,
-   "non_d1": null,
-   "proj_home": 88.3,
-   "proj_away": 73.1,
-   "proj_margin": 15.2,
-   "proj_total": 161.3,
-   "home_win_prob": 0.916,
-   "model": "FULL",
-   "slope": 7.78,
-   "matchup_x": 1.564,
-   "home_em": 15.3,
-   "away_em": -3.5,
-   "home_t": 66.7,
-   "away_t": 78.0,
-   "league_avg": 108.2
-  },
-  {
-   "game_id": "401918961",
-   "home": "NC State",
-   "away": "Elon",
-   "kickoff": "2026-11-28T12:00:00-05:00",
-   "neutral": false,
-   "non_d1": null,
-   "proj_home": 84.1,
-   "proj_away": 67.3,
-   "proj_margin": 16.8,
-   "proj_total": 151.3,
-   "home_win_prob": 0.937,
-   "model": "FULL",
-   "slope": 7.78,
-   "matchup_x": 1.773,
-   "home_em": 19.5,
-   "away_em": -4.3,
-   "home_t": 68.3,
-   "away_t": 67.4,
-   "league_avg": 108.2
-  },
   {
    "game_id": "401911395",
    "home": "Gardner-Webb",
@@ -3337,6 +3260,64 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
+   "player": "UC Irvine @ Seattle U",
+   "pkey": "401917548",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "UC Irvine Moneyline",
+   "line": null,
+   "side": "away",
+   "team": "UC Irvine",
+   "opp": "Seattle U",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/262088925212560",
+   "game_id": "401917548",
+   "kickoff": "2026-11-28T17:00:00-05:00",
+   "home": "Seattle U",
+   "away": "UC Irvine",
+   "dec": 2.95,
+   "american": 195,
+   "game_model": {
+    "game_id": "401917548",
+    "home": "Seattle U",
+    "away": "UC Irvine",
+    "kickoff": "2026-11-28T17:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 68.6,
+    "proj_away": 70.7,
+    "proj_margin": -2.1,
+    "proj_total": 139.3,
+    "home_win_prob": 0.423,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -0.66,
+    "home_em": 5.7,
+    "away_em": 6.1,
+    "home_t": 68.8,
+    "away_t": 70.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.42,
+     "b": 2.95
+    },
+    {
+     "book": "fanduel",
+     "a": 1.455,
+     "b": 2.84
+    }
+   ],
+   "model_prob": 0.577,
+   "model_edge": 25.21,
+   "model_edge_txt": "+25.2%",
+   "cheat_side": "away"
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
    "player": "Merrimack @ Hofstra",
    "pkey": "401924811",
    "stat": "ml",
@@ -3420,64 +3401,6 @@
    "tier": "single",
    "second_ev": -2.43,
    "pinn_dec": 1.917
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "UC Irvine @ Seattle U",
-   "pkey": "401917548",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "UC Irvine Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "UC Irvine",
-   "opp": "Seattle U",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/262088925212560",
-   "game_id": "401917548",
-   "kickoff": "2026-11-28T17:00:00-05:00",
-   "home": "Seattle U",
-   "away": "UC Irvine",
-   "dec": 2.9,
-   "american": 190,
-   "game_model": {
-    "game_id": "401917548",
-    "home": "Seattle U",
-    "away": "UC Irvine",
-    "kickoff": "2026-11-28T17:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 68.6,
-    "proj_away": 70.7,
-    "proj_margin": -2.1,
-    "proj_total": 139.3,
-    "home_win_prob": 0.423,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -0.66,
-    "home_em": 5.7,
-    "away_em": 6.1,
-    "home_t": 68.8,
-    "away_t": 70.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.435,
-     "b": 2.9
-    },
-    {
-     "book": "fanduel",
-     "a": 1.455,
-     "b": 2.84
-    }
-   ],
-   "model_prob": 0.577,
-   "model_edge": 24.6,
-   "model_edge_txt": "+24.6%",
-   "cheat_side": "away"
   },
   {
    "kind": "ml",
@@ -3958,8 +3881,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.278,
-     "b": 3.85
+     "a": 1.29,
+     "b": 3.75
     },
     {
      "book": "fanduel",
@@ -4727,6 +4650,93 @@
    "pinn_dec": 9.75
   },
   {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "UMass Lowell @ American",
+   "pkey": "401912214",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "American Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "American",
+   "opp": "UMass Lowell",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/182843379270225",
+   "game_id": "401912214",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "American",
+   "away": "UMass Lowell",
+   "dec": 1.617,
+   "american": -162,
+   "game_model": {
+    "game_id": "401912214",
+    "home": "American",
+    "away": "UMass Lowell",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.1,
+    "proj_away": 67.7,
+    "proj_margin": 6.4,
+    "proj_total": 141.8,
+    "home_win_prob": 0.72,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.301,
+    "home_em": -0.9,
+    "away_em": -4.7,
+    "home_t": 67.4,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.556,
+     "b": 2.5
+    },
+    {
+     "book": "fanduel",
+     "a": 1.617,
+     "b": 2.36
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.588,
+     "b": 2.45
+    }
+   ],
+   "model_prob": 0.72,
+   "model_edge": 12.66,
+   "model_edge_txt": "+12.7%",
+   "cheat_side": "home",
+   "pinnacle_line": "American -170 / UMass Lowell +145",
+   "fair_prob": 0.6067,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.6067,
+    0.6128
+   ],
+   "devig_all": {
+    "multiplicative": 0.6067,
+    "additive": 0.6108,
+    "power": 0.6128
+   },
+   "ev_pct": -1.89,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -3.06,
+   "trusted_prob": 0.6091,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -0.33,
+   "pinn_dec": 1.588
+  },
+  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "Portland St @ S Illinois",
@@ -5066,93 +5076,6 @@
    "tier": "single",
    "second_ev": -3.14,
    "pinn_dec": 1.407
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "UMass Lowell @ American",
-   "pkey": "401912214",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "American Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "American",
-   "opp": "UMass Lowell",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/182843379270225",
-   "game_id": "401912214",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "American",
-   "away": "UMass Lowell",
-   "dec": 1.568,
-   "american": -176,
-   "game_model": {
-    "game_id": "401912214",
-    "home": "American",
-    "away": "UMass Lowell",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.1,
-    "proj_away": 67.7,
-    "proj_margin": 6.4,
-    "proj_total": 141.8,
-    "home_win_prob": 0.72,
-    "model": "BASE",
-    "slope": 11.33,
-    "matchup_x": 0.301,
-    "home_em": -0.9,
-    "away_em": -4.7,
-    "home_t": 67.4,
-    "away_t": 69.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.556,
-     "b": 2.5
-    },
-    {
-     "book": "fanduel",
-     "a": 1.568,
-     "b": 2.46
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.588,
-     "b": 2.45
-    }
-   ],
-   "model_prob": 0.72,
-   "model_edge": 10.93,
-   "model_edge_txt": "+10.9%",
-   "cheat_side": "home",
-   "pinnacle_line": "American -170 / UMass Lowell +145",
-   "fair_prob": 0.6067,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6067,
-    0.6128
-   ],
-   "devig_all": {
-    "multiplicative": 0.6067,
-    "additive": 0.6108,
-    "power": 0.6128
-   },
-   "ev_pct": -4.86,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -8.56,
-   "trusted_prob": 0.6129,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -3.35,
-   "pinn_dec": 1.588
   },
   {
    "kind": "ml",
@@ -5862,14 +5785,14 @@
    "side": "home",
    "team": "Georgia Tech",
    "opp": "Alcorn St",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/246194854084947",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/154953442022400",
    "game_id": "401920310",
    "kickoff": "2026-11-28T13:00:00-05:00",
    "home": "Georgia Tech",
    "away": "Alcorn St",
-   "dec": 1.833,
-   "american": -120,
+   "dec": 1.885,
+   "american": -113,
    "game_model": {
     "game_id": "401920310",
     "home": "Georgia Tech",
@@ -5892,6 +5815,11 @@
     "league_avg": 108.2
    },
    "books": [
+    {
+     "book": "draftkings",
+     "a": 1.885,
+     "b": 1.935
+    },
     {
      "book": "fanduel",
      "a": 1.833,
@@ -5921,16 +5849,16 @@
     "additive": 0.5284,
     "power": 0.529
    },
-   "ev_pct": -3.35,
-   "min_ev": 1.52,
+   "ev_pct": -0.61,
+   "min_ev": 1.69,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -4.02,
-   "trusted_prob": 0.5309,
+   "kelly_pct": -0.69,
+   "trusted_prob": 0.5279,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -2.12,
    "pinn_dec": 1.82
   },
   {
@@ -6331,8 +6259,8 @@
     },
     {
      "book": "fanduel",
-     "a": 1.549,
-     "b": 2.5
+     "a": 1.5,
+     "b": 2.64
     },
     {
      "book": "pinnacle",
@@ -6365,8 +6293,8 @@
    "trusted_prob": 0.3632,
    "unit_note": null,
    "edge_trust": 0.8,
-   "tier": "prime",
-   "second_ev": 1.1,
+   "tier": "single",
+   "second_ev": -4.74,
    "pinn_dec": 2.61
   },
   {
@@ -6649,8 +6577,8 @@
    "kickoff": "2026-11-28T19:00:00-05:00",
    "home": "Army",
    "away": "Rider",
-   "dec": 1.952,
-   "american": -105,
+   "dec": 1.943,
+   "american": -106,
    "game_model": {
     "game_id": "401912232",
     "home": "Army",
@@ -6675,8 +6603,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.952,
-     "b": 1.87
+     "a": 1.943,
+     "b": 1.877
     },
     {
      "book": "fanduel",
@@ -6702,8 +6630,8 @@
    "side": "away",
    "team": "UC Irvine",
    "opp": "Seattle U",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/198130072443404",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/226105662613574",
    "game_id": "401917548",
    "kickoff": "2026-11-28T17:00:00-05:00",
    "home": "Seattle U",
@@ -6734,8 +6662,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.962,
-     "b": 1.862
+     "a": 1.909,
+     "b": 1.909
     },
     {
      "book": "fanduel",
@@ -7093,6 +7021,93 @@
    "tier": "single",
    "second_ev": -7.61,
    "pinn_dec": 3.87
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "California @ Minnesota",
+   "pkey": "401916308",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Minnesota Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Minnesota",
+   "opp": "California",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/2336551418724",
+   "game_id": "401916308",
+   "kickoff": "2026-11-28T20:00:00-05:00",
+   "home": "Minnesota",
+   "away": "California",
+   "dec": 1.417,
+   "american": -240,
+   "game_model": {
+    "game_id": "401916308",
+    "home": "Minnesota",
+    "away": "California",
+    "kickoff": "2026-11-28T20:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 74.2,
+    "proj_away": 66.8,
+    "proj_margin": 7.4,
+    "proj_total": 141.0,
+    "home_win_prob": 0.75,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.953,
+    "home_em": 17.9,
+    "away_em": 10.2,
+    "home_t": 65.6,
+    "away_t": 69.0,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.36,
+     "b": 3.25
+    },
+    {
+     "book": "fanduel",
+     "a": 1.417,
+     "b": 2.98
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.37,
+     "b": 3.24
+    }
+   ],
+   "model_prob": 0.75,
+   "model_edge": 7.23,
+   "model_edge_txt": "+7.2%",
+   "cheat_side": "home",
+   "pinnacle_line": "Minnesota -270 / California +224",
+   "fair_prob": 0.7028,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.7028,
+    0.7147
+   ],
+   "devig_all": {
+    "multiplicative": 0.7028,
+    "additive": 0.7106,
+    "power": 0.7147
+   },
+   "ev_pct": -0.41,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -0.98,
+   "trusted_prob": 0.7034,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -0.1,
+   "pinn_dec": 1.37
   },
   {
    "kind": "ml",
@@ -8005,6 +8020,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.063,
+     "b": 10.0
+    },
+    {
      "book": "fanduel",
      "a": 1.083,
      "b": 8.6
@@ -8041,7 +8061,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -2.11,
    "pinn_dec": 1.08
   },
   {
@@ -8174,6 +8194,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.877,
+     "b": 1.943
+    },
+    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
@@ -8211,7 +8236,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -2.9,
    "pinn_dec": 1.82
   },
   {
@@ -8524,93 +8549,6 @@
    "pinn_dec": 1.826
   },
   {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "California @ Minnesota",
-   "pkey": "401916308",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Minnesota Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Minnesota",
-   "opp": "California",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/2336551418724",
-   "game_id": "401916308",
-   "kickoff": "2026-11-28T20:00:00-05:00",
-   "home": "Minnesota",
-   "away": "California",
-   "dec": 1.377,
-   "american": -265,
-   "game_model": {
-    "game_id": "401916308",
-    "home": "Minnesota",
-    "away": "California",
-    "kickoff": "2026-11-28T20:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 66.8,
-    "proj_margin": 7.4,
-    "proj_total": 141.0,
-    "home_win_prob": 0.75,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.953,
-    "home_em": 17.9,
-    "away_em": 10.2,
-    "home_t": 65.6,
-    "away_t": 69.0,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.36,
-     "b": 3.25
-    },
-    {
-     "book": "fanduel",
-     "a": 1.377,
-     "b": 3.15
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.37,
-     "b": 3.24
-    }
-   ],
-   "model_prob": 0.75,
-   "model_edge": 5.42,
-   "model_edge_txt": "+5.4%",
-   "cheat_side": "home",
-   "pinnacle_line": "Minnesota -270 / California +224",
-   "fair_prob": 0.7028,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.7028,
-    0.7147
-   ],
-   "devig_all": {
-    "multiplicative": 0.7028,
-    "additive": 0.7106,
-    "power": 0.7147
-   },
-   "ev_pct": -3.22,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -8.55,
-   "trusted_prob": 0.7075,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -2.92,
-   "pinn_dec": 1.37
-  },
-  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "Hampton @ Radford",
@@ -8886,8 +8824,8 @@
    "kickoff": "2026-11-28T13:00:00-05:00",
    "home": "Gardner-Webb",
    "away": "NC Central",
-   "dec": 1.917,
-   "american": -109,
+   "dec": 1.885,
+   "american": -113,
    "game_model": {
     "game_id": "401911395",
     "home": "Gardner-Webb",
@@ -8912,8 +8850,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.917,
-     "b": 1.901
+     "a": 1.885,
+     "b": 1.935
     },
     {
      "book": "pinnacle",
@@ -8938,12 +8876,12 @@
     "additive": 0.5191,
     "power": 0.5196
    },
-   "ev_pct": -0.67,
-   "min_ev": 1.79,
+   "ev_pct": -2.33,
+   "min_ev": 1.69,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -0.73,
-   "trusted_prob": 0.5188,
+   "kelly_pct": -2.63,
+   "trusted_prob": 0.5206,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
@@ -9256,6 +9194,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.862,
+     "b": 1.962
+    },
+    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
@@ -9293,7 +9236,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -2.05,
    "pinn_dec": 1.862
   },
   {
@@ -10188,14 +10131,14 @@
    "side": "home",
    "team": "American",
    "opp": "UMass Lowell",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/235597317217423",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/137883110606157",
    "game_id": "401912214",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "American",
    "away": "UMass Lowell",
-   "dec": 1.893,
-   "american": -112,
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
     "game_id": "401912214",
     "home": "American",
@@ -10225,8 +10168,8 @@
     },
     {
      "book": "fanduel",
-     "a": 1.833,
-     "b": 1.98
+     "a": 1.909,
+     "b": 1.909
     },
     {
      "book": "pinnacle",
@@ -10252,16 +10195,16 @@
     "additive": 0.4884,
     "power": 0.4882
    },
-   "ev_pct": -7.58,
-   "min_ev": 1.71,
+   "ev_pct": -6.8,
+   "min_ev": 1.76,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -8.49,
-   "trusted_prob": 0.4962,
+   "kelly_pct": -7.48,
+   "trusted_prob": 0.4953,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.7,
+   "second_ev": -3.73,
    "pinn_dec": 1.971
   },
   {
@@ -10276,14 +10219,14 @@
    "side": "away",
    "team": "North Texas",
    "opp": "Boise St",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/244710242148949",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/118796502341086",
    "game_id": "401929172",
    "kickoff": "2026-11-28T15:30:00-05:00",
    "home": "Boise St",
    "away": "North Texas",
-   "dec": 1.943,
-   "american": -106,
+   "dec": 1.952,
+   "american": -105,
    "game_model": {
     "game_id": "401929172",
     "home": "Boise St",
@@ -10313,8 +10256,8 @@
     },
     {
      "book": "fanduel",
-     "a": 1.943,
-     "b": 1.877
+     "a": 1.87,
+     "b": 1.952
     },
     {
      "book": "pinnacle",
@@ -10340,16 +10283,16 @@
     "additive": 0.5046,
     "power": 0.5047
    },
-   "ev_pct": -1.99,
-   "min_ev": 1.87,
+   "ev_pct": -1.53,
+   "min_ev": 1.9,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.11,
-   "trusted_prob": 0.5065,
+   "kelly_pct": -1.61,
+   "trusted_prob": 0.506,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.17,
+   "second_ev": -4.21,
    "pinn_dec": 1.901
   },
   {
@@ -10364,14 +10307,14 @@
    "side": "away",
    "team": "Creighton",
    "opp": "Louisville",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/232361239789494",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/139065094278562",
    "game_id": "401920536",
    "kickoff": "2026-11-28T22:30:00-05:00",
    "home": "Louisville",
    "away": "Creighton",
-   "dec": 1.893,
-   "american": -112,
+   "dec": 1.952,
+   "american": -105,
    "game_model": {
     "game_id": "401920536",
     "home": "Louisville",
@@ -10394,6 +10337,11 @@
     "league_avg": 108.2
    },
    "books": [
+    {
+     "book": "draftkings",
+     "a": 1.87,
+     "b": 1.952
+    },
     {
      "book": "fanduel",
      "a": 1.926,
@@ -10423,100 +10371,17 @@
     "additive": 0.517,
     "power": 0.5174
    },
-   "ev_pct": -2.26,
-   "min_ev": 1.71,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -2.54,
-   "trusted_prob": 0.5187,
+   "ev_pct": 0.78,
+   "min_ev": 1.9,
+   "units": 0.16412301556867268,
+   "base_units": 0.16412301556867268,
+   "kelly_pct": 0.82,
+   "trusted_prob": 0.5155,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -1.56,
    "pinn_dec": 1.855
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Elon @ NC State",
-   "pkey": "401918961",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Elon +19.5",
-   "line": -19.5,
-   "side": "away",
-   "team": "Elon",
-   "opp": "NC State",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/156294121014232",
-   "game_id": "401918961",
-   "kickoff": "2026-11-28T12:00:00-05:00",
-   "home": "NC State",
-   "away": "Elon",
-   "dec": 1.909,
-   "american": -110,
-   "game_model": {
-    "game_id": "401918961",
-    "home": "NC State",
-    "away": "Elon",
-    "kickoff": "2026-11-28T12:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 84.1,
-    "proj_away": 67.3,
-    "proj_margin": 16.8,
-    "proj_total": 151.3,
-    "home_win_prob": 0.937,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.773,
-    "home_em": 19.5,
-    "away_em": -4.3,
-    "home_t": 68.3,
-    "away_t": 67.4,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.952,
-     "b": 1.901
-    }
-   ],
-   "model_prob": 0.597,
-   "model_edge": 2.7,
-   "model_edge_txt": "+2.7 pts \u00b7 LEAN",
-   "cheat_side": "away",
-   "cbb_tier": "LEAN",
-   "pinnacle_line": "NC State -19.5 -105 / Elon +19.5 -111",
-   "fair_prob": 0.5066,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5066,
-    0.507
-   ],
-   "devig_all": {
-    "multiplicative": 0.5066,
-    "additive": 0.5069,
-    "power": 0.507
-   },
-   "ev_pct": -3.29,
-   "min_ev": 1.76,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -3.62,
-   "trusted_prob": 0.5101,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.901
   },
   {
    "kind": "spread",
@@ -10737,11 +10602,6 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.787,
-     "b": 2.05
-    },
-    {
      "book": "fanduel",
      "a": 1.847,
      "b": 1.962
@@ -10779,7 +10639,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.32,
+   "second_ev": null,
    "pinn_dec": 1.763
   },
   {
@@ -11127,6 +10987,89 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "California @ Minnesota",
+   "pkey": "401916308",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Minnesota -5.5",
+   "line": -5.5,
+   "side": "home",
+   "team": "Minnesota",
+   "opp": "California",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/235761135699713",
+   "game_id": "401916308",
+   "kickoff": "2026-11-28T20:00:00-05:00",
+   "home": "Minnesota",
+   "away": "California",
+   "dec": 1.833,
+   "american": -120,
+   "game_model": {
+    "game_id": "401916308",
+    "home": "Minnesota",
+    "away": "California",
+    "kickoff": "2026-11-28T20:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 74.2,
+    "proj_away": 66.8,
+    "proj_margin": 7.4,
+    "proj_total": 141.0,
+    "home_win_prob": 0.75,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.953,
+    "home_em": 17.9,
+    "away_em": 10.2,
+    "home_t": 65.6,
+    "away_t": 69.0,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 1.98
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.781,
+     "b": 2.08
+    }
+   ],
+   "model_prob": 0.569,
+   "model_edge": 1.9,
+   "model_edge_txt": "+1.9 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN",
+   "pinnacle_line": "Minnesota -5.5 -128 / California +5.5 108",
+   "fair_prob": 0.5387,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5387,
+    0.5412
+   ],
+   "devig_all": {
+    "multiplicative": 0.5387,
+    "additive": 0.5404,
+    "power": 0.5412
+   },
+   "ev_pct": -1.25,
+   "min_ev": 1.52,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -1.5,
+   "trusted_prob": 0.5401,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.781
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "Delaware St @ NC A&T",
    "pkey": "401921158",
    "stat": "spread",
@@ -11360,5 +11303,5 @@
   "ev": 0,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T11:54:10-05:00"
+ "odds_as_of": "2026-11-28T12:04:46-05:00"
 }
