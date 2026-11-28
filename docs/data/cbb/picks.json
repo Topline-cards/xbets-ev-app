@@ -1,6 +1,6 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T14:44:10-05:00",
+ "generated_at": "2026-11-28T14:54:39-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
@@ -8,11 +8,12 @@
  "status": {
   "odds_checked": true,
   "book_game_lines": 217,
-  "book_unmatched": 23,
+  "book_unmatched": 26,
   "book_unmatched_games": [
    "Canisius @ UIC",
    "Dartmouth @ Appalachian State",
    "Davidson @ Florida Atlantic",
+   "Drake @ North Texas",
    "Eastern Washington @ Wyoming",
    "IU Indianapolis @ Tulsa",
    "Loyola Chicago @ UMass",
@@ -26,10 +27,9 @@
    "Rice @ Arkansas State",
    "SE Missouri St @ UMKC",
    "SE Missouri State @ UMKC",
+   "South Dakota State @ Fresno State",
    "South Florida @ Saint Louis",
-   "Tennessee State @ Oklahoma State",
-   "UL Monroe @ Tulane",
-   "UTSA @ SIU-Edwardsville"
+   "Tennessee State @ Oklahoma State"
   ],
   "pinnacle_game_lines": 635,
   "pinnacle_unmatched": 3,
@@ -2426,6 +2426,64 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
+   "player": "W Illinois @ Coastal",
+   "pkey": "401929048",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "W Illinois Moneyline",
+   "line": null,
+   "side": "away",
+   "team": "W Illinois",
+   "opp": "Coastal",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/106842610623645",
+   "game_id": "401929048",
+   "kickoff": "2026-11-28T15:00:00-05:00",
+   "home": "Coastal",
+   "away": "W Illinois",
+   "dec": 6.25,
+   "american": 525,
+   "game_model": {
+    "game_id": "401929048",
+    "home": "Coastal",
+    "away": "W Illinois",
+    "kickoff": "2026-11-28T15:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 71.3,
+    "proj_away": 68.3,
+    "proj_margin": 3.0,
+    "proj_total": 139.6,
+    "home_win_prob": 0.606,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -0.004,
+    "home_em": -6.9,
+    "away_em": -17.2,
+    "home_t": 70.4,
+    "away_t": 67.9,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.133,
+     "b": 6.25
+    },
+    {
+     "book": "fanduel",
+     "a": 1.154,
+     "b": 5.8
+    }
+   ],
+   "model_prob": 0.394,
+   "model_edge": 24.05,
+   "model_edge_txt": "+24.1%",
+   "cheat_side": "away"
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
    "player": "N Arizona @ Bakersfield",
    "pkey": "401920139",
    "stat": "ml",
@@ -2509,64 +2567,6 @@
    "tier": "single",
    "second_ev": -2.3,
    "pinn_dec": 1.353
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "W Illinois @ Coastal",
-   "pkey": "401929048",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "W Illinois Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "W Illinois",
-   "opp": "Coastal",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/106842610623645",
-   "game_id": "401929048",
-   "kickoff": "2026-11-28T15:00:00-05:00",
-   "home": "Coastal",
-   "away": "W Illinois",
-   "dec": 6.0,
-   "american": 500,
-   "game_model": {
-    "game_id": "401929048",
-    "home": "Coastal",
-    "away": "W Illinois",
-    "kickoff": "2026-11-28T15:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 71.3,
-    "proj_away": 68.3,
-    "proj_margin": 3.0,
-    "proj_total": 139.6,
-    "home_win_prob": 0.606,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -0.004,
-    "home_em": -6.9,
-    "away_em": -17.2,
-    "home_t": 70.4,
-    "away_t": 67.9,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.143,
-     "b": 6.0
-    },
-    {
-     "book": "fanduel",
-     "a": 1.154,
-     "b": 5.8
-    }
-   ],
-   "model_prob": 0.394,
-   "model_edge": 23.4,
-   "model_edge_txt": "+23.4%",
-   "cheat_side": "away"
   },
   {
    "kind": "ml",
@@ -3021,8 +3021,8 @@
    "kickoff": "2026-11-28T15:00:00-05:00",
    "home": "UNC Wilmington",
    "away": "Liberty",
-   "dec": 1.5,
-   "american": -200,
+   "dec": 1.488,
+   "american": -205,
    "game_model": {
     "game_id": "401926796",
     "home": "UNC Wilmington",
@@ -3047,8 +3047,8 @@
    "books": [
     {
      "book": "fanduel",
-     "a": 1.5,
-     "b": 2.64
+     "a": 1.488,
+     "b": 2.68
     },
     {
      "book": "pinnacle",
@@ -3057,8 +3057,8 @@
     }
    ],
    "model_prob": 0.802,
-   "model_edge": 16.43,
-   "model_edge_txt": "+16.4%",
+   "model_edge": 15.9,
+   "model_edge_txt": "+15.9%",
    "cheat_side": "home",
    "pinnacle_line": "UNC Wilmington -213 / Liberty +180",
    "fair_prob": 0.6559,
@@ -3073,12 +3073,12 @@
     "additive": 0.6618,
     "power": 0.6648
    },
-   "ev_pct": -1.62,
+   "ev_pct": -2.4,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -3.23,
-   "trusted_prob": 0.658,
+   "kelly_pct": -4.92,
+   "trusted_prob": 0.6591,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
@@ -4498,8 +4498,8 @@
    "kickoff": "2026-11-28T15:00:00-05:00",
    "home": "Coastal",
    "away": "W Illinois",
-   "dec": 1.877,
-   "american": -114,
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
     "game_id": "401929048",
     "home": "Coastal",
@@ -4524,8 +4524,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.943,
-     "b": 1.877
+     "a": 1.909,
+     "b": 1.909
     }
    ],
    "model_prob": 0.78,
@@ -5076,89 +5076,89 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "UT Rio Grande @ UNLV",
-   "pkey": "401924913",
+   "player": "N Illinois @ E Illinois",
+   "pkey": "401920917",
    "stat": "ml",
    "stat_label": "Moneyline",
-   "title": "UNLV Moneyline",
+   "title": "N Illinois Moneyline",
    "line": null,
-   "side": "home",
-   "team": "UNLV",
-   "opp": "UT Rio Grande",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/170851694983217",
-   "game_id": "401924913",
+   "side": "away",
+   "team": "N Illinois",
+   "opp": "E Illinois",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/139712614002085",
+   "game_id": "401920917",
    "kickoff": "2026-11-28T15:00:00-05:00",
-   "home": "UNLV",
-   "away": "UT Rio Grande",
-   "dec": 1.174,
-   "american": -575,
+   "home": "E Illinois",
+   "away": "N Illinois",
+   "dec": 1.167,
+   "american": -599,
    "game_model": {
-    "game_id": "401924913",
-    "home": "UNLV",
-    "away": "UT Rio Grande",
+    "game_id": "401920917",
+    "home": "E Illinois",
+    "away": "N Illinois",
     "kickoff": "2026-11-28T15:00:00-05:00",
     "neutral": false,
     "non_d1": null,
-    "proj_home": 80.3,
-    "proj_away": 67.2,
-    "proj_margin": 13.1,
-    "proj_total": 147.5,
-    "home_win_prob": 0.883,
-    "model": "BASE",
-    "slope": 11.33,
-    "matchup_x": 0.89,
-    "home_em": 4.9,
-    "away_em": -6.3,
-    "home_t": 72.0,
-    "away_t": 65.7,
+    "proj_home": 65.7,
+    "proj_away": 79.2,
+    "proj_margin": -13.6,
+    "proj_total": 144.9,
+    "home_win_prob": 0.109,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -2.127,
+    "home_em": -19.2,
+    "away_em": -3.9,
+    "home_t": 67.2,
+    "away_t": 64.3,
     "league_avg": 108.2
    },
    "books": [
     {
      "book": "draftkings",
-     "a": 1.174,
-     "b": 5.25
+     "a": 5.55,
+     "b": 1.16
     },
     {
      "book": "fanduel",
-     "a": 1.172,
-     "b": 5.3
+     "a": 5.5,
+     "b": 1.167
     },
     {
      "book": "pinnacle",
-     "a": 1.169,
-     "b": 5.45
+     "a": 5.79,
+     "b": 1.155
     }
    ],
-   "model_prob": 0.883,
-   "model_edge": 6.58,
+   "model_prob": 0.891,
+   "model_edge": 6.6,
    "model_edge_txt": "+6.6%",
-   "cheat_side": "home",
-   "pinnacle_line": "UNLV -592 / UT Rio Grande +445",
-   "fair_prob": 0.8234,
+   "cheat_side": "away",
+   "pinnacle_line": "E Illinois +479 / N Illinois -645",
+   "fair_prob": 0.8337,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.8234,
-    0.8432
+    0.8337,
+    0.854
    ],
    "devig_all": {
-    "multiplicative": 0.8234,
-    "additive": 0.836,
-    "power": 0.8432
+    "multiplicative": 0.8337,
+    "additive": 0.8465,
+    "power": 0.854
    },
-   "ev_pct": -3.33,
+   "ev_pct": -2.71,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -19.16,
-   "trusted_prob": 0.8291,
+   "kelly_pct": -16.22,
+   "trusted_prob": 0.8383,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.86,
-   "pinn_dec": 1.169
+   "second_ev": -3.47,
+   "pinn_dec": 1.155
   },
   {
    "kind": "ml",
@@ -5246,6 +5246,93 @@
    "tier": "single",
    "second_ev": -1.27,
    "pinn_dec": 3.0
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "UT Rio Grande @ UNLV",
+   "pkey": "401924913",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "UNLV Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "UNLV",
+   "opp": "UT Rio Grande",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/167740873829823",
+   "game_id": "401924913",
+   "kickoff": "2026-11-28T15:00:00-05:00",
+   "home": "UNLV",
+   "away": "UT Rio Grande",
+   "dec": 1.172,
+   "american": -581,
+   "game_model": {
+    "game_id": "401924913",
+    "home": "UNLV",
+    "away": "UT Rio Grande",
+    "kickoff": "2026-11-28T15:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 80.3,
+    "proj_away": 67.2,
+    "proj_margin": 13.1,
+    "proj_total": 147.5,
+    "home_win_prob": 0.883,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.89,
+    "home_em": 4.9,
+    "away_em": -6.3,
+    "home_t": 72.0,
+    "away_t": 65.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.167,
+     "b": 5.4
+    },
+    {
+     "book": "fanduel",
+     "a": 1.172,
+     "b": 5.3
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.169,
+     "b": 5.45
+    }
+   ],
+   "model_prob": 0.883,
+   "model_edge": 6.41,
+   "model_edge_txt": "+6.4%",
+   "cheat_side": "home",
+   "pinnacle_line": "UNLV -592 / UT Rio Grande +445",
+   "fair_prob": 0.8234,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.8234,
+    0.8432
+   ],
+   "devig_all": {
+    "multiplicative": 0.8234,
+    "additive": 0.836,
+    "power": 0.8432
+   },
+   "ev_pct": -3.5,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -20.34,
+   "trusted_prob": 0.8294,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -3.63,
+   "pinn_dec": 1.169
   },
   {
    "kind": "total",
@@ -5421,93 +5508,6 @@
    "tier": "single",
    "second_ev": -1.0,
    "pinn_dec": 1.952
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "N Illinois @ E Illinois",
-   "pkey": "401920917",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "N Illinois Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "N Illinois",
-   "opp": "E Illinois",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/102662631341218",
-   "game_id": "401920917",
-   "kickoff": "2026-11-28T15:00:00-05:00",
-   "home": "E Illinois",
-   "away": "N Illinois",
-   "dec": 1.16,
-   "american": -625,
-   "game_model": {
-    "game_id": "401920917",
-    "home": "E Illinois",
-    "away": "N Illinois",
-    "kickoff": "2026-11-28T15:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 65.7,
-    "proj_away": 79.2,
-    "proj_margin": -13.6,
-    "proj_total": 144.9,
-    "home_win_prob": 0.109,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -2.127,
-    "home_em": -19.2,
-    "away_em": -3.9,
-    "home_t": 67.2,
-    "away_t": 64.3,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 5.55,
-     "b": 1.16
-    },
-    {
-     "book": "fanduel",
-     "a": 5.7,
-     "b": 1.154
-    },
-    {
-     "book": "pinnacle",
-     "a": 5.79,
-     "b": 1.155
-    }
-   ],
-   "model_prob": 0.891,
-   "model_edge": 6.39,
-   "model_edge_txt": "+6.4%",
-   "cheat_side": "away",
-   "pinnacle_line": "E Illinois +479 / N Illinois -645",
-   "fair_prob": 0.8337,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.8337,
-    0.854
-   ],
-   "devig_all": {
-    "multiplicative": 0.8337,
-    "additive": 0.8465,
-    "power": 0.854
-   },
-   "ev_pct": -3.29,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -20.57,
-   "trusted_prob": 0.8394,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -3.53,
-   "pinn_dec": 1.155
   },
   {
    "kind": "ml",
@@ -6042,8 +6042,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.855,
-     "b": 1.962
+     "a": 1.893,
+     "b": 1.926
     },
     {
      "book": "fanduel",
@@ -6083,7 +6083,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.98,
+   "second_ev": -1.92,
    "pinn_dec": 1.962
   },
   {
@@ -6104,8 +6104,8 @@
    "kickoff": "2026-11-28T15:00:00-05:00",
    "home": "UNC Wilmington",
    "away": "Liberty",
-   "dec": 1.926,
-   "american": -108,
+   "dec": 1.87,
+   "american": -115,
    "game_model": {
     "game_id": "401926796",
     "home": "UNC Wilmington",
@@ -6130,13 +6130,13 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.926,
-     "b": 1.893
+     "a": 1.87,
+     "b": 1.943
     },
     {
      "book": "fanduel",
-     "a": 1.893,
-     "b": 1.926
+     "a": 1.833,
+     "b": 1.98
     },
     {
      "book": "pinnacle",
@@ -6162,16 +6162,16 @@
     "additive": 0.5125,
     "power": 0.5128
    },
-   "ev_pct": -1.39,
-   "min_ev": 1.82,
+   "ev_pct": -4.26,
+   "min_ev": 1.64,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -1.5,
-   "trusted_prob": 0.5134,
+   "kelly_pct": -4.89,
+   "trusted_prob": 0.5166,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.87,
+   "second_ev": -2.9,
    "pinn_dec": 1.87
   },
   {
@@ -6564,6 +6564,11 @@
      "b": 1.917
     },
     {
+     "book": "fanduel",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
      "book": "pinnacle",
      "a": 1.962,
      "b": 1.877
@@ -6596,7 +6601,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -4.15,
    "pinn_dec": 1.877
   },
   {
@@ -7412,5 +7417,5 @@
   "ev": 0,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T14:44:10-05:00"
+ "odds_as_of": "2026-11-28T14:54:39-05:00"
 }
