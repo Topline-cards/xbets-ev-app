@@ -224,13 +224,6 @@
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433287.png"
  },
  {
-  "pkey": "brandon williams",
-  "name": "Brandon Williams",
-  "team": "GS",
-  "pos": "PG",
-  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397040.png"
- },
- {
   "pkey": "brayden burries",
   "name": "Brayden Burries",
   "team": "MIL",
@@ -306,6 +299,13 @@
   "team": "DEN",
   "pos": "PF",
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3138196.png"
+ },
+ {
+  "pkey": "carter bryant",
+  "name": "Carter Bryant",
+  "team": "SA",
+  "pos": "PF",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5061568.png"
  },
  {
   "pkey": "cedric coward",
@@ -581,6 +581,13 @@
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png"
  },
  {
+  "pkey": "dominick barlow",
+  "name": "Dominick Barlow",
+  "team": "PHI",
+  "pos": "C",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4870562.png"
+ },
+ {
   "pkey": "donovan clingan",
   "name": "Donovan Clingan",
   "team": "POR",
@@ -726,6 +733,13 @@
   "team": "NO",
   "pos": "SF",
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4277813.png"
+ },
+ {
+  "pkey": "hugo gonzalez",
+  "name": "Hugo Gonzalez",
+  "team": "BOS",
+  "pos": "SG",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5175647.png"
  },
  {
   "pkey": "immanuel quickley",
@@ -1267,13 +1281,6 @@
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5174563.png"
  },
  {
-  "pkey": "lj cryer",
-  "name": "LJ Cryer",
-  "team": "GS",
-  "pos": "PG",
-  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433149.png"
- },
- {
   "pkey": "lamelo ball",
   "name": "LaMelo Ball",
   "team": "MIN",
@@ -1377,6 +1384,13 @@
   "team": "LAL",
   "pos": "SF",
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3907498.png"
+ },
+ {
+  "pkey": "max christie",
+  "name": "Max Christie",
+  "team": "DAL",
+  "pos": "SG",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432582.png"
  },
  {
   "pkey": "max strus",
@@ -1897,13 +1911,6 @@
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431675.png"
  },
  {
-  "pkey": "trevon brazile",
-  "name": "Trevon Brazile",
-  "team": "DEN",
-  "pos": "PF",
-  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4698719.png"
- },
- {
   "pkey": "trey lyles",
   "name": "Trey Lyles",
   "team": "MIN",
@@ -2049,5 +2056,12 @@
   "team": "NO",
   "pos": "PF",
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395628.png"
+ },
+ {
+  "pkey": "zuby ejiofor",
+  "name": "Zuby Ejiofor",
+  "team": "ATL",
+  "pos": "PF",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106262.png"
  }
 ]
