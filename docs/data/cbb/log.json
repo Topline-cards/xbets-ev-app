@@ -33515,6 +33515,36 @@
    "result": null,
    "close_fair_prob": 0.4525,
    "clv_pct": -11.22
+  },
+  "cheat|2026-11-28|401926212|spread|home|-1.5|fanduel": {
+   "mode": "cheat",
+   "kind": "spread",
+   "first_seen": "2026-11-28T12:25:57-05:00",
+   "week": "2026-11-28",
+   "player": "Wofford @ Purdue FW",
+   "title": "Purdue FW -1.5",
+   "pkey": "401926212",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "side": "home",
+   "line": -1.5,
+   "book": "fanduel",
+   "dec": 1.909,
+   "american": -110,
+   "units": 1.0,
+   "ev_pct": null,
+   "fair_prob": null,
+   "kickoff": "2026-11-28T13:00:00-05:00",
+   "team": "Purdue FW",
+   "opp": "Wofford",
+   "game_id": "401926212",
+   "home": "Purdue FW",
+   "away": "Wofford",
+   "tier": null,
+   "fair_source": null,
+   "min_ev": null,
+   "fair_method": null,
+   "result": null
   }
  }
 }
