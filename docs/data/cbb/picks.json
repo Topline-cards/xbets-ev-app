@@ -1,16 +1,17 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T13:29:28-05:00",
+ "generated_at": "2026-11-28T13:30:30-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
- "next_kickoff": "2026-11-28T13:30:00-05:00",
+ "next_kickoff": "2026-11-28T14:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 308,
-  "book_unmatched": 8,
+  "book_game_lines": 305,
+  "book_unmatched": 9,
   "book_unmatched_games": [
    "Davidson @ Florida Atlantic",
+   "Lehigh @ Pepperdine",
    "Loyola Chicago @ UMass",
    "Memphis @ Dayton",
    "SE Missouri St @ UMKC",
@@ -19,8 +20,8 @@
    "Utah State @ New Mexico",
    "Weber State @ CSU Fullerton"
   ],
-  "pinnacle_game_lines": 920,
-  "pinnacle_unmatched": 3,
+  "pinnacle_game_lines": 901,
+  "pinnacle_unmatched": 4,
   "pinnacle_as_of": "2026-11-28T13:18:53-05:00"
  },
  "settings": {
@@ -546,11 +547,6 @@
  },
  "games": [
   {
-   "game_id": "401926757",
-   "label": "Lehigh @ Pepperdine",
-   "kickoff": "2026-11-28T13:30:00-05:00"
-  },
-  {
    "game_id": "401911202",
    "label": "Fordham @ Harvard",
    "kickoff": "2026-11-28T14:00:00-05:00"
@@ -877,27 +873,6 @@
   }
  ],
  "game_model": [
-  {
-   "game_id": "401926757",
-   "home": "Pepperdine",
-   "away": "Lehigh",
-   "kickoff": "2026-11-28T13:30:00-05:00",
-   "neutral": true,
-   "non_d1": null,
-   "proj_home": 83.8,
-   "proj_away": 65.2,
-   "proj_margin": 18.6,
-   "proj_total": 149.1,
-   "home_win_prob": 0.954,
-   "model": "FULL",
-   "slope": 7.78,
-   "matchup_x": 2.386,
-   "home_em": 1.3,
-   "away_em": -7.3,
-   "home_t": 68.9,
-   "away_t": 68.5,
-   "league_avg": 108.2
-  },
   {
    "game_id": "401911202",
    "home": "Harvard",
@@ -4010,88 +3985,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "Lehigh @ Pepperdine",
-   "pkey": "401926757",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Pepperdine Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Pepperdine",
-   "opp": "Lehigh",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/107226357643653",
-   "game_id": "401926757",
-   "kickoff": "2026-11-28T13:30:00-05:00",
-   "home": "Pepperdine",
-   "away": "Lehigh",
-   "dec": 1.167,
-   "american": -599,
-   "game_model": {
-    "game_id": "401926757",
-    "home": "Pepperdine",
-    "away": "Lehigh",
-    "kickoff": "2026-11-28T13:30:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 83.8,
-    "proj_away": 65.2,
-    "proj_margin": 18.6,
-    "proj_total": 149.1,
-    "home_win_prob": 0.954,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 2.386,
-    "home_em": 1.3,
-    "away_em": -7.3,
-    "home_t": 68.9,
-    "away_t": 68.5,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.167,
-     "b": 5.4
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.172,
-     "b": 5.4
-    }
-   ],
-   "model_prob": 0.954,
-   "model_edge": 13.17,
-   "model_edge_txt": "+13.2%",
-   "cheat_side": "home",
-   "pinnacle_line": "Pepperdine -581 / Lehigh +440",
-   "fair_prob": 0.8217,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.8217,
-    0.8411
-   ],
-   "devig_all": {
-    "multiplicative": 0.8217,
-    "additive": 0.834,
-    "power": 0.8411
-   },
-   "ev_pct": -4.11,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -24.62,
-   "trusted_prob": 0.8287,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.172
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "VMI @ Richmond",
    "pkey": "401911242",
    "stat": "ml",
@@ -5745,89 +5638,6 @@
    "tier": "single",
    "second_ev": -1.69,
    "pinn_dec": 2.02
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Lehigh @ Pepperdine",
-   "pkey": "401926757",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Pepperdine -10.5",
-   "line": -10.5,
-   "side": "home",
-   "team": "Pepperdine",
-   "opp": "Lehigh",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/248816786971363",
-   "game_id": "401926757",
-   "kickoff": "2026-11-28T13:30:00-05:00",
-   "home": "Pepperdine",
-   "away": "Lehigh",
-   "dec": 1.862,
-   "american": -116,
-   "game_model": {
-    "game_id": "401926757",
-    "home": "Pepperdine",
-    "away": "Lehigh",
-    "kickoff": "2026-11-28T13:30:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 83.8,
-    "proj_away": 65.2,
-    "proj_margin": 18.6,
-    "proj_total": 149.1,
-    "home_win_prob": 0.954,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 2.386,
-    "home_em": 1.3,
-    "away_em": -7.3,
-    "home_t": 68.9,
-    "away_t": 68.5,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.862,
-     "b": 1.962
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.847,
-     "b": 1.99
-    }
-   ],
-   "model_prob": 0.769,
-   "model_edge": 8.1,
-   "model_edge_txt": "+8.1 pts \u00b7 STRONG",
-   "cheat_side": "home",
-   "cbb_tier": "STRONG",
-   "pinnacle_line": "Pepperdine -10.5 -118 / Lehigh +10.5 -101",
-   "fair_prob": 0.5186,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5186,
-    0.5199
-   ],
-   "devig_all": {
-    "multiplicative": 0.5186,
-    "additive": 0.5195,
-    "power": 0.5199
-   },
-   "ev_pct": -3.43,
-   "min_ev": 1.62,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -3.98,
-   "trusted_prob": 0.5223,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.847
   },
   {
    "kind": "total",
@@ -10114,5 +9924,5 @@
   "ev": 0,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T13:29:28-05:00"
+ "odds_as_of": "2026-11-28T13:30:30-05:00"
 }
