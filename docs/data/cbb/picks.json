@@ -1,13 +1,13 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T10:29:24-05:00",
+ "generated_at": "2026-11-28T10:40:00-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
  "next_kickoff": "2026-11-28T12:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 360,
+  "book_game_lines": 365,
   "book_unmatched": 3,
   "book_unmatched_games": [
    "SE Missouri St @ UMKC",
@@ -2626,13 +2626,119 @@
    "lane_info": {
     "graded": 53,
     "days": 2,
-    "ev_vs_close": -0.4,
+    "ev_vs_close": -0.53,
     "roi_pct": -38.2
    },
    "exp_profit_units": 0.007
   }
  ],
  "ev": [
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "UMass Lowell @ American",
+   "pkey": "401912214",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "UMass Lowell +4.5",
+   "line": -4.5,
+   "side": "away",
+   "team": "UMass Lowell",
+   "opp": "American",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/137883110606157",
+   "game_id": "401912214",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "American",
+   "away": "UMass Lowell",
+   "dec": 1.909,
+   "american": -110,
+   "game_model": {
+    "game_id": "401912214",
+    "home": "American",
+    "away": "UMass Lowell",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.1,
+    "proj_away": 67.7,
+    "proj_margin": 6.4,
+    "proj_total": 141.8,
+    "home_win_prob": 0.72,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.301,
+    "home_em": -0.9,
+    "away_em": -4.7,
+    "home_t": 67.4,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.08,
+     "b": 1.775
+    }
+   ],
+   "model_prob": 0.431,
+   "model_edge": -1.9,
+   "model_edge_txt": "-1.9 pts",
+   "cheat_side": null,
+   "cbb_tier": null,
+   "pinnacle_line": "American -4.5 108 / UMass Lowell +4.5 -129",
+   "fair_prob": 0.5396,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5396,
+    0.5422
+   ],
+   "devig_all": {
+    "multiplicative": 0.5396,
+    "additive": 0.5413,
+    "power": 0.5422
+   },
+   "ev_pct": 3.0,
+   "min_ev": 1.76,
+   "units": 0.25,
+   "base_units": 0.6604655277460337,
+   "kelly_pct": 3.3,
+   "trusted_prob": 0.5364,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.775,
+   "lane": "cbb:spread",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.53,
+    "roi_pct": -38.2
+   },
+   "sizing": {
+    "base": 0.66,
+    "conf": 0.22,
+    "conf_why": [
+     "matchup points the other way",
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 1,
+    "player_bets": 1,
+    "corr": 1.0,
+    "cap": 2.0,
+    "raw": 0.15
+   },
+   "exp_profit_units": 0.007
+  },
   {
    "kind": "total",
    "week": "2026-11-28",
@@ -2719,7 +2825,7 @@
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.24,
+    "ev_vs_close": 0.11,
     "roi_pct": 19.2
    },
    "sizing": {
@@ -2830,7 +2936,7 @@
    "lane_info": {
     "graded": 53,
     "days": 2,
-    "ev_vs_close": -0.4,
+    "ev_vs_close": -0.53,
     "roi_pct": -38.2
    },
    "sizing": {
@@ -2892,6 +2998,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.952,
+     "b": 1.8
+    },
+    {
      "book": "fanduel",
      "a": 1.87,
      "b": 1.952
@@ -2927,29 +3038,28 @@
    "trusted_prob": 0.5228,
    "unit_note": null,
    "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
+   "tier": "prime",
+   "second_ev": 1.55,
    "pinn_dec": 1.806,
    "lane": "cbb:total",
    "lane_status": "testing",
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.24,
+    "ev_vs_close": 0.11,
     "roi_pct": 19.2
    },
    "sizing": {
     "base": 0.54,
-    "conf": 0.38,
+    "conf": 0.5,
     "conf_why": [
-     "one sharp source only",
      "lane still testing"
     ],
     "game_bets": 1,
     "player_bets": 1,
     "corr": 1.0,
     "cap": 2.0,
-    "raw": 0.2
+    "raw": 0.27
    },
    "exp_profit_units": 0.006
   },
@@ -3039,7 +3149,7 @@
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.24,
+    "ev_vs_close": 0.11,
     "roi_pct": 19.2
    },
    "sizing": {
@@ -3390,14 +3500,14 @@
    "side": "away",
    "team": "Le Moyne",
    "opp": "Niagara",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/263974707292937",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/32454594467273",
    "game_id": "401919787",
    "kickoff": "2026-11-28T14:00:00-05:00",
    "home": "Niagara",
    "away": "Le Moyne",
-   "dec": 1.847,
-   "american": -118,
+   "dec": 1.885,
+   "american": -113,
    "game_model": {
     "game_id": "401919787",
     "home": "Niagara",
@@ -3427,8 +3537,8 @@
     },
     {
      "book": "fanduel",
-     "a": 2.0,
-     "b": 1.833
+     "a": 1.943,
+     "b": 1.885
     },
     {
      "book": "pinnacle",
@@ -3437,8 +3547,8 @@
     }
    ],
    "model_prob": 0.842,
-   "model_edge": 32.46,
-   "model_edge_txt": "+32.5%",
+   "model_edge": 33.44,
+   "model_edge_txt": "+33.4%",
    "cheat_side": "away",
    "pinnacle_line": "Niagara -107 / Le Moyne -109",
    "fair_prob": 0.5023,
@@ -3453,16 +3563,16 @@
     "additive": 0.5024,
     "power": 0.5025
    },
-   "ev_pct": -7.22,
-   "min_ev": 1.57,
+   "ev_pct": -5.31,
+   "min_ev": 1.69,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -8.52,
-   "trusted_prob": 0.5102,
+   "kelly_pct": -6.0,
+   "trusted_prob": 0.508,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.63,
+   "second_ev": -2.47,
    "pinn_dec": 1.917
   },
   {
@@ -4773,6 +4883,93 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
+   "player": "Liberty @ UNC Wilmington",
+   "pkey": "401926796",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "UNC Wilmington Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "UNC Wilmington",
+   "opp": "Liberty",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126385401533475",
+   "game_id": "401926796",
+   "kickoff": "2026-11-28T15:00:00-05:00",
+   "home": "UNC Wilmington",
+   "away": "Liberty",
+   "dec": 1.5,
+   "american": -200,
+   "game_model": {
+    "game_id": "401926796",
+    "home": "UNC Wilmington",
+    "away": "Liberty",
+    "kickoff": "2026-11-28T15:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 79.4,
+    "proj_away": 70.1,
+    "proj_margin": 9.3,
+    "proj_total": 149.5,
+    "home_win_prob": 0.802,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.812,
+    "home_em": 4.5,
+    "away_em": 2.5,
+    "home_t": 68.2,
+    "away_t": 65.1,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.488,
+     "b": 2.7
+    },
+    {
+     "book": "fanduel",
+     "a": 1.5,
+     "b": 2.64
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.495,
+     "b": 2.71
+    }
+   ],
+   "model_prob": 0.802,
+   "model_edge": 16.43,
+   "model_edge_txt": "+16.4%",
+   "cheat_side": "home",
+   "pinnacle_line": "UNC Wilmington -202 / Liberty +171",
+   "fair_prob": 0.6445,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.6445,
+    0.6527
+   ],
+   "devig_all": {
+    "multiplicative": 0.6445,
+    "additive": 0.6499,
+    "power": 0.6527
+   },
+   "ev_pct": -3.33,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -6.66,
+   "trusted_prob": 0.6489,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -3.3,
+   "pinn_dec": 1.495
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
    "player": "Rider @ Army",
    "pkey": "401912232",
    "stat": "ml",
@@ -4943,88 +5140,6 @@
    "tier": "single",
    "second_ev": -5.02,
    "pinn_dec": 2.48
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Liberty @ UNC Wilmington",
-   "pkey": "401926796",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "UNC Wilmington Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "UNC Wilmington",
-   "opp": "Liberty",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/21488574442914",
-   "game_id": "401926796",
-   "kickoff": "2026-11-28T15:00:00-05:00",
-   "home": "UNC Wilmington",
-   "away": "Liberty",
-   "dec": 1.459,
-   "american": -218,
-   "game_model": {
-    "game_id": "401926796",
-    "home": "UNC Wilmington",
-    "away": "Liberty",
-    "kickoff": "2026-11-28T15:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 79.4,
-    "proj_away": 70.1,
-    "proj_margin": 9.3,
-    "proj_total": 149.5,
-    "home_win_prob": 0.802,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.812,
-    "home_em": 4.5,
-    "away_em": 2.5,
-    "home_t": 68.2,
-    "away_t": 65.1,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.459,
-     "b": 2.8
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.495,
-     "b": 2.71
-    }
-   ],
-   "model_prob": 0.802,
-   "model_edge": 14.46,
-   "model_edge_txt": "+14.5%",
-   "cheat_side": "home",
-   "pinnacle_line": "UNC Wilmington -202 / Liberty +171",
-   "fair_prob": 0.6445,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6445,
-    0.6527
-   ],
-   "devig_all": {
-    "multiplicative": 0.6445,
-    "additive": 0.6499,
-    "power": 0.6527
-   },
-   "ev_pct": -5.97,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -13.01,
-   "trusted_prob": 0.6527,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.495
   },
   {
    "kind": "ml",
@@ -5716,6 +5831,93 @@
    "pinn_dec": 1.474
   },
   {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "UMass Lowell @ American",
+   "pkey": "401912214",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "American Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "American",
+   "opp": "UMass Lowell",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/49597646373375",
+   "game_id": "401912214",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "American",
+   "away": "UMass Lowell",
+   "dec": 1.556,
+   "american": -180,
+   "game_model": {
+    "game_id": "401912214",
+    "home": "American",
+    "away": "UMass Lowell",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.1,
+    "proj_away": 67.7,
+    "proj_margin": 6.4,
+    "proj_total": 141.8,
+    "home_win_prob": 0.72,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.301,
+    "home_em": -0.9,
+    "away_em": -4.7,
+    "home_t": 67.4,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.556,
+     "b": 2.5
+    },
+    {
+     "book": "fanduel",
+     "a": 1.532,
+     "b": 2.58
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.556,
+     "b": 2.53
+    }
+   ],
+   "model_prob": 0.72,
+   "model_edge": 10.36,
+   "model_edge_txt": "+10.4%",
+   "cheat_side": "home",
+   "pinnacle_line": "American -180 / UMass Lowell +153",
+   "fair_prob": 0.6192,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.6192,
+    0.626
+   ],
+   "devig_all": {
+    "multiplicative": 0.6192,
+    "additive": 0.6237,
+    "power": 0.626
+   },
+   "ev_pct": -3.65,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -6.57,
+   "trusted_prob": 0.6239,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.37,
+   "pinn_dec": 1.556
+  },
+  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "Tennessee Tech @ E Kentucky",
@@ -5885,88 +6087,6 @@
    "tier": "single",
    "second_ev": -2.39,
    "pinn_dec": 2.03
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "UMass Lowell @ American",
-   "pkey": "401912214",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "American Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "American",
-   "opp": "UMass Lowell",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/49597646373375",
-   "game_id": "401912214",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "American",
-   "away": "UMass Lowell",
-   "dec": 1.541,
-   "american": -185,
-   "game_model": {
-    "game_id": "401912214",
-    "home": "American",
-    "away": "UMass Lowell",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.1,
-    "proj_away": 67.7,
-    "proj_margin": 6.4,
-    "proj_total": 141.8,
-    "home_win_prob": 0.72,
-    "model": "BASE",
-    "slope": 11.33,
-    "matchup_x": 0.301,
-    "home_em": -0.9,
-    "away_em": -4.7,
-    "home_t": 67.4,
-    "away_t": 69.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.541,
-     "b": 2.54
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.556,
-     "b": 2.53
-    }
-   ],
-   "model_prob": 0.72,
-   "model_edge": 9.76,
-   "model_edge_txt": "+9.8%",
-   "cheat_side": "home",
-   "pinnacle_line": "American -180 / UMass Lowell +153",
-   "fair_prob": 0.6192,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6192,
-    0.626
-   ],
-   "devig_all": {
-    "multiplicative": 0.6192,
-    "additive": 0.6237,
-    "power": 0.626
-   },
-   "ev_pct": -4.58,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -8.47,
-   "trusted_prob": 0.6251,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.556
   },
   {
    "kind": "spread",
@@ -6192,8 +6312,8 @@
     },
     {
      "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
+     "a": 1.847,
+     "b": 1.962
     },
     {
      "book": "pinnacle",
@@ -6227,8 +6347,8 @@
    "trusted_prob": 0.4785,
    "unit_note": null,
    "edge_trust": 0.8,
-   "tier": "prime",
-   "second_ev": 0.0,
+   "tier": "single",
+   "second_ev": -3.25,
    "pinn_dec": 2.02
   },
   {
@@ -6331,14 +6451,14 @@
    "side": "home",
    "team": "Georgia Tech",
    "opp": "Alcorn St",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/154953442022400",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/246194854084947",
    "game_id": "401920310",
    "kickoff": "2026-11-28T13:00:00-05:00",
    "home": "Georgia Tech",
    "away": "Alcorn St",
-   "dec": 1.893,
-   "american": -112,
+   "dec": 1.833,
+   "american": -120,
    "game_model": {
     "game_id": "401920310",
     "home": "Georgia Tech",
@@ -6361,11 +6481,6 @@
     "league_avg": 108.2
    },
    "books": [
-    {
-     "book": "draftkings",
-     "a": 1.893,
-     "b": 1.926
-    },
     {
      "book": "fanduel",
      "a": 1.833,
@@ -6395,16 +6510,16 @@
     "additive": 0.5284,
     "power": 0.529
    },
-   "ev_pct": -0.19,
-   "min_ev": 1.71,
+   "ev_pct": -3.35,
+   "min_ev": 1.52,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -0.21,
-   "trusted_prob": 0.5275,
+   "kelly_pct": -4.02,
+   "trusted_prob": 0.5309,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.7,
+   "second_ev": null,
    "pinn_dec": 1.82
   },
   {
@@ -7552,6 +7667,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.083,
+     "b": 8.5
+    },
+    {
      "book": "fanduel",
      "a": 1.095,
      "b": 8.2
@@ -7588,7 +7708,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -2.87,
    "pinn_dec": 1.086
   },
   {
@@ -8128,14 +8248,14 @@
    "side": "away",
    "team": "SC State",
    "opp": "Duquesne",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/206655737035790",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/128343430991429",
    "game_id": "401925783",
    "kickoff": "2026-11-28T19:30:00-05:00",
    "home": "Duquesne",
    "away": "SC State",
-   "dec": 1.909,
-   "american": -110,
+   "dec": 1.893,
+   "american": -112,
    "game_model": {
     "game_id": "401925783",
     "home": "Duquesne",
@@ -8164,11 +8284,6 @@
      "b": 1.893
     },
     {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
      "book": "pinnacle",
      "a": 1.971,
      "b": 1.87
@@ -8192,104 +8307,17 @@
     "additive": 0.5137,
     "power": 0.514
    },
-   "ev_pct": -2.04,
-   "min_ev": 1.76,
+   "ev_pct": -2.86,
+   "min_ev": 1.71,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.24,
-   "trusted_prob": 0.5153,
+   "kelly_pct": -3.2,
+   "trusted_prob": 0.5162,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.73,
+   "second_ev": null,
    "pinn_dec": 1.87
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Vermont @ Colgate",
-   "pkey": "401920775",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Vermont Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "Vermont",
-   "opp": "Colgate",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/166477629917078",
-   "game_id": "401920775",
-   "kickoff": "2026-11-28T13:00:00-05:00",
-   "home": "Colgate",
-   "away": "Vermont",
-   "dec": 2.45,
-   "american": 145,
-   "game_model": {
-    "game_id": "401920775",
-    "home": "Colgate",
-    "away": "Vermont",
-    "kickoff": "2026-11-28T13:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 72.3,
-    "proj_away": 71.1,
-    "proj_margin": 1.3,
-    "proj_total": 143.4,
-    "home_win_prob": 0.547,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.166,
-    "home_em": -1.6,
-    "away_em": -4.3,
-    "home_t": 67.7,
-    "away_t": 64.1,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.571,
-     "b": 2.45
-    },
-    {
-     "book": "fanduel",
-     "a": 1.658,
-     "b": 2.28
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.581,
-     "b": 2.46
-    }
-   ],
-   "model_prob": 0.453,
-   "model_edge": 6.23,
-   "model_edge_txt": "+6.2%",
-   "cheat_side": "away",
-   "pinnacle_line": "Colgate -172 / Vermont +146",
-   "fair_prob": 0.3849,
-   "fair_method": "power",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.3849,
-    0.3912
-   ],
-   "devig_all": {
-    "multiplicative": 0.3912,
-    "additive": 0.387,
-    "power": 0.3849
-   },
-   "ev_pct": -5.71,
-   "min_ev": 3.67,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -3.94,
-   "trusted_prob": 0.3895,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "prime",
-   "second_ev": 1.94,
-   "pinn_dec": 2.46
   },
   {
    "kind": "spread",
@@ -8770,6 +8798,88 @@
    "tier": "single",
    "second_ev": null,
    "pinn_dec": 1.893
+  },
+  {
+   "kind": "total",
+   "week": "2026-11-28",
+   "player": "GA Southern @ UNC Asheville",
+   "pkey": "401921031",
+   "stat": "total",
+   "stat_label": "Total",
+   "title": "Under 158.5",
+   "line": 158.5,
+   "side": "under",
+   "team": null,
+   "opp": null,
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/171290469615637",
+   "game_id": "401921031",
+   "kickoff": "2026-11-28T14:00:00-05:00",
+   "home": "UNC Asheville",
+   "away": "GA Southern",
+   "dec": 1.87,
+   "american": -115,
+   "game_model": {
+    "game_id": "401921031",
+    "home": "UNC Asheville",
+    "away": "GA Southern",
+    "kickoff": "2026-11-28T14:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 76.0,
+    "proj_away": 77.1,
+    "proj_margin": -1.1,
+    "proj_total": 153.0,
+    "home_win_prob": 0.458,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -0.533,
+    "home_em": -11.8,
+    "away_em": -9.9,
+    "home_t": 68.7,
+    "away_t": 71.8,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.952,
+     "b": 1.87
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.02,
+     "b": 1.794
+    }
+   ],
+   "model_prob": 0.643,
+   "model_edge": 5.5,
+   "model_edge_txt": "+5.5 pts",
+   "cheat_side": "under",
+   "pinnacle_line": "158.5 o102/u-126",
+   "fair_prob": 0.5296,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5296,
+    0.532
+   ],
+   "devig_all": {
+    "multiplicative": 0.5296,
+    "additive": 0.5312,
+    "power": 0.532
+   },
+   "ev_pct": -0.96,
+   "min_ev": 1.64,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -1.1,
+   "trusted_prob": 0.5307,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.794
   },
   {
    "kind": "total",
@@ -9439,93 +9549,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "Bethune @ San Francisco",
-   "pkey": "401921065",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "San Francisco Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "San Francisco",
-   "opp": "Bethune",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/2848259391477",
-   "game_id": "401921065",
-   "kickoff": "2026-11-28T19:00:00-05:00",
-   "home": "San Francisco",
-   "away": "Bethune",
-   "dec": 1.208,
-   "american": -481,
-   "game_model": {
-    "game_id": "401921065",
-    "home": "San Francisco",
-    "away": "Bethune",
-    "kickoff": "2026-11-28T19:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 79.1,
-    "proj_away": 68.0,
-    "proj_margin": 11.1,
-    "proj_total": 147.2,
-    "home_win_prob": 0.844,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.041,
-    "home_em": -1.7,
-    "away_em": -0.8,
-    "home_t": 67.8,
-    "away_t": 70.0,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.187,
-     "b": 5.0
-    },
-    {
-     "book": "fanduel",
-     "a": 1.208,
-     "b": 4.65
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.176,
-     "b": 5.29
-    }
-   ],
-   "model_prob": 0.844,
-   "model_edge": 5.02,
-   "model_edge_txt": "+5.0%",
-   "cheat_side": "home",
-   "pinnacle_line": "San Francisco -568 / Bethune +429",
-   "fair_prob": 0.8181,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.8181,
-    0.8378
-   ],
-   "devig_all": {
-    "multiplicative": 0.8181,
-    "additive": 0.8307,
-    "power": 0.8378
-   },
-   "ev_pct": -1.17,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -5.63,
-   "trusted_prob": 0.8201,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -2.38,
-   "pinn_dec": 1.176
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "Delaware St @ NC A&T",
    "pkey": "401921158",
    "stat": "ml",
@@ -9611,64 +9634,6 @@
    "pinn_dec": 1.165
   },
   {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "SC State @ Duquesne",
-   "pkey": "401925783",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "SC State Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "SC State",
-   "opp": "Duquesne",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/174404045734462",
-   "game_id": "401925783",
-   "kickoff": "2026-11-28T19:30:00-05:00",
-   "home": "Duquesne",
-   "away": "SC State",
-   "dec": 15.0,
-   "american": 1400,
-   "game_model": {
-    "game_id": "401925783",
-    "home": "Duquesne",
-    "away": "SC State",
-    "kickoff": "2026-11-28T19:30:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 79.7,
-    "proj_away": 66.4,
-    "proj_margin": 13.2,
-    "proj_total": 146.1,
-    "home_win_prob": 0.886,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.316,
-    "home_em": 2.2,
-    "away_em": -14.7,
-    "home_t": 66.5,
-    "away_t": 71.3,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.036,
-     "b": 14.0
-    },
-    {
-     "book": "fanduel",
-     "a": 1.025,
-     "b": 15.0
-    }
-   ],
-   "model_prob": 0.114,
-   "model_edge": 5.0,
-   "model_edge_txt": "+5.0%",
-   "cheat_side": "away"
-  },
-  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "North Florida @ Columbia",
@@ -9711,6 +9676,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.926,
+     "b": 1.901
+    },
+    {
      "book": "fanduel",
      "a": 1.943,
      "b": 1.877
@@ -9748,7 +9718,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -3.53,
    "pinn_dec": 1.962
   },
   {
@@ -9799,6 +9769,11 @@
      "b": 1.901
     },
     {
+     "book": "fanduel",
+     "a": 1.893,
+     "b": 1.926
+    },
+    {
      "book": "pinnacle",
      "a": 1.935,
      "b": 1.917
@@ -9831,7 +9806,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -3.32,
    "pinn_dec": 1.935
   },
   {
@@ -10409,6 +10384,89 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "Vermont @ Colgate",
+   "pkey": "401920775",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Vermont +4.5",
+   "line": -4.5,
+   "side": "away",
+   "team": "Vermont",
+   "opp": "Colgate",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/167868714223020",
+   "game_id": "401920775",
+   "kickoff": "2026-11-28T13:00:00-05:00",
+   "home": "Colgate",
+   "away": "Vermont",
+   "dec": 1.758,
+   "american": -132,
+   "game_model": {
+    "game_id": "401920775",
+    "home": "Colgate",
+    "away": "Vermont",
+    "kickoff": "2026-11-28T13:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 72.3,
+    "proj_away": 71.1,
+    "proj_margin": 1.3,
+    "proj_total": 143.4,
+    "home_win_prob": 0.547,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.166,
+    "home_em": -1.6,
+    "away_em": -4.3,
+    "home_t": 67.7,
+    "away_t": 64.1,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.971,
+     "b": 1.758
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.1,
+     "b": 1.763
+    }
+   ],
+   "model_prob": 0.614,
+   "model_edge": 3.2,
+   "model_edge_txt": "+3.2 pts \u00b7 GOOD",
+   "cheat_side": "away",
+   "cbb_tier": "GOOD",
+   "pinnacle_line": "Colgate -4.5 110 / Vermont +4.5 -131",
+   "fair_prob": 0.5436,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5436,
+    0.5465
+   ],
+   "devig_all": {
+    "multiplicative": 0.5436,
+    "additive": 0.5455,
+    "power": 0.5465
+   },
+   "ev_pct": -4.43,
+   "min_ev": 1.29,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -5.85,
+   "trusted_prob": 0.5487,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.763
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "N Illinois @ E Illinois",
    "pkey": "401920917",
    "stat": "spread",
@@ -10839,60 +10897,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "Weber St @ Fullerton",
-   "pkey": "401920160",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Fullerton -9.5",
-   "line": -9.5,
-   "side": "home",
-   "team": "Fullerton",
-   "opp": "Weber St",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/195231925310385",
-   "game_id": "401920160",
-   "kickoff": "2026-11-28T17:00:00-05:00",
-   "home": "Fullerton",
-   "away": "Weber St",
-   "dec": 1.855,
-   "american": -117,
-   "game_model": {
-    "game_id": "401920160",
-    "home": "Fullerton",
-    "away": "Weber St",
-    "kickoff": "2026-11-28T17:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 88.4,
-    "proj_away": 76.1,
-    "proj_margin": 12.3,
-    "proj_total": 164.5,
-    "home_win_prob": 0.868,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.194,
-    "home_em": -0.0,
-    "away_em": -14.2,
-    "home_t": 72.7,
-    "away_t": 71.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.855,
-     "b": 1.962
-    }
-   ],
-   "model_prob": 0.6,
-   "model_edge": 2.8,
-   "model_edge_txt": "+2.8 pts \u00b7 LEAN",
-   "cheat_side": "home",
-   "cbb_tier": "LEAN"
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "Brown @ Air Force",
    "pkey": "401911312",
    "stat": "spread",
@@ -10977,6 +10981,89 @@
    "tier": "single",
    "second_ev": -2.85,
    "pinn_dec": 1.962
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "GA Southern @ UNC Asheville",
+   "pkey": "401921031",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "GA Southern +1.5",
+   "line": -1.5,
+   "side": "away",
+   "team": "GA Southern",
+   "opp": "UNC Asheville",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/1331766347685",
+   "game_id": "401921031",
+   "kickoff": "2026-11-28T14:00:00-05:00",
+   "home": "UNC Asheville",
+   "away": "GA Southern",
+   "dec": 1.82,
+   "american": -122,
+   "game_model": {
+    "game_id": "401921031",
+    "home": "UNC Asheville",
+    "away": "GA Southern",
+    "kickoff": "2026-11-28T14:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 76.0,
+    "proj_away": 77.1,
+    "proj_margin": -1.1,
+    "proj_total": 153.0,
+    "home_win_prob": 0.458,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -0.533,
+    "home_em": -11.8,
+    "away_em": -9.9,
+    "home_t": 68.7,
+    "away_t": 71.8,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 2.0,
+     "b": 1.82
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.07,
+     "b": 1.787
+    }
+   ],
+   "model_prob": 0.593,
+   "model_edge": 2.6,
+   "model_edge_txt": "+2.6 pts \u00b7 LEAN",
+   "cheat_side": "away",
+   "cbb_tier": "LEAN",
+   "pinnacle_line": "UNC Asheville -1.5 107 / GA Southern +1.5 -127",
+   "fair_prob": 0.5367,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5367,
+    0.539
+   ],
+   "devig_all": {
+    "multiplicative": 0.5367,
+    "additive": 0.5383,
+    "power": 0.539
+   },
+   "ev_pct": -2.32,
+   "min_ev": 1.48,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -2.83,
+   "trusted_prob": 0.5392,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.787
   },
   {
    "kind": "spread",
@@ -11198,8 +11285,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.82,
-     "b": 2.01
+     "a": 1.787,
+     "b": 2.05
     },
     {
      "book": "fanduel",
@@ -11239,7 +11326,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.07,
+   "second_ev": -1.32,
    "pinn_dec": 1.833
   },
   {
@@ -11329,94 +11416,6 @@
    "tier": "single",
    "second_ev": -0.14,
    "pinn_dec": 1.909
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Vermont @ Colgate",
-   "pkey": "401920775",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Vermont +3.5",
-   "line": -3.5,
-   "side": "away",
-   "team": "Vermont",
-   "opp": "Colgate",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/120139508917814",
-   "game_id": "401920775",
-   "kickoff": "2026-11-28T13:00:00-05:00",
-   "home": "Colgate",
-   "away": "Vermont",
-   "dec": 1.952,
-   "american": -105,
-   "game_model": {
-    "game_id": "401920775",
-    "home": "Colgate",
-    "away": "Vermont",
-    "kickoff": "2026-11-28T13:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 72.3,
-    "proj_away": 71.1,
-    "proj_margin": 1.3,
-    "proj_total": 143.4,
-    "home_win_prob": 0.547,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.166,
-    "home_em": -1.6,
-    "away_em": -4.3,
-    "home_t": 67.7,
-    "away_t": 64.1,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.87,
-     "b": 1.952
-    },
-    {
-     "book": "fanduel",
-     "a": 1.952,
-     "b": 1.87
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.909,
-     "b": 1.943
-    }
-   ],
-   "model_prob": 0.579,
-   "model_edge": 2.2,
-   "model_edge_txt": "+2.2 pts \u00b7 LEAN",
-   "cheat_side": "away",
-   "cbb_tier": "LEAN",
-   "pinnacle_line": "Colgate -3.5 -110 / Vermont +3.5 -106",
-   "fair_prob": 0.4953,
-   "fair_method": "power",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.4953,
-    0.4956
-   ],
-   "devig_all": {
-    "multiplicative": 0.4956,
-    "additive": 0.4954,
-    "power": 0.4953
-   },
-   "ev_pct": -3.31,
-   "min_ev": 1.9,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -3.48,
-   "trusted_prob": 0.4987,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -0.31,
-   "pinn_dec": 1.943
   },
   {
    "kind": "spread",
@@ -11675,6 +11674,60 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "Weber St @ Fullerton",
+   "pkey": "401920160",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Fullerton -10.5",
+   "line": -10.5,
+   "side": "home",
+   "team": "Fullerton",
+   "opp": "Weber St",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/163018991696738",
+   "game_id": "401920160",
+   "kickoff": "2026-11-28T17:00:00-05:00",
+   "home": "Fullerton",
+   "away": "Weber St",
+   "dec": 1.917,
+   "american": -109,
+   "game_model": {
+    "game_id": "401920160",
+    "home": "Fullerton",
+    "away": "Weber St",
+    "kickoff": "2026-11-28T17:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 88.4,
+    "proj_away": 76.1,
+    "proj_margin": 12.3,
+    "proj_total": 164.5,
+    "home_win_prob": 0.868,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.194,
+    "home_em": -0.0,
+    "away_em": -14.2,
+    "home_t": 72.7,
+    "away_t": 71.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.917,
+     "b": 1.901
+    }
+   ],
+   "model_prob": 0.565,
+   "model_edge": 1.8,
+   "model_edge_txt": "+1.8 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN"
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "Creighton @ Louisville",
    "pkey": "401920536",
    "stat": "spread",
@@ -11851,8 +11904,8 @@
  ],
  "matchups": [],
  "slate_units": {
-  "ev": 1.0,
+  "ev": 1.25,
   "combined": 0.25
  },
- "odds_as_of": "2026-11-28T10:29:24-05:00"
+ "odds_as_of": "2026-11-28T10:40:00-05:00"
 }
