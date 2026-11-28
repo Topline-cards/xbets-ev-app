@@ -1,13 +1,13 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T08:00:00-05:00",
+ "generated_at": "2026-11-28T08:01:05-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
  "next_kickoff": "2026-11-28T12:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 362,
+  "book_game_lines": 359,
   "book_unmatched": 3,
   "book_unmatched_games": [
    "SE Missouri St @ UMKC",
@@ -2519,326 +2519,8 @@
    "league_avg": 108.2
   }
  ],
- "combined": [
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Stony Brook -5.5",
-   "line": -5.5,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/245065429840698",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.909,
-   "american": -110,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.758,
-     "b": 2.11
-    }
-   ],
-   "model_prob": 0.635,
-   "model_edge": 3.8,
-   "model_edge_txt": "+3.8 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Stony Brook -5.5 -132 / Delaware +5.5 111",
-   "fair_prob": 0.5455,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5455,
-    0.5484
-   ],
-   "devig_all": {
-    "multiplicative": 0.5455,
-    "additive": 0.5474,
-    "power": 0.5484
-   },
-   "ev_pct": 4.14,
-   "min_ev": 1.76,
-   "units": 0.25,
-   "base_units": 0.9100651533612553,
-   "kelly_pct": 4.55,
-   "trusted_prob": 0.5412,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.758,
-   "sizing": {
-    "base": 0.91,
-    "conf": 0.47,
-    "conf_why": [
-     "cheat sheet agrees",
-     "one sharp source only",
-     "lane still testing"
-    ],
-    "game_bets": 2,
-    "player_bets": 1,
-    "corr": 0.71,
-    "cap": 2.0,
-    "raw": 0.3
-   },
-   "lane": "cbb:spread",
-   "lane_status": "testing",
-   "lane_info": {
-    "graded": 27,
-    "days": 1,
-    "ev_vs_close": -0.39,
-    "roi_pct": -43.9
-   },
-   "exp_profit_units": 0.01
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Stony Brook Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/252161482125766",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.455,
-   "american": -220,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.455,
-     "b": 2.84
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.385,
-     "b": 3.16
-    }
-   ],
-   "model_prob": 0.8,
-   "model_edge": 13.88,
-   "model_edge_txt": "+13.9%",
-   "cheat_side": "home",
-   "pinnacle_line": "Stony Brook -260 / Delaware +216",
-   "fair_prob": 0.6953,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6953,
-    0.7067
-   ],
-   "devig_all": {
-    "multiplicative": 0.6953,
-    "additive": 0.7028,
-    "power": 0.7067
-   },
-   "ev_pct": 1.16,
-   "min_ev": 1.0,
-   "units": 0.25,
-   "base_units": 0.5106444710405181,
-   "kelly_pct": 2.55,
-   "trusted_prob": 0.6937,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.385,
-   "sizing": {
-    "base": 0.51,
-    "conf": 0.47,
-    "conf_why": [
-     "cheat sheet agrees",
-     "one sharp source only",
-     "lane still testing"
-    ],
-    "game_bets": 2,
-    "player_bets": 1,
-    "corr": 0.71,
-    "cap": 2.0,
-    "raw": 0.17
-   },
-   "lane": "cbb:ml",
-   "lane_status": "testing",
-   "lane_info": {
-    "graded": 5,
-    "days": 1,
-    "ev_vs_close": 0.45,
-    "roi_pct": -44.7
-   },
-   "exp_profit_units": 0.003
-  }
- ],
+ "combined": [],
  "ev": [
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Stony Brook -5.5",
-   "line": -5.5,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/245065429840698",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.909,
-   "american": -110,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.758,
-     "b": 2.11
-    }
-   ],
-   "model_prob": 0.635,
-   "model_edge": 3.8,
-   "model_edge_txt": "+3.8 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Stony Brook -5.5 -132 / Delaware +5.5 111",
-   "fair_prob": 0.5455,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5455,
-    0.5484
-   ],
-   "devig_all": {
-    "multiplicative": 0.5455,
-    "additive": 0.5474,
-    "power": 0.5484
-   },
-   "ev_pct": 4.14,
-   "min_ev": 1.76,
-   "units": 0.25,
-   "base_units": 0.9100651533612553,
-   "kelly_pct": 4.55,
-   "trusted_prob": 0.5412,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.758,
-   "lane": "cbb:spread",
-   "lane_status": "testing",
-   "lane_info": {
-    "graded": 27,
-    "days": 1,
-    "ev_vs_close": -0.39,
-    "roi_pct": -43.9
-   },
-   "sizing": {
-    "base": 0.91,
-    "conf": 0.47,
-    "conf_why": [
-     "cheat sheet agrees",
-     "one sharp source only",
-     "lane still testing"
-    ],
-    "game_bets": 2,
-    "player_bets": 1,
-    "corr": 0.71,
-    "cap": 2.0,
-    "raw": 0.3
-   },
-   "exp_profit_units": 0.01
-  },
   {
    "kind": "spread",
    "week": "2026-11-28",
@@ -2924,10 +2606,10 @@
    "lane": "cbb:spread",
    "lane_status": "testing",
    "lane_info": {
-    "graded": 27,
-    "days": 1,
-    "ev_vs_close": -0.39,
-    "roi_pct": -43.9
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.26,
+    "roi_pct": -38.2
    },
    "sizing": {
     "base": 0.54,
@@ -2944,111 +2626,6 @@
     "raw": 0.12
    },
    "exp_profit_units": 0.006
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Stony Brook Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/252161482125766",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.455,
-   "american": -220,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.455,
-     "b": 2.84
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.385,
-     "b": 3.16
-    }
-   ],
-   "model_prob": 0.8,
-   "model_edge": 13.88,
-   "model_edge_txt": "+13.9%",
-   "cheat_side": "home",
-   "pinnacle_line": "Stony Brook -260 / Delaware +216",
-   "fair_prob": 0.6953,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6953,
-    0.7067
-   ],
-   "devig_all": {
-    "multiplicative": 0.6953,
-    "additive": 0.7028,
-    "power": 0.7067
-   },
-   "ev_pct": 1.16,
-   "min_ev": 1.0,
-   "units": 0.25,
-   "base_units": 0.5106444710405181,
-   "kelly_pct": 2.55,
-   "trusted_prob": 0.6937,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.385,
-   "lane": "cbb:ml",
-   "lane_status": "testing",
-   "lane_info": {
-    "graded": 5,
-    "days": 1,
-    "ev_vs_close": 0.45,
-    "roi_pct": -44.7
-   },
-   "sizing": {
-    "base": 0.51,
-    "conf": 0.47,
-    "conf_why": [
-     "cheat sheet agrees",
-     "one sharp source only",
-     "lane still testing"
-    ],
-    "game_bets": 2,
-    "player_bets": 1,
-    "corr": 0.71,
-    "cap": 2.0,
-    "raw": 0.17
-   },
-   "exp_profit_units": 0.003
   }
  ],
  "cheat": [
@@ -4737,88 +4314,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Stony Brook Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/252161482125766",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.455,
-   "american": -220,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.455,
-     "b": 2.84
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.385,
-     "b": 3.16
-    }
-   ],
-   "model_prob": 0.8,
-   "model_edge": 13.88,
-   "model_edge_txt": "+13.9%",
-   "cheat_side": "home",
-   "pinnacle_line": "Stony Brook -260 / Delaware +216",
-   "fair_prob": 0.6953,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6953,
-    0.7067
-   ],
-   "devig_all": {
-    "multiplicative": 0.6953,
-    "additive": 0.7028,
-    "power": 0.7067
-   },
-   "ev_pct": 1.16,
-   "min_ev": 1.0,
-   "units": 0.5106444710405181,
-   "base_units": 0.5106444710405181,
-   "kelly_pct": 2.55,
-   "trusted_prob": 0.6937,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.385
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "VMI @ Richmond",
    "pkey": "401911242",
    "stat": "ml",
@@ -5218,6 +4713,88 @@
    "tier": "single",
    "second_ev": null,
    "pinn_dec": 2.01
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "Delaware @ Stony Brook",
+   "pkey": "401920906",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Stony Brook Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Stony Brook",
+   "opp": "Delaware",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/262625453091073",
+   "game_id": "401920906",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Stony Brook",
+   "away": "Delaware",
+   "dec": 1.4,
+   "american": -250,
+   "game_model": {
+    "game_id": "401920906",
+    "home": "Stony Brook",
+    "away": "Delaware",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.2,
+    "proj_away": 65.0,
+    "proj_margin": 9.3,
+    "proj_total": 139.2,
+    "home_win_prob": 0.8,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.804,
+    "home_em": -6.1,
+    "away_em": -6.1,
+    "home_t": 66.3,
+    "away_t": 66.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.4,
+     "b": 3.05
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.385,
+     "b": 3.16
+    }
+   ],
+   "model_prob": 0.8,
+   "model_edge": 11.46,
+   "model_edge_txt": "+11.5%",
+   "cheat_side": "home",
+   "pinnacle_line": "Stony Brook -260 / Delaware +216",
+   "fair_prob": 0.6953,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.6953,
+    0.7067
+   ],
+   "devig_all": {
+    "multiplicative": 0.6953,
+    "additive": 0.7028,
+    "power": 0.7067
+   },
+   "ev_pct": -2.66,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -6.66,
+   "trusted_prob": 0.6991,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.385
   },
   {
    "kind": "spread",
@@ -7320,64 +6897,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "Drexel @ Mount St Marys",
-   "pkey": "401920924",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Drexel Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "Drexel",
-   "opp": "Mount St Marys",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/280626472301618",
-   "game_id": "401920924",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Mount St Marys",
-   "away": "Drexel",
-   "dec": 1.488,
-   "american": -205,
-   "game_model": {
-    "game_id": "401920924",
-    "home": "Mount St Marys",
-    "away": "Drexel",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 67.4,
-    "proj_away": 73.2,
-    "proj_margin": -5.8,
-    "proj_total": 140.5,
-    "home_win_prob": 0.299,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -1.131,
-    "home_em": -16.3,
-    "away_em": -6.4,
-    "home_t": 69.1,
-    "away_t": 65.8,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 2.7,
-     "b": 1.488
-    },
-    {
-     "book": "fanduel",
-     "a": 2.68,
-     "b": 1.488
-    }
-   ],
-   "model_prob": 0.701,
-   "model_edge": 5.8,
-   "model_edge_txt": "+5.8%",
-   "cheat_side": "away"
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "SC State @ Duquesne",
    "pkey": "401925783",
    "stat": "ml",
@@ -7491,6 +7010,59 @@
    "model_edge_txt": "+5.7 pts \u00b7 GOOD",
    "cheat_side": "home",
    "cbb_tier": "GOOD"
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "Drexel @ Mount St Marys",
+   "pkey": "401920924",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Drexel Moneyline",
+   "line": null,
+   "side": "away",
+   "team": "Drexel",
+   "opp": "Mount St Marys",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/238856508798467",
+   "game_id": "401920924",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Mount St Marys",
+   "away": "Drexel",
+   "dec": 1.488,
+   "american": -205,
+   "game_model": {
+    "game_id": "401920924",
+    "home": "Mount St Marys",
+    "away": "Drexel",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 67.4,
+    "proj_away": 73.2,
+    "proj_margin": -5.8,
+    "proj_total": 140.5,
+    "home_win_prob": 0.299,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -1.131,
+    "home_em": -16.3,
+    "away_em": -6.4,
+    "home_t": 69.1,
+    "away_t": 65.8,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 2.7,
+     "b": 1.488
+    }
+   ],
+   "model_prob": 0.701,
+   "model_edge": 5.63,
+   "model_edge_txt": "+5.6%",
+   "cheat_side": "away"
   },
   {
    "kind": "ml",
@@ -8274,89 +7846,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Stony Brook -5.5",
-   "line": -5.5,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/245065429840698",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.909,
-   "american": -110,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.758,
-     "b": 2.11
-    }
-   ],
-   "model_prob": 0.635,
-   "model_edge": 3.8,
-   "model_edge_txt": "+3.8 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Stony Brook -5.5 -132 / Delaware +5.5 111",
-   "fair_prob": 0.5455,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5455,
-    0.5484
-   ],
-   "devig_all": {
-    "multiplicative": 0.5455,
-    "additive": 0.5474,
-    "power": 0.5484
-   },
-   "ev_pct": 4.14,
-   "min_ev": 1.76,
-   "units": 0.9100651533612553,
-   "base_units": 0.9100651533612553,
-   "kelly_pct": 4.55,
-   "trusted_prob": 0.5412,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.758
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "Elon @ NC State",
    "pkey": "401918961",
    "stat": "spread",
@@ -8847,6 +8336,89 @@
    "tier": "single",
    "second_ev": -1.69,
    "pinn_dec": 1.971
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Delaware @ Stony Brook",
+   "pkey": "401920906",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Stony Brook -6.5",
+   "line": -6.5,
+   "side": "home",
+   "team": "Stony Brook",
+   "opp": "Delaware",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126262306973788",
+   "game_id": "401920906",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Stony Brook",
+   "away": "Delaware",
+   "dec": 1.917,
+   "american": -109,
+   "game_model": {
+    "game_id": "401920906",
+    "home": "Stony Brook",
+    "away": "Delaware",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.2,
+    "proj_away": 65.0,
+    "proj_margin": 9.3,
+    "proj_total": 139.2,
+    "home_win_prob": 0.8,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.804,
+    "home_em": -6.1,
+    "away_em": -6.1,
+    "home_t": 66.3,
+    "away_t": 66.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.917,
+     "b": 1.901
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.935,
+     "b": 1.917
+    }
+   ],
+   "model_prob": 0.6,
+   "model_edge": 2.8,
+   "model_edge_txt": "+2.8 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN",
+   "pinnacle_line": "Stony Brook -6.5 -107 / Delaware +6.5 -109",
+   "fair_prob": 0.4975,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4975,
+    0.4977
+   ],
+   "devig_all": {
+    "multiplicative": 0.4977,
+    "additive": 0.4976,
+    "power": 0.4975
+   },
+   "ev_pct": -4.62,
+   "min_ev": 1.79,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -5.04,
+   "trusted_prob": 0.5024,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.935
   },
   {
    "kind": "spread",
@@ -9582,8 +9154,8 @@
  ],
  "matchups": [],
  "slate_units": {
-  "ev": 0.75,
-  "combined": 0.5
+  "ev": 0.25,
+  "combined": 0
  },
- "odds_as_of": "2026-11-28T08:00:00-05:00"
+ "odds_as_of": "2026-11-28T08:01:05-05:00"
 }

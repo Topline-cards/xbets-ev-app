@@ -1818,5 +1818,1249 @@
  "2026-11-25|victor wembanyama|pra|under|46.5": {
   "result": "loss",
   "actual": 63.0
+ },
+ "2026-11-27|p j washington|reb|under|5.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|nikola jokic|ast|under|9.5": {
+  "result": "loss",
+  "actual": 15.0
+ },
+ "2026-11-27|jrue holiday|ast|under|5.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|cooper flagg|ast|under|6.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|jayson tatum|pts|under|26.5": {
+  "result": "win",
+  "actual": 20.0
+ },
+ "2026-11-27|rui hachimura|reb|under|5.5": {
+  "result": "loss",
+  "actual": 7.0
+ },
+ "2026-11-27|daniss jenkins|ast|under|7.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|luka doncic|ast|under|7.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|kyrie irving|pts|under|22.5": {
+  "result": "void",
+  "actual": null
+ },
+ "2026-11-27|ivica zubac|reb|under|9.5": {
+  "result": "loss",
+  "actual": 16.0
+ },
+ "2026-11-27|jake laravia|pts|over|5.5": {
+  "result": "win",
+  "actual": 10.0
+ },
+ "2026-11-27|devin booker|fg3|over|1.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|tyrese maxey|ast|under|5.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|kyrie irving|pts|over|2.5": {
+  "result": "void",
+  "actual": null
+ },
+ "2026-11-27|dean wade|fg3|over|0.5": {
+  "result": "void",
+  "actual": null
+ },
+ "2026-11-27|neemias queta|ast|over|1.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|scottie barnes|fg3|over|0.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|deni avdija|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|saddiq bey|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|rui hachimura|ast|over|1.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|victor wembanyama|fg3|over|1.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|brook lopez|pts|over|9.5": {
+  "result": "win",
+  "actual": 17.0
+ },
+ "2026-11-27|daniel gafford|ast|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|brook lopez|ast|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|ace bailey|ast|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|onyeka okongwu|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|de anthony melton|ast|over|2.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|kris dunn|ast|over|2.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|rui hachimura|fg3|over|1.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|ayo dosunmu|ast|under|5.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|de anthony melton|fg3|over|1.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|walker kessler|ast|over|1.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|quentin grimes|reb|over|2.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|austin reaves|reb|over|2.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|brice sensabaugh|pts|over|9.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|kris dunn|pts|over|4.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|dyson daniels|reb|over|7.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|brook lopez|pra|over|16.5": {
+  "result": "win",
+  "actual": 24.0
+ },
+ "2026-11-27|davion mitchell|reb|over|2.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|miles bridges|ast|over|2.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|bobby portis|fg3|under|1.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|terrence shannon|fg3|under|1.5": {
+  "result": "win",
+  "actual": 0.0
+ },
+ "2026-11-27|isaiah joe|fg3|under|3.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|dyson daniels|ast|over|5.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|kevin huerter|fg3|under|2.5": {
+  "result": "win",
+  "actual": 0.0
+ },
+ "2026-11-27|luguentz dort|reb|over|2.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|kris dunn|pra|over|10.5": {
+  "result": "win",
+  "actual": 13.0
+ },
+ "2026-11-27|ayo dosunmu|reb|under|5.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|rui hachimura|reb|over|5.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|john collins|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|danny wolf|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|sidy cissoko|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|jordan poole|fg3|over|1.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|klay thompson|pts|over|12.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|myles turner|reb|over|5.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|isaiah joe|pra|under|21.5": {
+  "result": "loss",
+  "actual": 26.0
+ },
+ "2026-11-27|isaiah joe|pts|under|16.5": {
+  "result": "loss",
+  "actual": 22.0
+ },
+ "2026-11-27|jalen brunson|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|jordan poole|ast|over|2.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|aaron gordon|ast|under|2.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|landry shamet|ast|over|1.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|ivica zubac|ast|over|1.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|ryan rollins|fg3|under|1.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|dillon brooks|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|jordan poole|pts|over|11.5": {
+  "result": "win",
+  "actual": 16.0
+ },
+ "2026-11-27|kyle kuzma|pts|over|12.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|john collins|pts|over|11.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|landry shamet|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|julian champagnie|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|keyonte george|reb|over|3.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|kelly oubre|pts|over|11.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|walker kessler|pts|over|11.5": {
+  "result": "loss",
+  "actual": 10.0
+ },
+ "2026-11-27|julius randle|reb|under|6.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|javonte green|reb|under|3.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|derik queen|pts|over|9.5": {
+  "result": "win",
+  "actual": 11.0
+ },
+ "2026-11-27|rui hachimura|pra|over|21.5": {
+  "result": "win",
+  "actual": 25.0
+ },
+ "2026-11-27|mikel brown|fg3|under|2.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|gui santos|pts|under|9.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|tyler herro|reb|under|4.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|yaxel lendeborg|fg3|under|1.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|yaxel lendeborg|pts|under|19.5": {
+  "result": "win",
+  "actual": 18.0
+ },
+ "2026-11-27|keyonte george|ast|over|6.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|jalen green|reb|over|3.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|devin vassell|reb|over|3.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|dyson daniels|pra|over|22.5": {
+  "result": "loss",
+  "actual": 16.0
+ },
+ "2026-11-27|rui hachimura|pts|over|13.5": {
+  "result": "win",
+  "actual": 14.0
+ },
+ "2026-11-27|tyrese maxey|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|matisse thybulle|reb|over|2.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|terrence shannon|pra|under|23.5": {
+  "result": "loss",
+  "actual": 24.0
+ },
+ "2026-11-27|scoot henderson|pts|under|14.5": {
+  "result": "loss",
+  "actual": 18.0
+ },
+ "2026-11-27|kevin huerter|ast|under|3.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|ryan rollins|pts|under|10.5": {
+  "result": "loss",
+  "actual": 12.0
+ },
+ "2026-11-27|javonte green|pts|under|8.5": {
+  "result": "loss",
+  "actual": 10.0
+ },
+ "2026-11-27|dean wade|reb|over|4.5": {
+  "result": "void",
+  "actual": null
+ },
+ "2026-11-27|yaxel lendeborg|pra|under|30.5": {
+  "result": "win",
+  "actual": 27.0
+ },
+ "2026-11-27|ayo dosunmu|pra|under|31.5": {
+  "result": "loss",
+  "actual": 39.0
+ },
+ "2026-11-27|walker kessler|pra|over|23.5": {
+  "result": "win",
+  "actual": 27.0
+ },
+ "2026-11-27|max strus|pts|under|8.5": {
+  "result": "loss",
+  "actual": 9.0
+ },
+ "2026-11-27|kelly oubre|pra|over|16.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|andrew wiggins|reb|over|2.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|jaime jaquez|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|kyle kuzma|pra|over|19.5": {
+  "result": "loss",
+  "actual": 17.0
+ },
+ "2026-11-27|ja kobe walter|reb|under|4.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|rudy gobert|ast|over|1.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|cedric coward|fg3|under|2.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|terrence shannon|reb|under|3.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|kyrie irving|reb|over|3.5": {
+  "result": "void",
+  "actual": null
+ },
+ "2026-11-27|yaxel lendeborg|ast|under|3.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|brandin podziemski|fg3|over|2.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|stephon castle|ast|over|6.5": {
+  "result": "win",
+  "actual": 9.0
+ },
+ "2026-11-27|kevin huerter|pts|under|14.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|kevin huerter|pra|under|21.5": {
+  "result": "win",
+  "actual": 13.0
+ },
+ "2026-11-27|lebron james|ast|over|6.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|immanuel quickley|pts|under|19.5": {
+  "result": "loss",
+  "actual": 24.0
+ },
+ "2026-11-27|cooper flagg|ast|over|6.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|saddiq bey|reb|under|5.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|julius randle|ast|under|4.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|caleb martin|reb|under|4.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|ryan rollins|pra|under|18.5": {
+  "result": "loss",
+  "actual": 22.0
+ },
+ "2026-11-27|kelly oubre|reb|over|3.5": {
+  "result": "loss",
+  "actual": 3.0
+ },
+ "2026-11-27|jrue holiday|pts|under|16.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|gui santos|pra|under|15.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|charles bassey|pts|over|9.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|max strus|pra|under|14.5": {
+  "result": "loss",
+  "actual": 18.0
+ },
+ "2026-11-27|ja kobe walter|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|zaccharie risacher|reb|over|4.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|saddiq bey|pts|over|14.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|andrew wiggins|pts|over|7.5": {
+  "result": "loss",
+  "actual": 7.0
+ },
+ "2026-11-27|andrew nembhard|ast|under|7.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|ivica zubac|pts|under|12.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|pelle larsson|reb|under|3.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|aaron nesmith|reb|over|3.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|kevin huerter|reb|under|3.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|terrence shannon|ast|under|3.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|jalen johnson|reb|over|8.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|derrick jones|pts|under|8.5": {
+  "result": "loss",
+  "actual": 12.0
+ },
+ "2026-11-27|lebron james|reb|over|6.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|jalen johnson|ast|under|6.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|zion williamson|pts|under|22.5": {
+  "result": "loss",
+  "actual": 25.0
+ },
+ "2026-11-27|brayden burries|fg3|under|1.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|noah clowney|fg3|under|1.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|cedric coward|reb|over|7.5": {
+  "result": "loss",
+  "actual": 3.0
+ },
+ "2026-11-27|toumani camara|reb|under|4.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|darryn peterson|ast|under|4.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|julian champagnie|ast|over|1.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|immanuel quickley|pra|under|29.5": {
+  "result": "loss",
+  "actual": 48.0
+ },
+ "2026-11-27|pascal siakam|pts|over|23.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|tyler herro|fg3|under|2.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|immanuel quickley|fg3|under|2.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|zach edey|reb|under|7.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|darius garland|fg3|over|2.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|cameron johnson|ast|under|2.5": {
+  "result": "loss",
+  "actual": 3.0
+ },
+ "2026-11-27|landry shamet|pts|over|13.5": {
+  "result": "loss",
+  "actual": 13.0
+ },
+ "2026-11-27|pascal siakam|ast|under|3.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|ryan rollins|ast|under|3.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|julius randle|pra|under|32.5": {
+  "result": "win",
+  "actual": 31.0
+ },
+ "2026-11-27|derik queen|pra|over|18.5": {
+  "result": "win",
+  "actual": 21.0
+ },
+ "2026-11-27|kingston flemings|ast|under|4.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|brandin podziemski|pts|over|15.5": {
+  "result": "win",
+  "actual": 16.0
+ },
+ "2026-11-27|draymond green|pra|under|15.5": {
+  "result": "win",
+  "actual": 10.0
+ },
+ "2026-11-27|paul reed|reb|over|7.5": {
+  "result": "loss",
+  "actual": 7.0
+ },
+ "2026-11-27|neemias queta|pra|over|21.5": {
+  "result": "win",
+  "actual": 36.0
+ },
+ "2026-11-27|caleb martin|pts|under|7.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|bam adebayo|reb|under|8.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|zion williamson|pra|under|30.5": {
+  "result": "loss",
+  "actual": 37.0
+ },
+ "2026-11-27|andrew nembhard|pra|under|26.5": {
+  "result": "win",
+  "actual": 21.0
+ },
+ "2026-11-27|darius garland|pts|over|20.5": {
+  "result": "loss",
+  "actual": 19.0
+ },
+ "2026-11-27|kingston flemings|pra|under|16.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|demar derozan|pts|under|9.5": {
+  "result": "loss",
+  "actual": 10.0
+ },
+ "2026-11-27|landry shamet|pra|over|17.5": {
+  "result": "win",
+  "actual": 23.0
+ },
+ "2026-11-27|devin booker|ast|over|5.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|kyle kuzma|reb|over|4.5": {
+  "result": "loss",
+  "actual": 3.0
+ },
+ "2026-11-27|noah clowney|pra|under|13.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|brandin podziemski|reb|over|4.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|christian braun|reb|over|4.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|derrick white|reb|under|3.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|jaylen wells|reb|over|3.5": {
+  "result": "loss",
+  "actual": 3.0
+ },
+ "2026-11-27|max strus|reb|under|3.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|ivica zubac|pra|under|23.5": {
+  "result": "win",
+  "actual": 23.0
+ },
+ "2026-11-27|daniss jenkins|fg3|over|2.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|401909334|ml|home|None": {
+  "result": "loss",
+  "actual": "120-107"
+ },
+ "2026-11-27|401909326|ml|home|None": {
+  "result": "loss",
+  "actual": "108-105"
+ },
+ "2026-11-27|401909336|total|over|216.5": {
+  "result": "loss",
+  "actual": 210.0
+ },
+ "2026-11-27|401909334|spread|home|10.5": {
+  "result": "loss",
+  "actual": "120-107"
+ },
+ "2026-11-27|401909329|total|over|218.5": {
+  "result": "win",
+  "actual": 224.0
+ },
+ "2026-11-27|401909328|ml|home|None": {
+  "result": "loss",
+  "actual": "111-87"
+ },
+ "2026-11-27|401909331|total|over|219.5": {
+  "result": "win",
+  "actual": 223.0
+ },
+ "2026-11-27|401909327|ml|home|None": {
+  "result": "win",
+  "actual": "98-113"
+ },
+ "2026-11-27|401909330|ml|away|None": {
+  "result": "win",
+  "actual": "87-86"
+ },
+ "2026-11-27|401909334|total|under|232.5": {
+  "result": "win",
+  "actual": 227.0
+ },
+ "2026-11-27|401909326|spread|home|-2.5": {
+  "result": "loss",
+  "actual": "108-105"
+ },
+ "2026-11-27|401909330|spread|away|-9.5": {
+  "result": "win",
+  "actual": "87-86"
+ },
+ "2026-11-27|josh hart|reb|under|8.5": {
+  "result": "loss",
+  "actual": 9.0
+ },
+ "2026-11-27|christian braun|pts|under|12.5": {
+  "result": "loss",
+  "actual": 20.0
+ },
+ "2026-11-27|saddiq bey|reb|over|4.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|brice sensabaugh|pts|over|10.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|javonte green|pra|under|13.5": {
+  "result": "loss",
+  "actual": 21.0
+ },
+ "2026-11-27|terrence shannon|pra|under|24.5": {
+  "result": "win",
+  "actual": 24.0
+ },
+ "2026-11-27|aaron gordon|pra|over|20.5": {
+  "result": "loss",
+  "actual": 18.0
+ },
+ "2026-11-27|ayo dosunmu|pra|under|30.5": {
+  "result": "loss",
+  "actual": 39.0
+ },
+ "2026-11-27|derik queen|pra|over|17.5": {
+  "result": "win",
+  "actual": 21.0
+ },
+ "2026-11-27|rui hachimura|pts|over|14.5": {
+  "result": "loss",
+  "actual": 14.0
+ },
+ "2026-11-27|jamal murray|pts|over|24.5": {
+  "result": "win",
+  "actual": 36.0
+ },
+ "2026-11-27|herbert jones|pts|under|7.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|ayo dosunmu|ast|under|4.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|derrick jones|pra|under|13.5": {
+  "result": "loss",
+  "actual": 15.0
+ },
+ "2026-11-27|immanuel quickley|fg3|over|2.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|yaxel lendeborg|pra|under|29.5": {
+  "result": "win",
+  "actual": 27.0
+ },
+ "2026-11-27|collin murray boyles|reb|under|5.5": {
+  "result": "loss",
+  "actual": 7.0
+ },
+ "2026-11-27|bobby portis|reb|under|3.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|john collins|reb|over|5.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|karl anthony towns|pts|under|21.5": {
+  "result": "win",
+  "actual": 19.0
+ },
+ "2026-11-27|giannis antetokounmpo|pra|over|44.5": {
+  "result": "win",
+  "actual": 48.0
+ },
+ "2026-11-27|ayo dosunmu|reb|under|4.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|deni avdija|ast|over|6.5": {
+  "result": "win",
+  "actual": 7.0
+ },
+ "2026-11-27|julius randle|reb|over|6.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|naji marshall|ast|over|2.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|pascal siakam|pts|over|22.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|ayo dosunmu|pra|under|29.5": {
+  "result": "loss",
+  "actual": 39.0
+ },
+ "2026-11-27|ivica zubac|pra|under|24.5": {
+  "result": "win",
+  "actual": 23.0
+ },
+ "2026-11-27|davion mitchell|fg3|over|1.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|derrick white|fg3|over|1.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|saddiq bey|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|ryan conwell|reb|under|2.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|julius randle|pra|under|31.5": {
+  "result": "win",
+  "actual": 31.0
+ },
+ "2026-11-27|401909334|spread|home|9.5": {
+  "result": "loss",
+  "actual": "120-107"
+ },
+ "2026-11-27|giannis antetokounmpo|pts|under|27.5": {
+  "result": "win",
+  "actual": 22.0
+ },
+ "2026-11-27|jaylen wells|pts|under|10.5": {
+  "result": "win",
+  "actual": 10.0
+ },
+ "2026-11-27|jaden mcdaniels|pra|under|29.5": {
+  "result": "win",
+  "actual": 23.0
+ },
+ "2026-11-27|jonathan kuminga|fg3|under|1.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|kyrie irving|fg3|over|2.5": {
+  "result": "void",
+  "actual": null
+ },
+ "2026-11-27|klay thompson|pts|over|11.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|sam hauser|reb|over|2.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|kelly oubre|pts|over|12.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|kelly oubre|pra|over|17.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|ayo dosunmu|ast|over|4.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|obi toppin|reb|under|4.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|brice sensabaugh|ast|over|1.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|brice sensabaugh|pra|over|15.5": {
+  "result": "win",
+  "actual": 19.0
+ },
+ "2026-11-27|andrew nembhard|ast|under|8.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|kevin huerter|pra|under|22.5": {
+  "result": "win",
+  "actual": 13.0
+ },
+ "2026-11-27|immanuel quickley|pts|under|18.5": {
+  "result": "loss",
+  "actual": 24.0
+ },
+ "2026-11-27|401909336|total|over|217.5": {
+  "result": "loss",
+  "actual": 210.0
+ },
+ "2026-11-27|ace bailey|pts|under|15.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|joel embiid|reb|under|8.5": {
+  "result": "loss",
+  "actual": 11.0
+ },
+ "2026-11-27|ayo dosunmu|reb|over|4.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|lebron james|ast|under|7.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|jaden mcdaniels|ast|over|3.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|nickeil alexander walker|pts|under|20.5": {
+  "result": "win",
+  "actual": 20.0
+ },
+ "2026-11-27|deni avdija|pra|over|38.5": {
+  "result": "win",
+  "actual": 40.0
+ },
+ "2026-11-27|quenton jackson|reb|over|2.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|anfernee simons|fg3|under|2.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|yaxel lendeborg|pts|under|18.5": {
+  "result": "win",
+  "actual": 18.0
+ },
+ "2026-11-27|landry shamet|pts|over|12.5": {
+  "result": "win",
+  "actual": 13.0
+ },
+ "2026-11-27|javonte green|pra|under|14.5": {
+  "result": "loss",
+  "actual": 21.0
+ },
+ "2026-11-27|landry shamet|pra|over|16.5": {
+  "result": "win",
+  "actual": 23.0
+ },
+ "2026-11-27|cedric coward|reb|under|7.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|jaxson hayes|reb|over|5.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|josh hart|fg3|under|1.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|paul george|ast|over|3.5": {
+  "result": "loss",
+  "actual": 1.0
+ },
+ "2026-11-27|zach edey|pts|under|8.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|julius randle|ast|over|4.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|vj edgecombe|reb|under|6.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|neemias queta|ast|over|2.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|ryan rollins|pra|under|17.5": {
+  "result": "loss",
+  "actual": 22.0
+ },
+ "2026-11-27|sam hauser|fg3|under|2.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|401909327|total|over|218.5": {
+  "result": "loss",
+  "actual": 211.0
+ },
+ "2026-11-27|401909328|spread|home|4.5": {
+  "result": "loss",
+  "actual": "111-87"
+ },
+ "2026-11-27|tyrese maxey|reb|under|3.5": {
+  "result": "win",
+  "actual": 1.0
+ },
+ "2026-11-27|jaden mcdaniels|ast|under|3.5": {
+  "result": "win",
+  "actual": 2.0
+ },
+ "2026-11-27|401909332|total|over|224.5": {
+  "result": "loss",
+  "actual": 222.0
+ },
+ "2026-11-27|401909332|spread|away|-4.5": {
+  "result": "win",
+  "actual": "113-109"
+ },
+ "2026-11-27|oso ighodaro|reb|under|5.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|jalen johnson|pts|under|18.5": {
+  "result": "loss",
+  "actual": 24.0
+ },
+ "2026-11-27|zaccharie risacher|reb|over|3.5": {
+  "result": "win",
+  "actual": 6.0
+ },
+ "2026-11-27|401909332|ml|away|None": {
+  "result": "win",
+  "actual": "113-109"
+ },
+ "2026-11-27|keaton wagler|fg3|over|0.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|keaton wagler|pts|over|8.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|zion williamson|pra|under|31.5": {
+  "result": "loss",
+  "actual": 37.0
+ },
+ "2026-11-27|payton pritchard|pts|under|13.5": {
+  "result": "win",
+  "actual": 10.0
+ },
+ "2026-11-27|yves missi|pra|over|15.5": {
+  "result": "win",
+  "actual": 18.0
+ },
+ "2026-11-27|demar derozan|pra|under|13.5": {
+  "result": "win",
+  "actual": 12.0
+ },
+ "2026-11-27|ty jerome|pts|under|22.5": {
+  "result": "win",
+  "actual": 18.0
+ },
+ "2026-11-27|keyonte george|pra|under|31.5": {
+  "result": "loss",
+  "actual": 33.0
+ },
+ "2026-11-27|cam spencer|ast|over|4.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|ayo dosunmu|pra|under|28.5": {
+  "result": "loss",
+  "actual": 39.0
+ },
+ "2026-11-27|walker kessler|reb|under|10.5": {
+  "result": "loss",
+  "actual": 13.0
+ },
+ "2026-11-27|keaton wagler|ast|over|1.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|keaton wagler|pra|over|12.5": {
+  "result": "loss",
+  "actual": 9.0
+ },
+ "2026-11-27|kris dunn|pra|over|11.5": {
+  "result": "win",
+  "actual": 13.0
+ },
+ "2026-11-27|austin reaves|fg3|under|1.5": {
+  "result": "loss",
+  "actual": 5.0
+ },
+ "2026-11-27|zach edey|reb|over|7.5": {
+  "result": "loss",
+  "actual": 6.0
+ },
+ "2026-11-27|victor wembanyama|fg3|over|2.5": {
+  "result": "loss",
+  "actual": 2.0
+ },
+ "2026-11-27|keyonte george|ast|over|7.5": {
+  "result": "loss",
+  "actual": 4.0
+ },
+ "2026-11-27|keldon johnson|reb|under|5.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|quentin grimes|reb|over|3.5": {
+  "result": "loss",
+  "actual": 0.0
+ },
+ "2026-11-27|austin reaves|reb|over|3.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|christian braun|reb|under|4.5": {
+  "result": "loss",
+  "actual": 8.0
+ },
+ "2026-11-27|taylor hendricks|reb|under|4.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|keaton wagler|pra|over|13.5": {
+  "result": "loss",
+  "actual": 9.0
+ },
+ "2026-11-27|keldon johnson|pts|under|9.5": {
+  "result": "win",
+  "actual": 3.0
+ },
+ "2026-11-27|p j washington|pra|under|20.5": {
+  "result": "win",
+  "actual": 14.0
+ },
+ "2026-11-27|daniel gafford|reb|over|6.5": {
+  "result": "win",
+  "actual": 8.0
+ },
+ "2026-11-27|miles bridges|reb|under|6.5": {
+  "result": "win",
+  "actual": 5.0
+ },
+ "2026-11-27|401909336|ml|away|None": {
+  "result": "loss",
+  "actual": "94-116"
+ },
+ "2026-11-27|dylan harper|reb|over|3.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|dylan harper|ast|over|3.5": {
+  "result": "loss",
+  "actual": 3.0
+ },
+ "2026-11-27|jrue holiday|reb|under|4.5": {
+  "result": "win",
+  "actual": 4.0
+ },
+ "2026-11-27|svi mykhailiuk|pts|over|8.5": {
+  "result": "win",
+  "actual": 18.0
+ },
+ "2026-11-27|scoot henderson|pts|under|13.5": {
+  "result": "loss",
+  "actual": 18.0
+ },
+ "2026-11-27|brice sensabaugh|pra|over|14.5": {
+  "result": "win",
+  "actual": 19.0
  }
 }

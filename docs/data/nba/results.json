@@ -2,30 +2,30 @@
  "lanes": {
   "nba:reb": {
    "bets": 54,
-   "graded": 20,
-   "days": 2,
+   "graded": 53,
+   "days": 3,
    "ev_vs_close": 0.12,
    "t_stat": 0.13,
-   "roi_pct": -15.0,
-   "profit_units": -0.94,
-   "expected_units": 0.25,
+   "roi_pct": -13.1,
+   "profit_units": -1.97,
+   "expected_units": 0.59,
    "checks": {
     "ev_vs_close": false,
     "roi": false,
-    "bets": false,
+    "bets": true,
     "days": false
    },
    "status": "testing"
   },
   "nba:pra": {
    "bets": 11,
-   "graded": 5,
-   "days": 2,
+   "graded": 11,
+   "days": 3,
    "ev_vs_close": 1.52,
    "t_stat": 1.74,
-   "roi_pct": 14.4,
-   "profit_units": 0.18,
-   "expected_units": 0.06,
+   "roi_pct": 19.6,
+   "profit_units": 0.54,
+   "expected_units": 0.1,
    "checks": {
     "ev_vs_close": true,
     "roi": true,
@@ -36,34 +36,34 @@
   },
   "nba:ast": {
    "bets": 31,
-   "graded": 13,
-   "days": 2,
+   "graded": 31,
+   "days": 3,
    "ev_vs_close": -1.19,
    "t_stat": -1.51,
-   "roi_pct": 43.7,
-   "profit_units": 1.64,
-   "expected_units": 0.18,
+   "roi_pct": 13.3,
+   "profit_units": 1.1,
+   "expected_units": 0.36,
    "checks": {
     "ev_vs_close": false,
     "roi": true,
-    "bets": false,
+    "bets": true,
     "days": false
    },
    "status": "testing"
   },
   "nba:pts": {
    "bets": 50,
-   "graded": 28,
-   "days": 2,
+   "graded": 47,
+   "days": 3,
    "ev_vs_close": 0.79,
    "t_stat": 1.24,
-   "roi_pct": -16.7,
-   "profit_units": -1.17,
-   "expected_units": 0.23,
+   "roi_pct": 10.0,
+   "profit_units": 1.18,
+   "expected_units": 0.38,
    "checks": {
     "ev_vs_close": false,
-    "roi": false,
-    "bets": false,
+    "roi": true,
+    "bets": true,
     "days": false
    },
    "status": "testing"
@@ -87,13 +87,13 @@
   },
   "nba:total": {
    "bets": 6,
-   "graded": 5,
-   "days": 2,
+   "graded": 6,
+   "days": 3,
    "ev_vs_close": -5.27,
    "t_stat": -2.89,
-   "roi_pct": -45.1,
-   "profit_units": -0.79,
-   "expected_units": 0.05,
+   "roi_pct": -52.0,
+   "profit_units": -1.04,
+   "expected_units": 0.06,
    "checks": {
     "ev_vs_close": false,
     "roi": false,
@@ -104,13 +104,13 @@
   },
   "nba:fg3": {
    "bets": 29,
-   "graded": 20,
-   "days": 2,
+   "graded": 28,
+   "days": 3,
    "ev_vs_close": 0.04,
    "t_stat": 0.03,
-   "roi_pct": -32.4,
-   "profit_units": -1.78,
-   "expected_units": 0.31,
+   "roi_pct": -15.9,
+   "profit_units": -1.19,
+   "expected_units": 0.39,
    "checks": {
     "ev_vs_close": false,
     "roi": false,
@@ -139,42 +139,42 @@
  },
  "combined": {
   "picks": 38,
-  "graded": 23,
-  "wins": 15,
-  "losses": 8,
+  "graded": 37,
+  "wins": 22,
+  "losses": 15,
   "pushes": 0,
-  "units_risked": 7.5,
-  "profit_units": 1.77,
-  "roi_pct": 23.6,
+  "units_risked": 11.0,
+  "profit_units": 1.44,
+  "roi_pct": 13.1,
   "avg_clv_pct": -1.22,
   "beat_close_pct": 44.7,
-  "expected_units": 0.38
+  "expected_units": 0.48
  },
  "ev": {
   "picks": 191,
-  "graded": 101,
-  "wins": 47,
-  "losses": 54,
+  "graded": 186,
+  "wins": 96,
+  "losses": 90,
   "pushes": 0,
-  "units_risked": 28.25,
-  "profit_units": -2.06,
-  "roi_pct": -7.3,
+  "units_risked": 50.0,
+  "profit_units": -0.58,
+  "roi_pct": -1.2,
   "avg_clv_pct": -0.16,
   "beat_close_pct": 56.0,
-  "expected_units": 1.35
+  "expected_units": 2.14
  },
  "cheat": {
   "picks": 992,
-  "graded": 610,
-  "wins": 370,
-  "losses": 240,
+  "graded": 977,
+  "wins": 565,
+  "losses": 412,
   "pushes": 0,
-  "units_risked": 610.0,
-  "profit_units": 92.65,
-  "roi_pct": 15.2,
+  "units_risked": 977.0,
+  "profit_units": 83.48,
+  "roi_pct": 8.5,
   "avg_clv_pct": -5.37,
   "beat_close_pct": 10.8,
-  "expected_units": -15.81
+  "expected_units": -25.75
  },
  "recent": [
   {
@@ -205,9 +205,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.42,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5567,
-   "clv_pct": 0.21
+   "clv_pct": 0.21,
+   "actual": 15.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -237,9 +239,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.87,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.4817,
-   "clv_pct": -6.41
+   "clv_pct": -6.41,
+   "actual": 6.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -269,9 +273,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.38,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5786,
-   "clv_pct": 3.4
+   "clv_pct": 3.4,
+   "actual": 7.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -301,9 +307,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.59,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5523,
-   "clv_pct": 2.45
+   "clv_pct": 2.45,
+   "actual": 8.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -333,9 +341,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.71,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5379,
-   "clv_pct": 1.82
+   "clv_pct": 1.82,
+   "actual": 10.0,
+   "profit": 0.22
   },
   {
    "mode": "ev",
@@ -365,9 +375,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.42,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5567,
-   "clv_pct": 0.21
+   "clv_pct": 0.21,
+   "actual": 15.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -397,9 +409,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.6214,
-   "clv_pct": -2.56
+   "clv_pct": -2.56,
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -429,7 +443,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -459,7 +475,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 4.0,
+   "profit": 1.11
   },
   {
    "mode": "cheat",
@@ -489,7 +507,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 2.0,
+   "profit": 0.57
   },
   {
    "mode": "cheat",
@@ -519,9 +539,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.32,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5281,
-   "clv_pct": -6.58
+   "clv_pct": -6.58,
+   "actual": 17.0,
+   "profit": 0.77
   },
   {
    "mode": "cheat",
@@ -551,7 +573,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 1.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -581,7 +605,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 1.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -611,7 +637,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 3.0,
+   "profit": 0.62
   },
   {
    "mode": "cheat",
@@ -641,7 +669,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 4.0,
+   "profit": 0.57
   },
   {
    "mode": "cheat",
@@ -671,9 +701,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.15,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5523,
-   "clv_pct": -5.34
+   "clv_pct": -5.34,
+   "actual": 4.0,
+   "profit": 0.71
   },
   {
    "mode": "cheat",
@@ -703,9 +735,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5711,
-   "clv_pct": -13.14
+   "clv_pct": -13.14,
+   "actual": 5.0,
+   "profit": 0.52
   },
   {
    "mode": "cheat",
@@ -735,7 +769,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 4.0,
+   "profit": 0.96
   },
   {
    "mode": "cheat",
@@ -765,7 +801,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -795,9 +833,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5935,
-   "clv_pct": -1.36
+   "clv_pct": -1.36,
+   "actual": 8.0,
+   "profit": 0.66
   },
   {
    "mode": "cheat",
@@ -827,7 +867,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 12.0,
+   "profit": 0.85
   },
   {
    "mode": "cheat",
@@ -857,9 +899,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.42,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": -1.27
+   "clv_pct": -1.27,
+   "actual": 2.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -889,7 +933,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 24.0,
+   "profit": 0.9
   },
   {
    "mode": "cheat",
@@ -919,7 +965,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 13.0,
+   "profit": 0.76
   },
   {
    "mode": "cheat",
@@ -949,9 +997,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.81,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4214,
-   "clv_pct": -5.61
+   "clv_pct": -5.61,
+   "actual": 7.0,
+   "profit": 1.24
   },
   {
    "mode": "cheat",
@@ -981,7 +1031,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1011,9 +1063,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.27,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5322,
-   "clv_pct": -6.76
+   "clv_pct": -6.76,
+   "actual": 3.0,
+   "profit": 0.75
   },
   {
    "mode": "cheat",
@@ -1043,7 +1097,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 2.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1073,7 +1129,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1103,9 +1161,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.4,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.502,
-   "clv_pct": -9.94
+   "clv_pct": -9.94,
+   "actual": 16.0,
+   "profit": 0.79
   },
   {
    "mode": "cheat",
@@ -1135,9 +1195,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.46,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5281,
-   "clv_pct": -4.26
+   "clv_pct": -4.26,
+   "actual": 1.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1167,9 +1229,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.15,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4542,
-   "clv_pct": -7.8
+   "clv_pct": -7.8,
+   "actual": 4.0,
+   "profit": 1.03
   },
   {
    "mode": "cheat",
@@ -1199,7 +1263,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 10.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1229,9 +1295,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.48,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5242,
-   "clv_pct": -4.6
+   "clv_pct": -4.6,
+   "actual": 11.0,
+   "profit": 0.82
   },
   {
    "mode": "cheat",
@@ -1261,7 +1329,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 25.0,
+   "profit": 0.96
   },
   {
    "mode": "cheat",
@@ -1291,9 +1361,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.38,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5392,
-   "clv_pct": -3.64
+   "clv_pct": -3.64,
+   "actual": 5.0,
+   "profit": 0.79
   },
   {
    "mode": "cheat",
@@ -1323,9 +1395,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.37,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4433,
-   "clv_pct": -6.91
+   "clv_pct": -6.91,
+   "actual": 1.0,
+   "profit": 1.1
   },
   {
    "mode": "cheat",
@@ -1355,7 +1429,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 18.0,
+   "profit": 0.83
   },
   {
    "mode": "cheat",
@@ -1385,9 +1461,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.16,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.561,
-   "clv_pct": -3.56
+   "clv_pct": -3.56,
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1417,9 +1495,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.38,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5548,
-   "clv_pct": -0.86
+   "clv_pct": -0.86,
+   "actual": 5.0,
+   "profit": 0.79
   },
   {
    "mode": "cheat",
@@ -1449,9 +1529,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.38,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5863,
-   "clv_pct": 4.77
+   "clv_pct": 4.77,
+   "actual": 14.0,
+   "profit": 0.79
   },
   {
    "mode": "cheat",
@@ -1481,7 +1563,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 2.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1511,7 +1595,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 18.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1541,7 +1627,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 27.0,
+   "profit": 0.82
   },
   {
    "mode": "cheat",
@@ -1571,7 +1659,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 27.0,
+   "profit": 0.83
   },
   {
    "mode": "cheat",
@@ -1601,9 +1691,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.18,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5364,
-   "clv_pct": -7.47
+   "clv_pct": -7.47,
+   "actual": 9.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1633,9 +1725,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.08,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4898,
-   "clv_pct": -1.55
+   "clv_pct": -1.55,
+   "actual": 2.0,
+   "profit": 1.01
   },
   {
    "mode": "cheat",
@@ -1665,9 +1759,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.37,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4582,
-   "clv_pct": -3.78
+   "clv_pct": -3.78,
+   "actual": 3.0,
+   "profit": 1.1
   },
   {
    "mode": "cheat",
@@ -1697,9 +1793,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.16,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5418,
-   "clv_pct": -6.86
+   "clv_pct": -6.86,
+   "actual": 9.0,
+   "profit": 0.72
   },
   {
    "mode": "cheat",
@@ -1729,7 +1827,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 6.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1759,7 +1859,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 12.0,
+   "profit": 0.85
   },
   {
    "mode": "cheat",
@@ -1789,7 +1891,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 7.0,
+   "profit": 0.88
   },
   {
    "mode": "cheat",
@@ -1819,9 +1923,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.21,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5163,
-   "clv_pct": -10.42
+   "clv_pct": -10.42,
+   "actual": 12.0,
+   "profit": 0.74
   },
   {
    "mode": "cheat",
@@ -1851,7 +1957,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 18.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1881,9 +1989,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.32,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": -2.97
+   "clv_pct": -2.97,
+   "actual": 8.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1913,7 +2023,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 12.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1943,9 +2055,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.57,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.4809,
-   "clv_pct": -11.18
+   "clv_pct": -11.18,
+   "actual": 25.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -1975,9 +2089,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.2,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5392,
-   "clv_pct": -6.72
+   "clv_pct": -6.72,
+   "actual": 8.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2007,7 +2123,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 3.0,
+   "profit": 0.69
   },
   {
    "mode": "cheat",
@@ -2037,7 +2155,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 3.0,
+   "profit": 0.83
   },
   {
    "mode": "cheat",
@@ -2067,9 +2187,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.87,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4809,
-   "clv_pct": -6.56
+   "clv_pct": -6.56,
+   "actual": 3.0,
+   "profit": 0.94
   },
   {
    "mode": "cheat",
@@ -2099,7 +2221,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 3.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2129,9 +2253,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.42,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5567,
-   "clv_pct": 0.21
+   "clv_pct": 0.21,
+   "actual": 15.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2161,7 +2287,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 21.0,
+   "profit": 0.92
   },
   {
    "mode": "cheat",
@@ -2191,7 +2319,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 16.0,
+   "profit": 0.82
   },
   {
    "mode": "cheat",
@@ -2221,7 +2351,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 10.0,
+   "profit": 0.91
   },
   {
    "mode": "cheat",
@@ -2251,9 +2383,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.79,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5211,
-   "clv_pct": -0.11
+   "clv_pct": -0.11,
+   "actual": 37.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2283,9 +2417,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.93,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.4727,
-   "clv_pct": -7.26
+   "clv_pct": -7.26,
+   "actual": 19.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2315,9 +2451,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.32,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5262,
-   "clv_pct": -6.92
+   "clv_pct": -6.92,
+   "actual": 10.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2347,9 +2485,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.21,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5379,
-   "clv_pct": -6.67
+   "clv_pct": -6.67,
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2379,9 +2519,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.15,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4154,
-   "clv_pct": -15.67
+   "clv_pct": -15.67,
+   "actual": 8.0,
+   "profit": 1.03
   },
   {
    "mode": "cheat",
@@ -2411,7 +2553,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 6.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2441,9 +2585,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 7.5,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.2281,
-   "clv_pct": 2.65
+   "clv_pct": 2.65,
+   "actual": "120-107",
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2473,9 +2619,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.64,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5022,
-   "clv_pct": -6.09
+   "clv_pct": -6.09,
+   "actual": 210.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2505,9 +2653,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.64,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5416,
-   "clv_pct": 1.28
+   "clv_pct": 1.28,
+   "actual": "120-107",
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2537,9 +2687,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.64,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5213,
-   "clv_pct": -2.52
+   "clv_pct": -2.52,
+   "actual": 227.0,
+   "profit": 0.87
   },
   {
    "mode": "combined",
@@ -2569,9 +2721,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.62,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": 2.13
+   "clv_pct": 2.13,
+   "actual": 8.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -2601,9 +2755,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.62,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": 2.13
+   "clv_pct": 2.13,
+   "actual": 8.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -2633,9 +2789,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.79,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5233,
-   "clv_pct": 0.32
+   "clv_pct": 0.32,
+   "actual": 20.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -2665,9 +2823,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.64,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4534,
-   "clv_pct": -15.21
+   "clv_pct": -15.21,
+   "actual": 6.0,
+   "profit": 0.22
   },
   {
    "mode": "cheat",
@@ -2697,7 +2857,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 12.0,
+   "profit": 0.94
   },
   {
    "mode": "cheat",
@@ -2727,9 +2889,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.62,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": 2.13
+   "clv_pct": 2.13,
+   "actual": 8.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -2759,7 +2923,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 21.0,
+   "profit": 0.89
   },
   {
    "mode": "combined",
@@ -2789,9 +2955,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.59,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5863,
-   "clv_pct": 8.76
+   "clv_pct": 8.76,
+   "actual": 14.0,
+   "profit": 0.21
   },
   {
    "mode": "ev",
@@ -2821,9 +2989,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.59,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5863,
-   "clv_pct": 8.76
+   "clv_pct": 8.76,
+   "actual": 14.0,
+   "profit": 0.21
   },
   {
    "mode": "ev",
@@ -2853,9 +3023,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.93,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5281,
-   "clv_pct": 3.61
+   "clv_pct": 3.61,
+   "actual": 18.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -2885,7 +3057,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 4.0,
+   "profit": 1.06
   },
   {
    "mode": "cheat",
@@ -2915,9 +3089,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.21,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5322,
-   "clv_pct": -7.66
+   "clv_pct": -7.66,
+   "actual": 3.0,
+   "profit": 0.74
   },
   {
    "mode": "cheat",
@@ -2947,7 +3123,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 25.0,
+   "profit": 0.94
   },
   {
    "mode": "cheat",
@@ -2977,9 +3155,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5418,
-   "clv_pct": -10.17
+   "clv_pct": -10.17,
+   "actual": 9.0,
+   "profit": 0.66
   },
   {
    "mode": "cheat",
@@ -3009,7 +3189,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 18.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3039,7 +3221,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 4.0,
+   "profit": 0.6
   },
   {
    "mode": "cheat",
@@ -3069,7 +3253,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 21.0,
+   "profit": 0.79
   },
   {
    "mode": "cheat",
@@ -3099,7 +3285,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 14.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3129,9 +3317,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5567,
-   "clv_pct": -7.7
+   "clv_pct": -7.7,
+   "actual": 15.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3161,7 +3351,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 6.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3191,7 +3383,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 36.0,
+   "profit": 0.81
   },
   {
    "mode": "ev",
@@ -3221,9 +3415,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.93,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5242,
-   "clv_pct": 2.85
+   "clv_pct": 2.85,
+   "actual": 7.0,
+   "profit": 0.24
   },
   {
    "mode": "cheat",
@@ -3253,7 +3449,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 3.0,
+   "profit": 0.62
   },
   {
    "mode": "cheat",
@@ -3283,7 +3481,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 15.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3313,9 +3513,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.9,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4939,
-   "clv_pct": -3.59
+   "clv_pct": -3.59,
+   "actual": 27.0,
+   "profit": 0.95
   },
   {
    "mode": "combined",
@@ -3345,9 +3547,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.42,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": -1.27
+   "clv_pct": -1.27,
+   "actual": 2.0,
+   "profit": -0.25
   },
   {
    "mode": "ev",
@@ -3377,9 +3581,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.42,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5485,
-   "clv_pct": -1.27
+   "clv_pct": -1.27,
+   "actual": 2.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -3409,7 +3615,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3439,9 +3647,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 7.41,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.2281,
-   "clv_pct": 0.59
+   "clv_pct": 0.59,
+   "actual": "120-107",
+   "profit": -1.0
   },
   {
    "mode": "ev",
@@ -3471,9 +3681,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.37,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4789,
-   "clv_pct": 0.57
+   "clv_pct": 0.57,
+   "actual": 7.0,
+   "profit": 0.28
   },
   {
    "mode": "cheat",
@@ -3503,7 +3715,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3533,9 +3747,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.12,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4542,
-   "clv_pct": -8.25
+   "clv_pct": -8.25,
+   "actual": 4.0,
+   "profit": 1.02
   },
   {
    "mode": "cheat",
@@ -3565,9 +3781,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 4.51,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.3571,
-   "clv_pct": -5.73
+   "clv_pct": -5.73,
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3597,9 +3815,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.9,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5024,
-   "clv_pct": -1.93
+   "clv_pct": -1.93,
+   "actual": "120-107",
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3629,9 +3849,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.12,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.561,
-   "clv_pct": -4.41
+   "clv_pct": -4.41,
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3661,9 +3883,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.82,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5024,
-   "clv_pct": -3.24
+   "clv_pct": -3.24,
+   "actual": "120-107",
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -3693,7 +3917,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 3.0,
+   "profit": 0.96
   },
   {
    "mode": "cheat",
@@ -3723,7 +3949,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 19.0,
+   "profit": 0.89
   },
   {
    "mode": "cheat",
@@ -3753,9 +3981,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.82,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.4789,
-   "clv_pct": -7.76
+   "clv_pct": -7.76,
+   "actual": 210.0,
+   "profit": -1.0
   },
   {
    "mode": "ev",
@@ -3785,9 +4015,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.82,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5371,
-   "clv_pct": 3.45
+   "clv_pct": 3.45,
+   "actual": 8.0,
+   "profit": 0.23
   },
   {
    "mode": "cheat",
@@ -3817,9 +4049,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.3,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5163,
-   "clv_pct": -8.98
+   "clv_pct": -8.98,
+   "actual": 12.0,
+   "profit": 0.76
   },
   {
    "mode": "cheat",
@@ -3849,9 +4083,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.05,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4154,
-   "clv_pct": -16.92
+   "clv_pct": -16.92,
+   "actual": 8.0,
+   "profit": 1.0
   },
   {
    "mode": "ev",
@@ -3881,9 +4117,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.59,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5281,
-   "clv_pct": -2.04
+   "clv_pct": -2.04,
+   "actual": 40.0,
+   "profit": 0.21
   },
   {
    "mode": "cheat",
@@ -3913,9 +4151,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.18,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4433,
-   "clv_pct": -9.57
+   "clv_pct": -9.57,
+   "actual": 1.0,
+   "profit": 1.04
   },
   {
    "mode": "cheat",
@@ -3945,9 +4185,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.99,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.504,
-   "clv_pct": -0.21
+   "clv_pct": -0.21,
+   "actual": 18.0,
+   "profit": 0.98
   },
   {
    "mode": "cheat",
@@ -3977,9 +4219,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.69,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5022,
-   "clv_pct": -5.34
+   "clv_pct": -5.34,
+   "actual": 210.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4009,9 +4253,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.36,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5392,
-   "clv_pct": -3.97
+   "clv_pct": -3.97,
+   "actual": 5.0,
+   "profit": 0.78
   },
   {
    "mode": "ev",
@@ -4041,9 +4287,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 2.56,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.4408,
-   "clv_pct": -4.79
+   "clv_pct": -4.79,
+   "actual": 5.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -4073,9 +4321,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5711,
-   "clv_pct": -12.68
+   "clv_pct": -12.68,
+   "actual": 5.0,
+   "profit": 0.53
   },
   {
    "mode": "cheat",
@@ -4105,9 +4355,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.27,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5379,
-   "clv_pct": -5.76
+   "clv_pct": -5.76,
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4137,9 +4389,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.66,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.502,
-   "clv_pct": -5.77
+   "clv_pct": -5.77,
+   "actual": 16.0,
+   "profit": 0.88
   },
   {
    "mode": "cheat",
@@ -4169,9 +4423,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.96,
    "fair_method": "power",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.4809,
-   "clv_pct": -5.21
+   "clv_pct": -5.21,
+   "actual": 3.0,
+   "profit": 0.97
   },
   {
    "mode": "cheat",
@@ -4201,7 +4457,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4231,7 +4489,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 5.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4261,7 +4521,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 37.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4291,7 +4553,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 18.0,
+   "profit": 0.82
   },
   {
    "mode": "cheat",
@@ -4321,7 +4585,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 12.0,
+   "profit": 0.77
   },
   {
    "mode": "ev",
@@ -4351,9 +4617,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.82,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5322,
-   "clv_pct": 2.5
+   "clv_pct": 2.5,
+   "actual": 33.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -4383,7 +4651,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 27.0,
+   "profit": 0.82
   },
   {
    "mode": "cheat",
@@ -4413,7 +4683,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 12.0,
+   "profit": 0.87
   },
   {
    "mode": "ev",
@@ -4443,9 +4715,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.21,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5863,
-   "clv_pct": 1.72
+   "clv_pct": 1.72,
+   "actual": 13.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -4475,7 +4749,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4505,9 +4781,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.0,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5523,
-   "clv_pct": -10.03
+   "clv_pct": -10.03,
+   "actual": 4.0,
+   "profit": 0.63
   },
   {
    "mode": "cheat",
@@ -4537,7 +4815,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 9.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4567,7 +4847,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 13.0,
+   "profit": 0.99
   },
   {
    "mode": "ev",
@@ -4597,9 +4879,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 3.27,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.4471,
-   "clv_pct": 5.52
+   "clv_pct": 5.52,
+   "actual": 5.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -4629,9 +4913,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 3.98,
    "fair_method": "power",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.3882,
-   "clv_pct": -2.17
+   "clv_pct": -2.17,
+   "actual": 2.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4661,7 +4947,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 4.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4691,7 +4979,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 4.0,
+   "profit": 0.67
   },
   {
    "mode": "cheat",
@@ -4721,7 +5011,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "loss",
+   "actual": 0.0,
+   "profit": -1.0
   },
   {
    "mode": "cheat",
@@ -4751,7 +5043,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 8.0,
+   "profit": 0.97
   },
   {
    "mode": "ev",
@@ -4781,9 +5075,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.32,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "loss",
    "close_fair_prob": 0.5846,
-   "clv_pct": 3.42
+   "clv_pct": 3.42,
+   "actual": 8.0,
+   "profit": -0.25
   },
   {
    "mode": "cheat",
@@ -4813,7 +5109,9 @@
    "fair_source": null,
    "min_ev": null,
    "fair_method": null,
-   "result": null
+   "result": "win",
+   "actual": 21.0,
+   "profit": 0.77
   },
   {
    "mode": "combined",
@@ -4843,9 +5141,11 @@
    "fair_source": "Pinnacle",
    "min_ev": 1.69,
    "fair_method": "multiplicative",
-   "result": null,
+   "result": "win",
    "close_fair_prob": 0.5418,
-   "clv_pct": 2.13
+   "clv_pct": 2.13,
+   "actual": 9.0,
+   "profit": 0.22
   }
  ]
 }

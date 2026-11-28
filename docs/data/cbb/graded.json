@@ -1090,5 +1090,697 @@
  "2026-11-25|401921713|total|over|142.5": {
   "result": "win",
   "actual": 158.0
+ },
+ "2026-11-27|401919033|total|under|157.5": {
+  "result": "win",
+  "actual": 144.0
+ },
+ "2026-11-27|401920429|spread|away|6.5": {
+  "result": "win",
+  "actual": "83-71"
+ },
+ "2026-11-27|401920848|total|under|147.5": {
+  "result": "win",
+  "actual": 143.0
+ },
+ "2026-11-27|401922264|ml|away|None": {
+  "result": "loss",
+  "actual": "61-69"
+ },
+ "2026-11-27|401920382|ml|away|None": {
+  "result": "loss",
+  "actual": "61-70"
+ },
+ "2026-11-27|401924810|ml|away|None": {
+  "result": "win",
+  "actual": "75-57"
+ },
+ "2026-11-27|401919033|ml|away|None": {
+  "result": "win",
+  "actual": "73-71"
+ },
+ "2026-11-27|401924845|ml|home|None": {
+  "result": "win",
+  "actual": "54-82"
+ },
+ "2026-11-27|401929288|ml|away|None": {
+  "result": "win",
+  "actual": "88-85"
+ },
+ "2026-11-27|401929283|ml|home|None": {
+  "result": "loss",
+  "actual": "70-59"
+ },
+ "2026-11-27|401920543|ml|away|None": {
+  "result": "win",
+  "actual": "87-81"
+ },
+ "2026-11-27|401911524|ml|away|None": {
+  "result": "win",
+  "actual": "78-61"
+ },
+ "2026-11-27|401929289|ml|away|None": {
+  "result": "win",
+  "actual": "68-63"
+ },
+ "2026-11-27|401921224|ml|away|None": {
+  "result": "loss",
+  "actual": "59-75"
+ },
+ "2026-11-27|401921185|ml|away|None": {
+  "result": "win",
+  "actual": "72-61"
+ },
+ "2026-11-27|401919786|ml|home|None": {
+  "result": "loss",
+  "actual": "90-86"
+ },
+ "2026-11-27|401929284|ml|home|None": {
+  "result": "loss",
+  "actual": "88-76"
+ },
+ "2026-11-27|401924738|ml|home|None": {
+  "result": "win",
+  "actual": "66-68"
+ },
+ "2026-11-27|401928624|ml|away|None": {
+  "result": "loss",
+  "actual": "66-72"
+ },
+ "2026-11-27|401921417|ml|away|None": {
+  "result": "win",
+  "actual": "89-86"
+ },
+ "2026-11-27|401920541|ml|home|None": {
+  "result": "loss",
+  "actual": "98-69"
+ },
+ "2026-11-27|401921718|ml|away|None": {
+  "result": "win",
+  "actual": "76-73"
+ },
+ "2026-11-27|401920774|ml|away|None": {
+  "result": "win",
+  "actual": "75-49"
+ },
+ "2026-11-27|401927366|ml|away|None": {
+  "result": "loss",
+  "actual": "71-88"
+ },
+ "2026-11-27|401924845|spread|home|-4.5": {
+  "result": "win",
+  "actual": "54-82"
+ },
+ "2026-11-27|401912711|ml|home|None": {
+  "result": "loss",
+  "actual": "72-59"
+ },
+ "2026-11-27|401911030|spread|away|-22.5": {
+  "result": "loss",
+  "actual": "57-93"
+ },
+ "2026-11-27|401925829|ml|home|None": {
+  "result": "win",
+  "actual": "73-75"
+ },
+ "2026-11-27|401920429|ml|home|None": {
+  "result": "loss",
+  "actual": "83-71"
+ },
+ "2026-11-27|401928468|ml|away|None": {
+  "result": "win",
+  "actual": "78-70"
+ },
+ "2026-11-27|401911030|ml|away|None": {
+  "result": "loss",
+  "actual": "57-93"
+ },
+ "2026-11-27|401919033|spread|away|-3.5": {
+  "result": "win",
+  "actual": "73-71"
+ },
+ "2026-11-27|401929283|spread|home|9.5": {
+  "result": "loss",
+  "actual": "70-59"
+ },
+ "2026-11-27|401929288|spread|away|-2.5": {
+  "result": "win",
+  "actual": "88-85"
+ },
+ "2026-11-27|401911030|total|over|152.5": {
+  "result": "loss",
+  "actual": 150.0
+ },
+ "2026-11-27|401921717|ml|home|None": {
+  "result": "win",
+  "actual": "63-75"
+ },
+ "2026-11-27|401921417|spread|away|8.5": {
+  "result": "loss",
+  "actual": "89-86"
+ },
+ "2026-11-27|401920810|ml|home|None": {
+  "result": "win",
+  "actual": "76-78"
+ },
+ "2026-11-27|401924738|spread|home|-7.5": {
+  "result": "loss",
+  "actual": "66-68"
+ },
+ "2026-11-27|401913531|spread|away|-27.5": {
+  "result": "loss",
+  "actual": "76-116"
+ },
+ "2026-11-27|401920382|total|over|144.5": {
+  "result": "loss",
+  "actual": 131.0
+ },
+ "2026-11-27|401909789|ml|away|None": {
+  "result": "loss",
+  "actual": "50-65"
+ },
+ "2026-11-27|401920534|ml|away|None": {
+  "result": "loss",
+  "actual": "64-84"
+ },
+ "2026-11-27|401929289|spread|away|-6.5": {
+  "result": "win",
+  "actual": "68-63"
+ },
+ "2026-11-27|401911524|spread|away|5.5": {
+  "result": "win",
+  "actual": "78-61"
+ },
+ "2026-11-27|401921185|spread|away|-4.5": {
+  "result": "win",
+  "actual": "72-61"
+ },
+ "2026-11-27|401920848|ml|away|None": {
+  "result": "loss",
+  "actual": "67-76"
+ },
+ "2026-11-27|401919786|spread|home|1.5": {
+  "result": "loss",
+  "actual": "90-86"
+ },
+ "2026-11-27|401921718|spread|away|7.5": {
+  "result": "loss",
+  "actual": "76-73"
+ },
+ "2026-11-27|401920543|spread|away|2.5": {
+  "result": "win",
+  "actual": "87-81"
+ },
+ "2026-11-27|401926783|ml|away|None": {
+  "result": "win",
+  "actual": "78-69"
+ },
+ "2026-11-27|401929288|total|over|154.5": {
+  "result": "win",
+  "actual": 173.0
+ },
+ "2026-11-27|401921224|spread|away|-4.5": {
+  "result": "loss",
+  "actual": "59-75"
+ },
+ "2026-11-27|401928624|spread|away|-3.5": {
+  "result": "loss",
+  "actual": "66-72"
+ },
+ "2026-11-27|401920534|total|under|150.5": {
+  "result": "win",
+  "actual": 148.0
+ },
+ "2026-11-27|401929284|spread|home|-5.5": {
+  "result": "loss",
+  "actual": "88-76"
+ },
+ "2026-11-27|401920541|spread|home|7.5": {
+  "result": "loss",
+  "actual": "98-69"
+ },
+ "2026-11-27|401927366|spread|away|-5.5": {
+  "result": "loss",
+  "actual": "71-88"
+ },
+ "2026-11-27|401920429|spread|home|7.5": {
+  "result": "loss",
+  "actual": "83-71"
+ },
+ "2026-11-27|401920774|spread|away|-3.5": {
+  "result": "win",
+  "actual": "75-49"
+ },
+ "2026-11-27|401912711|spread|home|2.5": {
+  "result": "loss",
+  "actual": "72-59"
+ },
+ "2026-11-27|401925829|spread|home|-5.5": {
+  "result": "loss",
+  "actual": "73-75"
+ },
+ "2026-11-27|401921827|spread|home|-36.5": {
+  "result": "win",
+  "actual": "56-111"
+ },
+ "2026-11-27|401909789|spread|away|-12.5": {
+  "result": "loss",
+  "actual": "50-65"
+ },
+ "2026-11-27|401925703|spread|away|-36.5": {
+  "result": "win",
+  "actual": "46-77"
+ },
+ "2026-11-27|401920848|spread|away|-1.5": {
+  "result": "loss",
+  "actual": "67-76"
+ },
+ "2026-11-27|401928468|spread|away|4.5": {
+  "result": "win",
+  "actual": "78-70"
+ },
+ "2026-11-27|401902282|spread|away|-18.5": {
+  "result": "loss",
+  "actual": "56-92"
+ },
+ "2026-11-27|401926783|spread|away|5.5": {
+  "result": "win",
+  "actual": "78-69"
+ },
+ "2026-11-27|401921717|spread|home|-8.5": {
+  "result": "win",
+  "actual": "63-75"
+ },
+ "2026-11-27|401920542|spread|home|-4.5": {
+  "result": "loss",
+  "actual": "88-69"
+ },
+ "2026-11-27|401911212|spread|home|-21.5": {
+  "result": "win",
+  "actual": "51-91"
+ },
+ "2026-11-27|401929283|spread|home|8.5": {
+  "result": "loss",
+  "actual": "70-59"
+ },
+ "2026-11-27|401929288|total|over|153.5": {
+  "result": "win",
+  "actual": 173.0
+ },
+ "2026-11-27|401920429|spread|home|6.5": {
+  "result": "loss",
+  "actual": "83-71"
+ },
+ "2026-11-27|401911030|total|over|151.5": {
+  "result": "loss",
+  "actual": 150.0
+ },
+ "2026-11-27|401920542|ml|home|None": {
+  "result": "loss",
+  "actual": "88-69"
+ },
+ "2026-11-27|401920541|spread|home|8.5": {
+  "result": "loss",
+  "actual": "98-69"
+ },
+ "2026-11-27|401921718|spread|away|8.5": {
+  "result": "loss",
+  "actual": "76-73"
+ },
+ "2026-11-27|401920535|spread|home|6.5": {
+  "result": "win",
+  "actual": "75-78"
+ },
+ "2026-11-27|401912711|total|under|150.5": {
+  "result": "win",
+  "actual": 131.0
+ },
+ "2026-11-27|401929288|spread|away|-1.5": {
+  "result": "win",
+  "actual": "88-85"
+ },
+ "2026-11-27|401909789|spread|away|-11.5": {
+  "result": "loss",
+  "actual": "50-65"
+ },
+ "2026-11-27|401920532|total|over|149.5": {
+  "result": "win",
+  "actual": 161.0
+ },
+ "2026-11-27|401920532|ml|away|None": {
+  "result": "loss",
+  "actual": "73-88"
+ },
+ "2026-11-27|401920532|spread|away|-2.5": {
+  "result": "loss",
+  "actual": "73-88"
+ },
+ "2026-11-27|401928624|spread|away|-4.5": {
+  "result": "loss",
+  "actual": "66-72"
+ },
+ "2026-11-27|401920535|ml|home|None": {
+  "result": "win",
+  "actual": "75-78"
+ },
+ "2026-11-27|401920535|spread|home|7.5": {
+  "result": "win",
+  "actual": "75-78"
+ },
+ "2026-11-27|401928468|spread|away|5.5": {
+  "result": "win",
+  "actual": "78-70"
+ },
+ "2026-11-27|401928468|spread|home|5.5": {
+  "result": "loss",
+  "actual": "78-70"
+ },
+ "2026-11-27|401920810|total|over|157.5": {
+  "result": "loss",
+  "actual": 154.0
+ },
+ "2026-11-27|401920544|ml|home|None": {
+  "result": "loss",
+  "actual": "97-89"
+ },
+ "2026-11-27|401925829|spread|home|-6.5": {
+  "result": "loss",
+  "actual": "73-75"
+ },
+ "2026-11-27|401920534|spread|away|-2.5": {
+  "result": "loss",
+  "actual": "64-84"
+ },
+ "2026-11-27|401928468|spread|away|3.5": {
+  "result": "win",
+  "actual": "78-70"
+ },
+ "2026-11-27|401920382|total|over|143.5": {
+  "result": "loss",
+  "actual": 131.0
+ },
+ "2026-11-27|401920533|ml|away|None": {
+  "result": "loss",
+  "actual": "75-80"
+ },
+ "2026-11-27|401911524|spread|away|6.5": {
+  "result": "win",
+  "actual": "78-61"
+ },
+ "2026-11-27|401921185|spread|away|-3.5": {
+  "result": "win",
+  "actual": "72-61"
+ },
+ "2026-11-27|401920534|spread|away|-1.5": {
+  "result": "loss",
+  "actual": "64-84"
+ },
+ "2026-11-27|401926783|spread|away|4.5": {
+  "result": "win",
+  "actual": "78-69"
+ },
+ "2026-11-27|401920382|total|over|142.5": {
+  "result": "loss",
+  "actual": 131.0
+ },
+ "2026-11-27|401924810|total|over|127.5": {
+  "result": "win",
+  "actual": 132.0
+ },
+ "2026-11-27|401924738|total|under|151.5": {
+  "result": "win",
+  "actual": 134.0
+ },
+ "2026-11-27|401920532|total|under|149.5": {
+  "result": "loss",
+  "actual": 161.0
+ },
+ "2026-11-27|401920534|spread|home|-1.5": {
+  "result": "win",
+  "actual": "64-84"
+ },
+ "2026-11-27|401920534|ml|home|None": {
+  "result": "win",
+  "actual": "64-84"
+ },
+ "2026-11-27|401921718|total|over|158.5": {
+  "result": "loss",
+  "actual": 149.0
+ },
+ "2026-11-27|401919033|spread|away|-4.5": {
+  "result": "win",
+  "actual": "73-71"
+ },
+ "2026-11-27|401928624|spread|away|-5.5": {
+  "result": "loss",
+  "actual": "66-72"
+ },
+ "2026-11-27|401920541|spread|home|9.5": {
+  "result": "loss",
+  "actual": "98-69"
+ },
+ "2026-11-27|401921224|spread|away|-5.5": {
+  "result": "loss",
+  "actual": "59-75"
+ },
+ "2026-11-27|401925703|total|over|145.5": {
+  "result": "loss",
+  "actual": 123.0
+ },
+ "2026-11-27|401920810|spread|home|1.5": {
+  "result": "win",
+  "actual": "76-78"
+ },
+ "2026-11-27|401921717|spread|home|-7.5": {
+  "result": "win",
+  "actual": "63-75"
+ },
+ "2026-11-27|401920810|total|over|158.5": {
+  "result": "loss",
+  "actual": 154.0
+ },
+ "2026-11-27|401911524|spread|home|7.5": {
+  "result": "loss",
+  "actual": "78-61"
+ },
+ "2026-11-27|401920429|total|over|155.5": {
+  "result": "loss",
+  "actual": 154.0
+ },
+ "2026-11-27|401929181|spread|home|2.5": {
+  "result": "loss",
+  "actual": "81-61"
+ },
+ "2026-11-27|401926756|spread|home|-13.5": {
+  "result": "win",
+  "actual": "43-75"
+ },
+ "2026-11-27|401919786|total|under|140.5": {
+  "result": "loss",
+  "actual": 176.0
+ },
+ "2026-11-27|401920544|spread|away|-6.5": {
+  "result": "win",
+  "actual": "97-89"
+ },
+ "2026-11-27|401926756|total|under|145.5": {
+  "result": "win",
+  "actual": 118.0
+ },
+ "2026-11-27|401909789|spread|away|-10.5": {
+  "result": "loss",
+  "actual": "50-65"
+ },
+ "2026-11-27|401920532|total|over|148.5": {
+  "result": "win",
+  "actual": 161.0
+ },
+ "2026-11-27|401929181|ml|home|None": {
+  "result": "loss",
+  "actual": "81-61"
+ },
+ "2026-11-27|401921717|total|over|149.5": {
+  "result": "loss",
+  "actual": 138.0
+ },
+ "2026-11-27|401912711|spread|home|3.5": {
+  "result": "loss",
+  "actual": "72-59"
+ },
+ "2026-11-27|401921417|spread|away|9.5": {
+  "result": "loss",
+  "actual": "89-86"
+ },
+ "2026-11-27|401929284|total|over|161.5": {
+  "result": "win",
+  "actual": 164.0
+ },
+ "2026-11-27|401913531|spread|away|-26.5": {
+  "result": "loss",
+  "actual": "76-116"
+ },
+ "2026-11-27|401920532|spread|home|-2.5": {
+  "result": "win",
+  "actual": "73-88"
+ },
+ "2026-11-27|401920533|spread|home|2.5": {
+  "result": "win",
+  "actual": "75-80"
+ },
+ "2026-11-27|401920810|spread|home|2.5": {
+  "result": "win",
+  "actual": "76-78"
+ },
+ "2026-11-27|401920532|spread|away|-3.5": {
+  "result": "loss",
+  "actual": "73-88"
+ },
+ "2026-11-27|401919033|spread|away|-5.5": {
+  "result": "win",
+  "actual": "73-71"
+ },
+ "2026-11-27|401920429|total|over|154.5": {
+  "result": "loss",
+  "actual": 154.0
+ },
+ "2026-11-27|401919786|spread|home|-1.5": {
+  "result": "loss",
+  "actual": "90-86"
+ },
+ "2026-11-27|401921818|spread|home|-48.5": {
+  "result": "loss",
+  "actual": "61-97"
+ },
+ "2026-11-27|401920382|total|over|141.5": {
+  "result": "loss",
+  "actual": 131.0
+ },
+ "2026-11-27|401925703|total|over|144.5": {
+  "result": "loss",
+  "actual": 123.0
+ },
+ "2026-11-27|401920774|spread|away|-2.5": {
+  "result": "win",
+  "actual": "75-49"
+ },
+ "2026-11-27|401911380|spread|home|-9.5": {
+  "result": "loss",
+  "actual": "76-67"
+ },
+ "2026-11-27|401929283|total|under|141.5": {
+  "result": "win",
+  "actual": 129.0
+ },
+ "2026-11-27|401902282|total|under|152.5": {
+  "result": "win",
+  "actual": 148.0
+ },
+ "2026-11-27|401925703|total|over|143.5": {
+  "result": "loss",
+  "actual": 123.0
+ },
+ "2026-11-27|401902282|spread|away|-19.5": {
+  "result": "loss",
+  "actual": "56-92"
+ },
+ "2026-11-27|401920534|spread|away|-3.5": {
+  "result": "loss",
+  "actual": "64-84"
+ },
+ "2026-11-27|401912213|total|over|141.5": {
+  "result": "loss",
+  "actual": 126.0
+ },
+ "2026-11-27|401920533|spread|away|1.5": {
+  "result": "loss",
+  "actual": "75-80"
+ },
+ "2026-11-27|401924810|spread|home|2.5": {
+  "result": "loss",
+  "actual": "75-57"
+ },
+ "2026-11-27|401920535|spread|home|8.5": {
+  "result": "win",
+  "actual": "75-78"
+ },
+ "2026-11-27|401921827|spread|home|-37.5": {
+  "result": "win",
+  "actual": "56-111"
+ },
+ "2026-11-27|401920534|spread|home|-2.5": {
+  "result": "win",
+  "actual": "64-84"
+ },
+ "2026-11-27|401920774|spread|home|-1.5": {
+  "result": "loss",
+  "actual": "75-49"
+ },
+ "2026-11-27|401920774|ml|home|None": {
+  "result": "loss",
+  "actual": "75-49"
+ },
+ "2026-11-27|401920774|spread|away|-1.5": {
+  "result": "win",
+  "actual": "75-49"
+ },
+ "2026-11-27|401926756|spread|away|-14.5": {
+  "result": "loss",
+  "actual": "43-75"
+ },
+ "2026-11-27|401924738|spread|home|-6.5": {
+  "result": "loss",
+  "actual": "66-68"
+ },
+ "2026-11-27|401927366|spread|away|-6.5": {
+  "result": "loss",
+  "actual": "71-88"
+ },
+ "2026-11-27|401920541|spread|home|10.5": {
+  "result": "loss",
+  "actual": "98-69"
+ },
+ "2026-11-27|401926756|total|under|144.5": {
+  "result": "win",
+  "actual": 118.0
+ },
+ "2026-11-27|401902282|total|under|150.5": {
+  "result": "win",
+  "actual": 148.0
+ },
+ "2026-11-27|401920543|spread|away|1.5": {
+  "result": "win",
+  "actual": "87-81"
+ },
+ "2026-11-27|401929284|total|over|162.5": {
+  "result": "win",
+  "actual": 164.0
+ },
+ "2026-11-27|401922264|total|under|150.5": {
+  "result": "win",
+  "actual": 130.0
+ },
+ "2026-11-27|401925703|spread|away|-35.5": {
+  "result": "win",
+  "actual": "46-77"
+ },
+ "2026-11-27|401911524|total|over|136.5": {
+  "result": "win",
+  "actual": 139.0
+ },
+ "2026-11-27|401920737|spread|home|-11.5": {
+  "result": "loss",
+  "actual": "61-65"
+ },
+ "2026-11-27|401911524|total|over|135.5": {
+  "result": "win",
+  "actual": 139.0
+ },
+ "2026-11-27|401920534|spread|away|-4.5": {
+  "result": "loss",
+  "actual": "64-84"
+ },
+ "2026-11-27|401920535|spread|home|9.5": {
+  "result": "win",
+  "actual": "75-78"
  }
 }
