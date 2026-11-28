@@ -1,5 +1,5 @@
 {
- "at": "2026-11-28T12:36:31-05:00",
+ "at": "2026-11-28T12:57:42-05:00",
  "games": [
   {
    "book": "pinnacle",
@@ -198,8 +198,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "ml",
    "line": null,
-   "a": 1.813,
-   "b": 2.06
+   "a": 1.833,
+   "b": 2.03
   },
   {
    "book": "pinnacle",
@@ -208,8 +208,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": 1.0,
-   "a": 1.73,
-   "b": 2.15
+   "a": 1.752,
+   "b": 2.12
   },
   {
    "book": "pinnacle",
@@ -218,8 +218,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": 2.0,
-   "a": 1.633,
-   "b": 2.32
+   "a": 1.654,
+   "b": 2.28
   },
   {
    "book": "pinnacle",
@@ -228,8 +228,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -3.5,
-   "a": 2.26,
-   "b": 1.658
+   "a": 2.3,
+   "b": 1.641
   },
   {
    "book": "pinnacle",
@@ -238,8 +238,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -3.0,
-   "a": 2.17,
-   "b": 1.714
+   "a": 2.2,
+   "b": 1.694
   },
   {
    "book": "pinnacle",
@@ -248,8 +248,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -2.5,
-   "a": 2.08,
-   "b": 1.781
+   "a": 2.11,
+   "b": 1.758
   },
   {
    "book": "pinnacle",
@@ -258,8 +258,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -2.0,
-   "a": 1.98,
-   "b": 1.855
+   "a": 2.01,
+   "b": 1.833
   },
   {
    "book": "pinnacle",
@@ -268,8 +268,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -1.5,
-   "a": 1.893,
-   "b": 1.962
+   "a": 1.917,
+   "b": 1.935
   },
   {
    "book": "pinnacle",
@@ -278,8 +278,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -1.0,
-   "a": 1.826,
-   "b": 2.02
+   "a": 1.847,
+   "b": 1.99
   },
   {
    "book": "pinnacle",
@@ -288,8 +288,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": 1.5,
-   "a": 1.69,
-   "b": 2.21
+   "a": 1.709,
+   "b": 2.18
   },
   {
    "book": "pinnacle",
@@ -318,8 +318,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 155.0,
-   "a": 1.917,
-   "b": 1.901
+   "a": 1.909,
+   "b": 1.909
   },
   {
    "book": "pinnacle",
@@ -329,7 +329,7 @@
    "kind": "total",
    "line": 156.0,
    "a": 2.02,
-   "b": 1.794
+   "b": 1.8
   },
   {
    "book": "pinnacle",
@@ -339,7 +339,7 @@
    "kind": "total",
    "line": 157.0,
    "a": 2.13,
-   "b": 1.714
+   "b": 1.719
   },
   {
    "book": "pinnacle",
@@ -348,7 +348,7 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 154.5,
-   "a": 1.855,
+   "a": 1.847,
    "b": 1.952
   },
   {
@@ -358,7 +358,7 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 153.5,
-   "a": 1.769,
+   "a": 1.763,
    "b": 2.06
   },
   {
@@ -369,7 +369,7 @@
    "kind": "total",
    "line": 155.5,
    "a": 1.962,
-   "b": 1.84
+   "b": 1.847
   },
   {
    "book": "pinnacle",
@@ -2468,8 +2468,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "ml",
    "line": null,
-   "a": 1.526,
-   "b": 2.61
+   "a": 1.524,
+   "b": 2.62
   },
   {
    "book": "pinnacle",
@@ -2489,7 +2489,7 @@
    "kind": "spread",
    "line": -5.5,
    "a": 2.23,
-   "b": 1.676
+   "b": 1.68
   },
   {
    "book": "pinnacle",
@@ -2498,7 +2498,7 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "spread",
    "line": -5.0,
-   "a": 2.14,
+   "a": 2.13,
    "b": 1.741
   },
   {
@@ -2509,7 +2509,7 @@
    "kind": "spread",
    "line": -4.5,
    "a": 2.03,
-   "b": 1.813
+   "b": 1.82
   },
   {
    "book": "pinnacle",
@@ -2518,8 +2518,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "spread",
    "line": -4.0,
-   "a": 1.943,
-   "b": 1.909
+   "a": 1.935,
+   "b": 1.917
   },
   {
    "book": "pinnacle",
@@ -2528,8 +2528,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "spread",
    "line": -3.5,
-   "a": 1.84,
-   "b": 2.0
+   "a": 1.833,
+   "b": 2.01
   },
   {
    "book": "pinnacle",
@@ -2538,7 +2538,7 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "spread",
    "line": -3.0,
-   "a": 1.763,
+   "a": 1.758,
    "b": 2.1
   },
   {
@@ -2548,7 +2548,7 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "spread",
    "line": -2.5,
-   "a": 1.699,
+   "a": 1.694,
    "b": 2.2
   },
   {
@@ -2558,8 +2558,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "spread",
    "line": -2.0,
-   "a": 1.645,
-   "b": 2.29
+   "a": 1.641,
+   "b": 2.3
   },
   {
    "book": "pinnacle",
@@ -2568,8 +2568,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 146.0,
-   "a": 1.758,
-   "b": 2.07
+   "a": 1.746,
+   "b": 2.08
   },
   {
    "book": "pinnacle",
@@ -2578,8 +2578,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 147.0,
-   "a": 1.833,
-   "b": 1.971
+   "a": 1.826,
+   "b": 1.98
   },
   {
    "book": "pinnacle",
@@ -2588,8 +2588,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 148.0,
-   "a": 1.926,
-   "b": 1.877
+   "a": 1.917,
+   "b": 1.885
   },
   {
    "book": "pinnacle",
@@ -2598,8 +2598,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 149.0,
-   "a": 2.04,
-   "b": 1.781
+   "a": 2.03,
+   "b": 1.787
   },
   {
    "book": "pinnacle",
@@ -2608,8 +2608,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 149.5,
-   "a": 2.09,
-   "b": 1.741
+   "a": 2.08,
+   "b": 1.746
   },
   {
    "book": "pinnacle",
@@ -2618,8 +2618,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 148.5,
-   "a": 1.98,
-   "b": 1.826
+   "a": 1.971,
+   "b": 1.84
   },
   {
    "book": "pinnacle",
@@ -2628,8 +2628,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 147.5,
-   "a": 1.885,
-   "b": 1.935
+   "a": 1.877,
+   "b": 1.943
   },
   {
    "book": "pinnacle",
@@ -2638,8 +2638,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 146.5,
-   "a": 1.794,
-   "b": 2.02
+   "a": 1.787,
+   "b": 2.03
   },
   {
    "book": "pinnacle",
@@ -2648,8 +2648,8 @@
    "start": "2026-11-28T20:00:00Z",
    "kind": "total",
    "line": 145.5,
-   "a": 1.725,
-   "b": 2.11
+   "a": 1.719,
+   "b": 2.12
   },
   {
    "book": "pinnacle",
@@ -3418,8 +3418,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "ml",
    "line": null,
-   "a": 1.877,
-   "b": 1.98
+   "a": 1.862,
+   "b": 1.99
   },
   {
    "book": "pinnacle",
@@ -3428,8 +3428,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": 1.0,
-   "a": 1.8,
-   "b": 2.05
+   "a": 1.794,
+   "b": 2.06
   },
   {
    "book": "pinnacle",
@@ -3438,8 +3438,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": 2.0,
-   "a": 1.69,
-   "b": 2.21
+   "a": 1.685,
+   "b": 2.22
   },
   {
    "book": "pinnacle",
@@ -3448,8 +3448,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": -2.5,
-   "a": 2.18,
-   "b": 1.709
+   "a": 2.16,
+   "b": 1.719
   },
   {
    "book": "pinnacle",
@@ -3458,8 +3458,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": -2.0,
-   "a": 2.08,
-   "b": 1.775
+   "a": 2.07,
+   "b": 1.787
   },
   {
    "book": "pinnacle",
@@ -3468,8 +3468,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": -1.5,
-   "a": 1.98,
-   "b": 1.862
+   "a": 1.971,
+   "b": 1.87
   },
   {
    "book": "pinnacle",
@@ -3478,8 +3478,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": -1.0,
-   "a": 1.926,
-   "b": 1.926
+   "a": 1.909,
+   "b": 1.935
   },
   {
    "book": "pinnacle",
@@ -3488,8 +3488,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": 1.5,
-   "a": 1.758,
-   "b": 2.11
+   "a": 1.746,
+   "b": 2.12
   },
   {
    "book": "pinnacle",
@@ -3498,8 +3498,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": 2.5,
-   "a": 1.637,
-   "b": 2.31
+   "a": 1.629,
+   "b": 2.32
   },
   {
    "book": "pinnacle",
@@ -3508,8 +3508,8 @@
    "start": "2026-11-28T23:00:00Z",
    "kind": "spread",
    "line": -3.0,
-   "a": 2.27,
-   "b": 1.654
+   "a": 2.26,
+   "b": 1.662
   },
   {
    "book": "pinnacle",
@@ -5038,8 +5038,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "ml",
    "line": null,
-   "a": 1.408,
-   "b": 3.04
+   "a": 1.412,
+   "b": 3.03
   },
   {
    "book": "pinnacle",
@@ -5048,8 +5048,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -7.0,
-   "a": 2.15,
-   "b": 1.73
+   "a": 2.16,
+   "b": 1.725
   },
   {
    "book": "pinnacle",
@@ -5058,8 +5058,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -6.5,
-   "a": 2.05,
-   "b": 1.806
+   "a": 2.06,
+   "b": 1.794
   },
   {
    "book": "pinnacle",
@@ -5068,8 +5068,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -6.0,
-   "a": 1.952,
-   "b": 1.901
+   "a": 1.962,
+   "b": 1.893
   },
   {
    "book": "pinnacle",
@@ -5078,8 +5078,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -5.5,
-   "a": 1.847,
-   "b": 1.99
+   "a": 1.855,
+   "b": 1.98
   },
   {
    "book": "pinnacle",
@@ -5088,8 +5088,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -5.0,
-   "a": 1.775,
-   "b": 2.09
+   "a": 1.781,
+   "b": 2.08
   },
   {
    "book": "pinnacle",
@@ -5098,8 +5098,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -4.5,
-   "a": 1.709,
-   "b": 2.18
+   "a": 1.714,
+   "b": 2.17
   },
   {
    "book": "pinnacle",
@@ -5108,8 +5108,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -4.0,
-   "a": 1.654,
-   "b": 2.28
+   "a": 1.658,
+   "b": 2.26
   },
   {
    "book": "pinnacle",
@@ -5118,8 +5118,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -8.0,
-   "a": 2.35,
-   "b": 1.617
+   "a": 2.36,
+   "b": 1.61
   },
   {
    "book": "pinnacle",
@@ -5128,8 +5128,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": -7.5,
-   "a": 2.25,
-   "b": 1.667
+   "a": 2.26,
+   "b": 1.662
   },
   {
    "book": "pinnacle",
@@ -5138,76 +5138,6 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "total",
    "line": 136.0,
-   "a": 1.794,
-   "b": 2.02
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 137.0,
-   "a": 1.877,
-   "b": 1.926
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 138.0,
-   "a": 1.98,
-   "b": 1.826
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 139.0,
-   "a": 2.09,
-   "b": 1.741
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 139.5,
-   "a": 2.15,
-   "b": 1.699
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 138.5,
-   "a": 2.03,
-   "b": 1.787
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 137.5,
-   "a": 1.935,
-   "b": 1.885
-  },
-  {
-   "book": "pinnacle",
-   "home": "Seattle U",
-   "away": "Cal Irvine",
-   "start": "2026-11-28T22:00:00Z",
-   "kind": "total",
-   "line": 136.5,
    "a": 1.833,
    "b": 1.971
   },
@@ -5217,9 +5147,79 @@
    "away": "Cal Irvine",
    "start": "2026-11-28T22:00:00Z",
    "kind": "total",
+   "line": 137.0,
+   "a": 1.926,
+   "b": 1.877
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
+   "line": 138.0,
+   "a": 2.03,
+   "b": 1.787
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
+   "line": 139.0,
+   "a": 2.15,
+   "b": 1.704
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
+   "line": 139.5,
+   "a": 2.2,
+   "b": 1.667
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
+   "line": 138.5,
+   "a": 2.08,
+   "b": 1.746
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
+   "line": 137.5,
+   "a": 1.99,
+   "b": 1.84
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
+   "line": 136.5,
+   "a": 1.877,
+   "b": 1.926
+  },
+  {
+   "book": "pinnacle",
+   "home": "Seattle U",
+   "away": "Cal Irvine",
+   "start": "2026-11-28T22:00:00Z",
+   "kind": "total",
    "line": 135.5,
-   "a": 1.758,
-   "b": 2.07
+   "a": 1.794,
+   "b": 2.02
   },
   {
    "book": "pinnacle",
@@ -5988,8 +5988,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "ml",
    "line": null,
-   "a": 2.72,
-   "b": 1.49
+   "a": 2.64,
+   "b": 1.515
   },
   {
    "book": "pinnacle",
@@ -5998,8 +5998,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 3.0,
-   "a": 2.25,
-   "b": 1.667
+   "a": 2.18,
+   "b": 1.709
   },
   {
    "book": "pinnacle",
@@ -6008,8 +6008,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 4.0,
-   "a": 2.05,
-   "b": 1.8
+   "a": 1.99,
+   "b": 1.855
   },
   {
    "book": "pinnacle",
@@ -6018,8 +6018,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 5.0,
-   "a": 1.855,
-   "b": 1.99
+   "a": 1.8,
+   "b": 2.05
   },
   {
    "book": "pinnacle",
@@ -6028,8 +6028,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 6.0,
-   "a": 1.709,
-   "b": 2.18
+   "a": 1.667,
+   "b": 2.25
   },
   {
    "book": "pinnacle",
@@ -6038,8 +6038,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 3.5,
-   "a": 2.15,
-   "b": 1.73
+   "a": 2.08,
+   "b": 1.775
   },
   {
    "book": "pinnacle",
@@ -6048,8 +6048,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 4.5,
-   "a": 1.952,
-   "b": 1.901
+   "a": 1.893,
+   "b": 1.952
   },
   {
    "book": "pinnacle",
@@ -6058,8 +6058,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 5.5,
-   "a": 1.775,
-   "b": 2.08
+   "a": 1.725,
+   "b": 2.15
   },
   {
    "book": "pinnacle",
@@ -6068,8 +6068,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 2.5,
-   "a": 2.35,
-   "b": 1.613
+   "a": 2.27,
+   "b": 1.658
   },
   {
    "book": "pinnacle",
@@ -6078,8 +6078,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "spread",
    "line": 6.5,
-   "a": 1.654,
-   "b": 2.27
+   "a": 1.613,
+   "b": 2.35
   },
   {
    "book": "pinnacle",
@@ -6089,7 +6089,7 @@
    "kind": "total",
    "line": 147.0,
    "a": 1.8,
-   "b": 2.02
+   "b": 2.01
   },
   {
    "book": "pinnacle",
@@ -6098,8 +6098,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "total",
    "line": 148.0,
-   "a": 1.893,
-   "b": 1.909
+   "a": 1.901,
+   "b": 1.901
   },
   {
    "book": "pinnacle",
@@ -6129,7 +6129,7 @@
    "kind": "total",
    "line": 149.5,
    "a": 2.06,
-   "b": 1.769
+   "b": 1.763
   },
   {
    "book": "pinnacle",
@@ -6139,7 +6139,7 @@
    "kind": "total",
    "line": 148.5,
    "a": 1.962,
-   "b": 1.862
+   "b": 1.855
   },
   {
    "book": "pinnacle",
@@ -6148,7 +6148,7 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "total",
    "line": 147.5,
-   "a": 1.84,
+   "a": 1.847,
    "b": 1.962
   },
   {
@@ -6158,8 +6158,8 @@
    "start": "2026-11-28T22:00:00Z",
    "kind": "total",
    "line": 146.5,
-   "a": 1.758,
-   "b": 2.07
+   "a": 1.763,
+   "b": 2.06
   },
   {
    "book": "pinnacle",
@@ -6558,88 +6558,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "ml",
    "line": null,
-   "a": 1.595,
-   "b": 2.43
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -2.0,
-   "a": 1.699,
-   "b": 2.2
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -1.5,
-   "a": 1.645,
-   "b": 2.29
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -2.5,
-   "a": 1.763,
-   "b": 2.1
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -3.0,
-   "a": 1.84,
-   "b": 2.0
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -3.5,
-   "a": 1.943,
-   "b": 1.909
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -4.0,
-   "a": 2.03,
-   "b": 1.813
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -5.0,
-   "a": 2.23,
-   "b": 1.676
-  },
-  {
-   "book": "pinnacle",
-   "home": "Colgate",
-   "away": "Vermont",
-   "start": "2026-11-28T18:00:00Z",
-   "kind": "spread",
-   "line": -4.5,
-   "a": 2.13,
-   "b": 1.741
+   "a": 1.588,
+   "b": 2.45
   },
   {
    "book": "pinnacle",
@@ -6648,8 +6568,88 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -5.5,
-   "a": 2.33,
-   "b": 1.625
+   "a": 2.32,
+   "b": 1.629
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -5.0,
+   "a": 2.22,
+   "b": 1.685
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -4.5,
+   "a": 2.12,
+   "b": 1.746
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -4.0,
+   "a": 2.02,
+   "b": 1.82
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -3.5,
+   "a": 1.935,
+   "b": 1.917
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -3.0,
+   "a": 1.833,
+   "b": 2.01
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -2.5,
+   "a": 1.758,
+   "b": 2.11
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -2.0,
+   "a": 1.69,
+   "b": 2.21
+  },
+  {
+   "book": "pinnacle",
+   "home": "Colgate",
+   "away": "Vermont",
+   "start": "2026-11-28T18:00:00Z",
+   "kind": "spread",
+   "line": -1.5,
+   "a": 1.637,
+   "b": 2.3
   },
   {
    "book": "pinnacle",
@@ -6707,9 +6707,9 @@
    "away": "Vermont",
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
-   "line": 139.5,
-   "a": 1.847,
-   "b": 1.962
+   "line": 141.5,
+   "a": 2.06,
+   "b": 1.763
   },
   {
    "book": "pinnacle",
@@ -6727,9 +6727,9 @@
    "away": "Vermont",
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
-   "line": 138.5,
-   "a": 1.763,
-   "b": 2.06
+   "line": 139.5,
+   "a": 1.847,
+   "b": 1.962
   },
   {
    "book": "pinnacle",
@@ -6737,9 +6737,9 @@
    "away": "Vermont",
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
-   "line": 141.5,
-   "a": 2.06,
-   "b": 1.763
+   "line": 138.5,
+   "a": 1.763,
+   "b": 2.06
   },
   {
    "book": "pinnacle",
@@ -7008,7 +7008,7 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -4.5,
-   "a": 2.25,
+   "a": 2.24,
    "b": 1.671
   },
   {
@@ -7038,8 +7038,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 134.0,
-   "a": 1.671,
-   "b": 2.19
+   "a": 1.662,
+   "b": 2.21
   },
   {
    "book": "pinnacle",
@@ -7048,8 +7048,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 135.0,
-   "a": 1.763,
-   "b": 2.06
+   "a": 1.752,
+   "b": 2.08
   },
   {
    "book": "pinnacle",
@@ -7058,8 +7058,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 136.0,
-   "a": 1.885,
-   "b": 1.935
+   "a": 1.87,
+   "b": 1.952
   },
   {
    "book": "pinnacle",
@@ -7068,8 +7068,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 137.0,
-   "a": 1.99,
-   "b": 1.82
+   "a": 1.971,
+   "b": 1.833
   },
   {
    "book": "pinnacle",
@@ -7078,8 +7078,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 138.0,
-   "a": 2.1,
-   "b": 1.735
+   "a": 2.08,
+   "b": 1.746
   },
   {
    "book": "pinnacle",
@@ -7088,8 +7088,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 135.5,
-   "a": 1.82,
-   "b": 1.99
+   "a": 1.806,
+   "b": 2.0
   },
   {
    "book": "pinnacle",
@@ -7098,8 +7098,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 136.5,
-   "a": 1.935,
-   "b": 1.87
+   "a": 1.926,
+   "b": 1.877
   },
   {
    "book": "pinnacle",
@@ -7108,8 +7108,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 137.5,
-   "a": 2.04,
-   "b": 1.775
+   "a": 2.03,
+   "b": 1.787
   },
   {
    "book": "pinnacle",
@@ -7118,8 +7118,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 134.5,
-   "a": 1.714,
-   "b": 2.13
+   "a": 1.704,
+   "b": 2.14
   },
   {
    "book": "pinnacle",
@@ -7128,8 +7128,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -27.5,
-   "a": 2.06,
-   "b": 1.794
+   "a": 2.04,
+   "b": 1.806
   },
   {
    "book": "pinnacle",
@@ -7138,8 +7138,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -26.5,
-   "a": 1.877,
-   "b": 1.962
+   "a": 1.862,
+   "b": 1.98
   },
   {
    "book": "pinnacle",
@@ -7148,8 +7148,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -27.0,
-   "a": 1.971,
-   "b": 1.877
+   "a": 1.952,
+   "b": 1.893
   },
   {
    "book": "pinnacle",
@@ -7158,8 +7158,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -28.0,
-   "a": 2.16,
-   "b": 1.725
+   "a": 2.13,
+   "b": 1.741
   },
   {
    "book": "pinnacle",
@@ -7168,8 +7168,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "spread",
    "line": -26.0,
-   "a": 1.806,
-   "b": 2.05
+   "a": 1.787,
+   "b": 2.06
   },
   {
    "book": "pinnacle",
@@ -7178,8 +7178,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 163.0,
-   "a": 1.8,
-   "b": 2.02
+   "a": 1.758,
+   "b": 2.07
   },
   {
    "book": "pinnacle",
@@ -7188,8 +7188,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 164.0,
-   "a": 1.909,
-   "b": 1.909
+   "a": 1.862,
+   "b": 1.962
   },
   {
    "book": "pinnacle",
@@ -7198,8 +7198,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 165.0,
-   "a": 2.0,
-   "b": 1.813
+   "a": 1.952,
+   "b": 1.855
   },
   {
    "book": "pinnacle",
@@ -7208,8 +7208,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 163.5,
-   "a": 1.855,
-   "b": 1.952
+   "a": 1.806,
+   "b": 2.0
   },
   {
    "book": "pinnacle",
@@ -7218,8 +7218,8 @@
    "start": "2026-11-28T18:00:00Z",
    "kind": "total",
    "line": 164.5,
-   "a": 1.952,
-   "b": 1.855
+   "a": 1.901,
+   "b": 1.901
   },
   {
    "book": "pinnacle",
@@ -9649,7 +9649,7 @@
    "kind": "spread",
    "line": -18.0,
    "a": 1.98,
-   "b": 1.855
+   "b": 1.862
   },
   {
    "book": "pinnacle",
@@ -9707,19 +9707,9 @@
    "away": "South Carolina State",
    "start": "2026-11-29T00:30:00Z",
    "kind": "total",
-   "line": 140.0,
-   "a": 1.73,
-   "b": 2.11
-  },
-  {
-   "book": "pinnacle",
-   "home": "Duquesne",
-   "away": "South Carolina State",
-   "start": "2026-11-29T00:30:00Z",
-   "kind": "total",
    "line": 141.0,
-   "a": 1.813,
-   "b": 2.0
+   "a": 1.806,
+   "b": 2.01
   },
   {
    "book": "pinnacle",
@@ -9747,8 +9737,18 @@
    "away": "South Carolina State",
    "start": "2026-11-29T00:30:00Z",
    "kind": "total",
+   "line": 144.0,
+   "a": 2.13,
+   "b": 1.714
+  },
+  {
+   "book": "pinnacle",
+   "home": "Duquesne",
+   "away": "South Carolina State",
+   "start": "2026-11-29T00:30:00Z",
+   "kind": "total",
    "line": 141.5,
-   "a": 1.862,
+   "a": 1.855,
    "b": 1.952
   },
   {
@@ -9757,19 +9757,9 @@
    "away": "South Carolina State",
    "start": "2026-11-29T00:30:00Z",
    "kind": "total",
-   "line": 139.5,
-   "a": 1.694,
-   "b": 2.16
-  },
-  {
-   "book": "pinnacle",
-   "home": "Duquesne",
-   "away": "South Carolina State",
-   "start": "2026-11-29T00:30:00Z",
-   "kind": "total",
    "line": 140.5,
-   "a": 1.769,
-   "b": 2.05
+   "a": 1.763,
+   "b": 2.06
   },
   {
    "book": "pinnacle",
@@ -9778,8 +9768,8 @@
    "start": "2026-11-29T00:30:00Z",
    "kind": "total",
    "line": 142.5,
-   "a": 1.962,
-   "b": 1.84
+   "a": 1.971,
+   "b": 1.847
   },
   {
    "book": "pinnacle",
@@ -9790,6 +9780,16 @@
    "line": 143.5,
    "a": 2.07,
    "b": 1.758
+  },
+  {
+   "book": "pinnacle",
+   "home": "Duquesne",
+   "away": "South Carolina State",
+   "start": "2026-11-29T00:30:00Z",
+   "kind": "total",
+   "line": 144.5,
+   "a": 2.18,
+   "b": 1.685
   },
   {
    "book": "pinnacle",
