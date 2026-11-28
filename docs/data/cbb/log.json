@@ -24279,8 +24279,8 @@
    "min_ev": 1.76,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.526,
-   "clv_pct": 0.41
+   "close_fair_prob": 0.5436,
+   "clv_pct": 3.77
   },
   "combined|2026-11-28|401920906|ml|home|None|fanduel": {
    "mode": "combined",
@@ -24311,8 +24311,8 @@
    "min_ev": 1.0,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.6843,
-   "clv_pct": -0.43
+   "close_fair_prob": 0.6985,
+   "clv_pct": 1.63
   },
   "ev|2026-11-28|401920906|spread|home|-5.5|fanduel": {
    "mode": "ev",
@@ -24343,8 +24343,8 @@
    "min_ev": 1.76,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.526,
-   "clv_pct": 0.41
+   "close_fair_prob": 0.5436,
+   "clv_pct": 3.77
   },
   "ev|2026-11-28|401911242|spread|home|-14.5|fanduel": {
    "mode": "ev",
@@ -24407,8 +24407,8 @@
    "min_ev": 1.0,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.6843,
-   "clv_pct": -0.43
+   "close_fair_prob": 0.6985,
+   "clv_pct": 1.63
   },
   "cheat|2026-11-28|401920954|ml|away|None|draftkings": {
    "mode": "cheat",
@@ -25135,8 +25135,8 @@
    "min_ev": null,
    "fair_method": null,
    "result": null,
-   "close_fair_prob": 0.7435,
-   "clv_pct": -4.98
+   "close_fair_prob": 0.7486,
+   "clv_pct": -4.33
   },
   "cheat|2026-11-28|401926757|ml|home|None|draftkings": {
    "mode": "cheat",
@@ -25199,8 +25199,8 @@
    "min_ev": 1.0,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.6843,
-   "clv_pct": -0.43
+   "close_fair_prob": 0.6985,
+   "clv_pct": 1.63
   },
   "cheat|2026-11-28|401911242|ml|away|None|draftkings": {
    "mode": "cheat",
@@ -25743,8 +25743,8 @@
    "min_ev": 4.69,
    "fair_method": "power",
    "result": null,
-   "close_fair_prob": 0.3427,
-   "clv_pct": -8.16
+   "close_fair_prob": 0.3405,
+   "clv_pct": -8.75
   },
   "cheat|2026-11-28|401920310|spread|home|-27.5|draftkings": {
    "mode": "cheat",
@@ -26063,8 +26063,8 @@
    "min_ev": null,
    "fair_method": null,
    "result": null,
-   "close_fair_prob": 0.4339,
-   "clv_pct": -14.48
+   "close_fair_prob": 0.4432,
+   "clv_pct": -12.65
   },
   "cheat|2026-11-28|401917548|spread|away|-4.5|fanduel": {
    "mode": "cheat",
@@ -26759,8 +26759,8 @@
    "min_ev": 1.76,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.526,
-   "clv_pct": 0.41
+   "close_fair_prob": 0.5436,
+   "clv_pct": 3.77
   },
   "cheat|2026-11-28|401918961|spread|away|-20.5|fanduel": {
    "mode": "cheat",
@@ -26951,8 +26951,8 @@
    "min_ev": 1.99,
    "fair_method": "power",
    "result": null,
-   "close_fair_prob": 0.4675,
-   "clv_pct": -7.43
+   "close_fair_prob": 0.4655,
+   "clv_pct": -7.83
   },
   "cheat|2026-11-28|401911312|spread|away|-2.5|draftkings": {
    "mode": "cheat",
@@ -27335,8 +27335,8 @@
    "min_ev": 1.0,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.6843,
-   "clv_pct": -4.2
+   "close_fair_prob": 0.6985,
+   "clv_pct": -2.21
   },
   "cheat|2026-11-28|401920924|ml|away|None|draftkings": {
    "mode": "cheat",
@@ -27399,8 +27399,8 @@
    "min_ev": 1.79,
    "fair_method": "power",
    "result": null,
-   "close_fair_prob": 0.476,
-   "clv_pct": -8.75
+   "close_fair_prob": 0.4956,
+   "clv_pct": -4.99
   },
   "ev|2026-11-28|401920436|spread|home|-5.5|draftkings": {
    "mode": "ev",
@@ -27783,8 +27783,8 @@
    "min_ev": null,
    "fair_method": null,
    "result": null,
-   "close_fair_prob": 0.4339,
-   "clv_pct": -17.17
+   "close_fair_prob": 0.4432,
+   "clv_pct": -15.39
   },
   "cheat|2026-11-28|401924811|spread|home|-1.5|fanduel": {
    "mode": "cheat",
@@ -28199,8 +28199,8 @@
    "min_ev": null,
    "fair_method": null,
    "result": null,
-   "close_fair_prob": 0.7435,
-   "clv_pct": -6.32
+   "close_fair_prob": 0.7486,
+   "clv_pct": -5.68
   },
   "cheat|2026-11-28|401920197|spread|away|3.5|draftkings": {
    "mode": "cheat",
@@ -30361,8 +30361,8 @@
    "min_ev": 1.57,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.526,
-   "clv_pct": -2.85
+   "close_fair_prob": 0.5436,
+   "clv_pct": 0.4
   },
   "cheat|2026-11-28|401925033|spread|home|7.5|fanduel": {
    "mode": "cheat",
@@ -31349,8 +31349,8 @@
    "min_ev": 1.87,
    "fair_method": "power",
    "result": null,
-   "close_fair_prob": 0.476,
-   "clv_pct": -7.51
+   "close_fair_prob": 0.4956,
+   "clv_pct": -3.7
   },
   "cheat|2026-11-28|401928848|ml|home|None|draftkings": {
    "mode": "cheat",
@@ -32625,8 +32625,8 @@
    "min_ev": 4.51,
    "fair_method": "power",
    "result": null,
-   "close_fair_prob": 0.3427,
-   "clv_pct": -9.53
+   "close_fair_prob": 0.3405,
+   "clv_pct": -10.11
   },
   "cheat|2026-11-28|401912214|spread|home|-3.5|fanduel": {
    "mode": "cheat",
@@ -32689,8 +32689,8 @@
    "min_ev": 1.71,
    "fair_method": "power",
    "result": null,
-   "close_fair_prob": 0.4675,
-   "clv_pct": -11.5
+   "close_fair_prob": 0.4655,
+   "clv_pct": -11.88
   },
   "cheat|2026-11-28|401918961|spread|away|-19.5|fanduel": {
    "mode": "cheat",
@@ -32913,8 +32913,8 @@
    "min_ev": 1.9,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.4812,
-   "clv_pct": -6.07
+   "close_fair_prob": 0.4911,
+   "clv_pct": -4.14
   },
   "combined|2026-11-28|401920536|spread|away|-6.5|draftkings": {
    "mode": "combined",
@@ -32977,8 +32977,8 @@
    "min_ev": 1.0,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.7435,
-   "clv_pct": -3.12
+   "close_fair_prob": 0.7486,
+   "clv_pct": -2.46
   },
   "ev|2026-11-28|401912232|spread|home|-7.5|draftkings": {
    "mode": "ev",
@@ -33009,8 +33009,8 @@
    "min_ev": 1.9,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.4812,
-   "clv_pct": -6.07
+   "close_fair_prob": 0.4911,
+   "clv_pct": -4.14
   },
   "ev|2026-11-28|401920536|spread|away|-6.5|draftkings": {
    "mode": "ev",
@@ -33073,8 +33073,8 @@
    "min_ev": 1.0,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.7435,
-   "clv_pct": -3.12
+   "close_fair_prob": 0.7486,
+   "clv_pct": -2.46
   },
   "cheat|2026-11-28|401912232|spread|home|-7.5|draftkings": {
    "mode": "cheat",
@@ -33105,8 +33105,8 @@
    "min_ev": 1.9,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.4812,
-   "clv_pct": -6.07
+   "close_fair_prob": 0.4911,
+   "clv_pct": -4.14
   },
   "cheat|2026-11-28|401917548|spread|away|-5.5|draftkings": {
    "mode": "cheat",
@@ -33359,8 +33359,8 @@
    "min_ev": null,
    "fair_method": null,
    "result": null,
-   "close_fair_prob": 0.5282,
-   "clv_pct": -1.23
+   "close_fair_prob": 0.5375,
+   "clv_pct": 0.51
   },
   "cheat|2026-11-28|401924811|spread|home|-0.5|fanduel": {
    "mode": "cheat",
@@ -33611,8 +33611,8 @@
    "min_ev": 1.71,
    "fair_method": "multiplicative",
    "result": null,
-   "close_fair_prob": 0.5186,
-   "clv_pct": -1.83
+   "close_fair_prob": 0.5154,
+   "clv_pct": -2.43
   },
   "cheat|2026-11-28|401911312|spread|away|-2.5|fanduel": {
    "mode": "cheat",
@@ -33707,8 +33707,8 @@
    "min_ev": null,
    "fair_method": null,
    "result": null,
-   "close_fair_prob": 0.5282,
-   "clv_pct": -3.18
+   "close_fair_prob": 0.5375,
+   "clv_pct": -1.48
   },
   "cheat|2026-11-28|401911031|spread|home|2.5|draftkings": {
    "mode": "cheat",
@@ -34187,6 +34187,70 @@
    "result": null,
    "close_fair_prob": 0.8337,
    "clv_pct": -3.29
+  },
+  "combined|2026-11-28|401912232|spread|home|-6.5|draftkings": {
+   "mode": "combined",
+   "kind": "spread",
+   "first_seen": "2026-11-28T15:05:13-05:00",
+   "week": "2026-11-28",
+   "player": "Rider @ Army",
+   "title": "Army -6.5",
+   "pkey": "401912232",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "side": "home",
+   "line": -6.5,
+   "book": "draftkings",
+   "dec": 1.893,
+   "american": -112,
+   "units": 0.25,
+   "ev_pct": 1.75,
+   "fair_prob": 0.5375,
+   "kickoff": "2026-11-28T19:00:00-05:00",
+   "team": "Army",
+   "opp": "Rider",
+   "game_id": "401912232",
+   "home": "Army",
+   "away": "Rider",
+   "tier": "single",
+   "fair_source": "Pinnacle",
+   "min_ev": 1.71,
+   "fair_method": "multiplicative",
+   "result": null,
+   "close_fair_prob": 0.5375,
+   "clv_pct": 1.75
+  },
+  "ev|2026-11-28|401912232|spread|home|-6.5|draftkings": {
+   "mode": "ev",
+   "kind": "spread",
+   "first_seen": "2026-11-28T15:05:13-05:00",
+   "week": "2026-11-28",
+   "player": "Rider @ Army",
+   "title": "Army -6.5",
+   "pkey": "401912232",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "side": "home",
+   "line": -6.5,
+   "book": "draftkings",
+   "dec": 1.893,
+   "american": -112,
+   "units": 0.25,
+   "ev_pct": 1.75,
+   "fair_prob": 0.5375,
+   "kickoff": "2026-11-28T19:00:00-05:00",
+   "team": "Army",
+   "opp": "Rider",
+   "game_id": "401912232",
+   "home": "Army",
+   "away": "Rider",
+   "tier": "single",
+   "fair_source": "Pinnacle",
+   "min_ev": 1.71,
+   "fair_method": "multiplicative",
+   "result": null,
+   "close_fair_prob": 0.5375,
+   "clv_pct": 1.75
   }
  }
 }
