@@ -1,13 +1,13 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T08:22:17-05:00",
+ "generated_at": "2026-11-28T08:32:52-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
  "next_kickoff": "2026-11-28T12:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 358,
+  "book_game_lines": 362,
   "book_unmatched": 3,
   "book_unmatched_games": [
    "SE Missouri St @ UMKC",
@@ -2522,6 +2522,329 @@
  "combined": [],
  "ev": [
   {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Saint Joseph's @ Monmouth",
+   "pkey": "401920197",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Monmouth +4.5",
+   "line": 4.5,
+   "side": "home",
+   "team": "Monmouth",
+   "opp": "Saint Joseph's",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/183873531086452",
+   "game_id": "401920197",
+   "kickoff": "2026-11-28T19:00:00-05:00",
+   "home": "Monmouth",
+   "away": "Saint Joseph's",
+   "dec": 1.833,
+   "american": -120,
+   "game_model": {
+    "game_id": "401920197",
+    "home": "Monmouth",
+    "away": "Saint Joseph's",
+    "kickoff": "2026-11-28T19:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 64.3,
+    "proj_away": 78.6,
+    "proj_margin": -14.4,
+    "proj_total": 142.9,
+    "home_win_prob": 0.096,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -2.23,
+    "home_em": -5.7,
+    "away_em": 2.3,
+    "home_t": 69.6,
+    "away_t": 71.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 1.98
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.633,
+     "b": 2.29
+    }
+   ],
+   "model_prob": 0.184,
+   "model_edge": -9.9,
+   "model_edge_txt": "-9.9 pts",
+   "cheat_side": null,
+   "cbb_tier": null,
+   "pinnacle_line": "Monmouth +4.5 -158 / Saint Joseph's -4.5 129",
+   "fair_prob": 0.5837,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5837,
+    0.59
+   ],
+   "devig_all": {
+    "multiplicative": 0.5837,
+    "additive": 0.5878,
+    "power": 0.59
+   },
+   "ev_pct": 7.0,
+   "min_ev": 1.52,
+   "units": 0.25,
+   "base_units": 1.680427460303519,
+   "kelly_pct": 8.4,
+   "trusted_prob": 0.5761,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.633,
+   "lane": "cbb:spread",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.34,
+    "roi_pct": -38.2
+   },
+   "sizing": {
+    "base": 1.68,
+    "conf": 0.22,
+    "conf_why": [
+     "matchup points the other way",
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 2,
+    "player_bets": 1,
+    "corr": 0.71,
+    "cap": 2.0,
+    "raw": 0.27
+   },
+   "exp_profit_units": 0.018
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "N Arizona @ Bakersfield",
+   "pkey": "401920139",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "N Arizona +6.5",
+   "line": -6.5,
+   "side": "away",
+   "team": "N Arizona",
+   "opp": "Bakersfield",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126106841710992",
+   "game_id": "401920139",
+   "kickoff": "2026-11-28T17:00:00-05:00",
+   "home": "Bakersfield",
+   "away": "N Arizona",
+   "dec": 1.909,
+   "american": -110,
+   "game_model": {
+    "game_id": "401920139",
+    "home": "Bakersfield",
+    "away": "N Arizona",
+    "kickoff": "2026-11-28T17:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 86.2,
+    "proj_away": 70.0,
+    "proj_margin": 16.2,
+    "proj_total": 156.3,
+    "home_win_prob": 0.93,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.695,
+    "home_em": -9.2,
+    "away_em": -9.4,
+    "home_t": 70.1,
+    "away_t": 64.8,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.926,
+     "b": 1.893
+    },
+    {
+     "book": "fanduel",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.13,
+     "b": 1.741
+    }
+   ],
+   "model_prob": 0.189,
+   "model_edge": -9.7,
+   "model_edge_txt": "-9.7 pts",
+   "cheat_side": null,
+   "cbb_tier": null,
+   "pinnacle_line": "Bakersfield -6.5 113 / N Arizona +6.5 -135",
+   "fair_prob": 0.5502,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5502,
+    0.5536
+   ],
+   "devig_all": {
+    "multiplicative": 0.5502,
+    "additive": 0.5524,
+    "power": 0.5536
+   },
+   "ev_pct": 5.04,
+   "min_ev": 1.76,
+   "units": 0.25,
+   "base_units": 1.1093178550611456,
+   "kelly_pct": 5.55,
+   "trusted_prob": 0.545,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -3.73,
+   "pinn_dec": 1.741,
+   "lane": "cbb:spread",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.34,
+    "roi_pct": -38.2
+   },
+   "sizing": {
+    "base": 1.11,
+    "conf": 0.22,
+    "conf_why": [
+     "matchup points the other way",
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 1,
+    "player_bets": 1,
+    "corr": 1.0,
+    "cap": 2.0,
+    "raw": 0.25
+   },
+   "exp_profit_units": 0.013
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Saint Joseph's @ Monmouth",
+   "pkey": "401920197",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Monmouth +3.5",
+   "line": 3.5,
+   "side": "home",
+   "team": "Monmouth",
+   "opp": "Saint Joseph's",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/268223007451031",
+   "game_id": "401920197",
+   "kickoff": "2026-11-28T19:00:00-05:00",
+   "home": "Monmouth",
+   "away": "Saint Joseph's",
+   "dec": 1.909,
+   "american": -110,
+   "game_model": {
+    "game_id": "401920197",
+    "home": "Monmouth",
+    "away": "Saint Joseph's",
+    "kickoff": "2026-11-28T19:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 64.3,
+    "proj_away": 78.6,
+    "proj_margin": -14.4,
+    "proj_total": 142.9,
+    "home_win_prob": 0.096,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -2.23,
+    "home_em": -5.7,
+    "away_em": 2.3,
+    "home_t": 69.6,
+    "away_t": 71.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.746,
+     "b": 2.1
+    }
+   ],
+   "model_prob": 0.161,
+   "model_edge": -10.9,
+   "model_edge_txt": "-10.9 pts",
+   "cheat_side": null,
+   "cbb_tier": null,
+   "pinnacle_line": "Monmouth +3.5 -134 / Saint Joseph's -3.5 110",
+   "fair_prob": 0.546,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.546,
+    0.5494
+   ],
+   "devig_all": {
+    "multiplicative": 0.546,
+    "additive": 0.5483,
+    "power": 0.5494
+   },
+   "ev_pct": 4.24,
+   "min_ev": 1.76,
+   "units": 0.25,
+   "base_units": 0.9319184648574125,
+   "kelly_pct": 4.66,
+   "trusted_prob": 0.5416,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.746,
+   "lane": "cbb:spread",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.34,
+    "roi_pct": -38.2
+   },
+   "sizing": {
+    "base": 0.93,
+    "conf": 0.22,
+    "conf_why": [
+     "matchup points the other way",
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 2,
+    "player_bets": 1,
+    "corr": 0.71,
+    "cap": 2.0,
+    "raw": 0.15
+   },
+   "exp_profit_units": 0.011
+  },
+  {
    "kind": "total",
    "week": "2026-11-28",
    "player": "Drexel @ Mount St Marys",
@@ -2607,7 +2930,7 @@
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.26,
+    "ev_vs_close": 0.33,
     "roi_pct": 19.2
    },
    "sizing": {
@@ -2718,7 +3041,7 @@
    "lane_info": {
     "graded": 53,
     "days": 2,
-    "ev_vs_close": -0.22,
+    "ev_vs_close": -0.34,
     "roi_pct": -38.2
    },
    "sizing": {
@@ -2941,93 +3264,6 @@
    "model_edge": 36.67,
    "model_edge_txt": "+36.7%",
    "cheat_side": "away"
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Saint Joseph's @ Monmouth",
-   "pkey": "401920197",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Saint Joseph's Moneyline",
-   "line": null,
-   "side": "away",
-   "team": "Saint Joseph's",
-   "opp": "Monmouth",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/263450778794800",
-   "game_id": "401920197",
-   "kickoff": "2026-11-28T19:00:00-05:00",
-   "home": "Monmouth",
-   "away": "Saint Joseph's",
-   "dec": 1.769,
-   "american": -130,
-   "game_model": {
-    "game_id": "401920197",
-    "home": "Monmouth",
-    "away": "Saint Joseph's",
-    "kickoff": "2026-11-28T19:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 64.3,
-    "proj_away": 78.6,
-    "proj_margin": -14.4,
-    "proj_total": 142.9,
-    "home_win_prob": 0.096,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -2.23,
-    "home_em": -5.7,
-    "away_em": 2.3,
-    "home_t": 69.6,
-    "away_t": 71.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 2.2,
-     "b": 1.704
-    },
-    {
-     "book": "fanduel",
-     "a": 2.08,
-     "b": 1.769
-    },
-    {
-     "book": "pinnacle",
-     "a": 2.23,
-     "b": 1.694
-    }
-   ],
-   "model_prob": 0.904,
-   "model_edge": 36.36,
-   "model_edge_txt": "+36.4%",
-   "cheat_side": "away",
-   "pinnacle_line": "Monmouth +123 / Saint Joseph's -144",
-   "fair_prob": 0.5683,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5683,
-    0.5723
-   ],
-   "devig_all": {
-    "multiplicative": 0.5683,
-    "additive": 0.5709,
-    "power": 0.5723
-   },
-   "ev_pct": 0.53,
-   "min_ev": 1.32,
-   "units": 0.13832386209236386,
-   "base_units": 0.13832386209236386,
-   "kelly_pct": 0.69,
-   "trusted_prob": 0.5677,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -0.31,
-   "pinn_dec": 1.694
   },
   {
    "kind": "ml",
@@ -3322,6 +3558,93 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
+   "player": "Saint Joseph's @ Monmouth",
+   "pkey": "401920197",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Saint Joseph's Moneyline",
+   "line": null,
+   "side": "away",
+   "team": "Saint Joseph's",
+   "opp": "Monmouth",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/221197670611513",
+   "game_id": "401920197",
+   "kickoff": "2026-11-28T19:00:00-05:00",
+   "home": "Monmouth",
+   "away": "Saint Joseph's",
+   "dec": 1.602,
+   "american": -166,
+   "game_model": {
+    "game_id": "401920197",
+    "home": "Monmouth",
+    "away": "Saint Joseph's",
+    "kickoff": "2026-11-28T19:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 64.3,
+    "proj_away": 78.6,
+    "proj_margin": -14.4,
+    "proj_total": 142.9,
+    "home_win_prob": 0.096,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -2.23,
+    "home_em": -5.7,
+    "away_em": 2.3,
+    "home_t": 69.6,
+    "away_t": 71.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 2.4,
+     "b": 1.602
+    },
+    {
+     "book": "fanduel",
+     "a": 2.42,
+     "b": 1.568
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.23,
+     "b": 1.694
+    }
+   ],
+   "model_prob": 0.904,
+   "model_edge": 30.43,
+   "model_edge_txt": "+30.4%",
+   "cheat_side": "away",
+   "pinnacle_line": "Monmouth +123 / Saint Joseph's -144",
+   "fair_prob": 0.5683,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5683,
+    0.5723
+   ],
+   "devig_all": {
+    "multiplicative": 0.5683,
+    "additive": 0.5709,
+    "power": 0.5723
+   },
+   "ev_pct": -8.96,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -14.88,
+   "trusted_prob": 0.5795,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.79,
+   "pinn_dec": 1.694
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
    "player": "The Citadel @ High Point",
    "pkey": "401920415",
    "stat": "ml",
@@ -3463,93 +3786,6 @@
    "tier": "single",
    "second_ev": -4.5,
    "pinn_dec": 2.71
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "N Arizona @ Bakersfield",
-   "pkey": "401920139",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Bakersfield Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Bakersfield",
-   "opp": "N Arizona",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/107994052722490",
-   "game_id": "401920139",
-   "kickoff": "2026-11-28T17:00:00-05:00",
-   "home": "Bakersfield",
-   "away": "N Arizona",
-   "dec": 1.455,
-   "american": -220,
-   "game_model": {
-    "game_id": "401920139",
-    "home": "Bakersfield",
-    "away": "N Arizona",
-    "kickoff": "2026-11-28T17:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 86.2,
-    "proj_away": 70.0,
-    "proj_margin": 16.2,
-    "proj_total": 156.3,
-    "home_win_prob": 0.93,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.695,
-    "home_em": -9.2,
-    "away_em": -9.4,
-    "home_t": 70.1,
-    "away_t": 64.8,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.435,
-     "b": 2.9
-    },
-    {
-     "book": "fanduel",
-     "a": 1.455,
-     "b": 2.84
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.431,
-     "b": 2.94
-    }
-   ],
-   "model_prob": 0.93,
-   "model_edge": 26.88,
-   "model_edge_txt": "+26.9%",
-   "cheat_side": "home",
-   "pinnacle_line": "Bakersfield -232 / N Arizona +194",
-   "fair_prob": 0.6726,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6726,
-    0.6828
-   ],
-   "devig_all": {
-    "multiplicative": 0.6726,
-    "additive": 0.6793,
-    "power": 0.6828
-   },
-   "ev_pct": -2.13,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -4.69,
-   "trusted_prob": 0.6755,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -2.66,
-   "pinn_dec": 1.431
   },
   {
    "kind": "ml",
@@ -3708,8 +3944,8 @@
    "side": "home",
    "team": "Hofstra",
    "opp": "Merrimack",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/229382761418991",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/135834389418644",
    "game_id": "401924811",
    "kickoff": "2026-11-28T15:30:00-05:00",
    "home": "Hofstra",
@@ -3740,8 +3976,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.8,
-     "b": 2.05
+     "a": 1.833,
+     "b": 2.0
     },
     {
      "book": "fanduel",
@@ -3780,8 +4016,95 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.4,
+   "second_ev": -4.36,
    "pinn_dec": 1.781
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "N Arizona @ Bakersfield",
+   "pkey": "401920139",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Bakersfield Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Bakersfield",
+   "opp": "N Arizona",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/130838268822793",
+   "game_id": "401920139",
+   "kickoff": "2026-11-28T17:00:00-05:00",
+   "home": "Bakersfield",
+   "away": "N Arizona",
+   "dec": 1.377,
+   "american": -265,
+   "game_model": {
+    "game_id": "401920139",
+    "home": "Bakersfield",
+    "away": "N Arizona",
+    "kickoff": "2026-11-28T17:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 86.2,
+    "proj_away": 70.0,
+    "proj_margin": 16.2,
+    "proj_total": 156.3,
+    "home_win_prob": 0.93,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.695,
+    "home_em": -9.2,
+    "away_em": -9.4,
+    "home_t": 70.1,
+    "away_t": 64.8,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.377,
+     "b": 3.15
+    },
+    {
+     "book": "fanduel",
+     "a": 1.364,
+     "b": 3.2
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.431,
+     "b": 2.94
+    }
+   ],
+   "model_prob": 0.93,
+   "model_edge": 23.42,
+   "model_edge_txt": "+23.4%",
+   "cheat_side": "home",
+   "pinnacle_line": "Bakersfield -232 / N Arizona +194",
+   "fair_prob": 0.6726,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.6726,
+    0.6828
+   ],
+   "devig_all": {
+    "multiplicative": 0.6726,
+    "additive": 0.6793,
+    "power": 0.6828
+   },
+   "ev_pct": -7.38,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -19.58,
+   "trusted_prob": 0.6833,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -3.45,
+   "pinn_dec": 1.431
   },
   {
    "kind": "ml",
@@ -4027,14 +4350,14 @@
    "side": "away",
    "team": "N Colorado",
    "opp": "San Diego",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/18872398736452",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/179706498135422",
    "game_id": "401917549",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "San Diego",
    "away": "N Colorado",
-   "dec": 8.6,
-   "american": 760,
+   "dec": 9.0,
+   "american": 800,
    "game_model": {
     "game_id": "401917549",
     "home": "San Diego",
@@ -4058,6 +4381,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.074,
+     "b": 9.0
+    },
+    {
      "book": "fanduel",
      "a": 1.083,
      "b": 8.6
@@ -4069,8 +4397,8 @@
     }
    ],
    "model_prob": 0.322,
-   "model_edge": 21.02,
-   "model_edge_txt": "+21.0%",
+   "model_edge": 21.54,
+   "model_edge_txt": "+21.5%",
    "cheat_side": "away",
    "pinnacle_line": "San Diego -1042 / N Colorado +694",
    "fair_prob": 0.0978,
@@ -4085,16 +4413,16 @@
     "additive": 0.1068,
     "power": 0.0978
    },
-   "ev_pct": -15.93,
+   "ev_pct": -12.02,
    "min_ev": 10.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.1,
-   "trusted_prob": 0.1015,
+   "kelly_pct": -1.5,
+   "trusted_prob": 0.1004,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -22.02,
    "pinn_dec": 7.94
   },
   {
@@ -4428,14 +4756,14 @@
    "side": "home",
    "team": "Army",
    "opp": "Rider",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/135648331936907",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/84222044930458",
    "game_id": "401912232",
    "kickoff": "2026-11-28T19:00:00-05:00",
    "home": "Army",
    "away": "Rider",
-   "dec": 1.278,
-   "american": -360,
+   "dec": 1.26,
+   "american": -385,
    "game_model": {
     "game_id": "401912232",
     "home": "Army",
@@ -4460,8 +4788,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.278,
-     "b": 3.85
+     "a": 1.235,
+     "b": 4.3
     },
     {
      "book": "fanduel",
@@ -4470,8 +4798,8 @@
     }
    ],
    "model_prob": 0.917,
-   "model_edge": 16.62,
-   "model_edge_txt": "+16.6%",
+   "model_edge": 15.21,
+   "model_edge_txt": "+15.2%",
    "cheat_side": "home"
   },
   {
@@ -4738,94 +5066,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "Saint Joseph's @ Monmouth",
-   "pkey": "401920197",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Saint Joseph's -2.5",
-   "line": 2.5,
-   "side": "away",
-   "team": "Saint Joseph's",
-   "opp": "Monmouth",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/183873531086452",
-   "game_id": "401920197",
-   "kickoff": "2026-11-28T19:00:00-05:00",
-   "home": "Monmouth",
-   "away": "Saint Joseph's",
-   "dec": 1.98,
-   "american": -102,
-   "game_model": {
-    "game_id": "401920197",
-    "home": "Monmouth",
-    "away": "Saint Joseph's",
-    "kickoff": "2026-11-28T19:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 64.3,
-    "proj_away": 78.6,
-    "proj_margin": -14.4,
-    "proj_total": 142.9,
-    "home_win_prob": 0.096,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -2.23,
-    "home_em": -5.7,
-    "away_em": 2.3,
-    "home_t": 69.6,
-    "away_t": 71.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.893,
-     "b": 1.926
-    },
-    {
-     "book": "fanduel",
-     "a": 1.833,
-     "b": 1.98
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.926,
-     "b": 1.909
-    }
-   ],
-   "model_prob": 0.86,
-   "model_edge": 11.9,
-   "model_edge_txt": "+11.9 pts \u00b7 STRONG",
-   "cheat_side": "away",
-   "cbb_tier": "STRONG",
-   "pinnacle_line": "Monmouth +2.5 -108 / Saint Joseph's -2.5 -110",
-   "fair_prob": 0.5022,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5022,
-    0.5024
-   ],
-   "devig_all": {
-    "multiplicative": 0.5022,
-    "additive": 0.5023,
-    "power": 0.5024
-   },
-   "ev_pct": -0.56,
-   "min_ev": 1.99,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -0.57,
-   "trusted_prob": 0.5028,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -1.92,
-   "pinn_dec": 1.909
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "Portland St @ S Illinois",
    "pkey": "401920954",
    "stat": "spread",
@@ -4905,93 +5145,6 @@
    "tier": "single",
    "second_ev": null,
    "pinn_dec": 2.01
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Stony Brook Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/262625453091073",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.4,
-   "american": -250,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.4,
-     "b": 3.05
-    },
-    {
-     "book": "fanduel",
-     "a": 1.377,
-     "b": 3.15
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.385,
-     "b": 3.16
-    }
-   ],
-   "model_prob": 0.8,
-   "model_edge": 11.46,
-   "model_edge_txt": "+11.5%",
-   "cheat_side": "home",
-   "pinnacle_line": "Stony Brook -260 / Delaware +216",
-   "fair_prob": 0.6953,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.6953,
-    0.7067
-   ],
-   "devig_all": {
-    "multiplicative": 0.6953,
-    "additive": 0.7028,
-    "power": 0.7067
-   },
-   "ev_pct": -2.66,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -6.66,
-   "trusted_prob": 0.6991,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -2.58,
-   "pinn_dec": 1.385
   },
   {
    "kind": "spread",
@@ -5136,19 +5289,189 @@
    "pinn_dec": 2.03
   },
   {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "Delaware @ Stony Brook",
+   "pkey": "401920906",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Stony Brook Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Stony Brook",
+   "opp": "Delaware",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/262625453091073",
+   "game_id": "401920906",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Stony Brook",
+   "away": "Delaware",
+   "dec": 1.388,
+   "american": -258,
+   "game_model": {
+    "game_id": "401920906",
+    "home": "Stony Brook",
+    "away": "Delaware",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.2,
+    "proj_away": 65.0,
+    "proj_margin": 9.3,
+    "proj_total": 139.2,
+    "home_win_prob": 0.8,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.804,
+    "home_em": -6.1,
+    "away_em": -6.1,
+    "home_t": 66.3,
+    "away_t": 66.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.388,
+     "b": 3.1
+    },
+    {
+     "book": "fanduel",
+     "a": 1.377,
+     "b": 3.15
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.385,
+     "b": 3.16
+    }
+   ],
+   "model_prob": 0.8,
+   "model_edge": 10.93,
+   "model_edge_txt": "+10.9%",
+   "cheat_side": "home",
+   "pinnacle_line": "Stony Brook -260 / Delaware +216",
+   "fair_prob": 0.6953,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.6953,
+    0.7067
+   ],
+   "devig_all": {
+    "multiplicative": 0.6953,
+    "additive": 0.7028,
+    "power": 0.7067
+   },
+   "ev_pct": -3.5,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -9.01,
+   "trusted_prob": 0.7003,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -3.42,
+   "pinn_dec": 1.385
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Saint Joseph's @ Monmouth",
+   "pkey": "401920197",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Saint Joseph's -3.5",
+   "line": 3.5,
+   "side": "away",
+   "team": "Saint Joseph's",
+   "opp": "Monmouth",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/268223007451031",
+   "game_id": "401920197",
+   "kickoff": "2026-11-28T19:00:00-05:00",
+   "home": "Monmouth",
+   "away": "Saint Joseph's",
+   "dec": 1.909,
+   "american": -110,
+   "game_model": {
+    "game_id": "401920197",
+    "home": "Monmouth",
+    "away": "Saint Joseph's",
+    "kickoff": "2026-11-28T19:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 64.3,
+    "proj_away": 78.6,
+    "proj_margin": -14.4,
+    "proj_total": 142.9,
+    "home_win_prob": 0.096,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -2.23,
+    "home_em": -5.7,
+    "away_em": 2.3,
+    "home_t": 69.6,
+    "away_t": 71.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.746,
+     "b": 2.1
+    }
+   ],
+   "model_prob": 0.839,
+   "model_edge": 10.9,
+   "model_edge_txt": "+10.9 pts \u00b7 STRONG",
+   "cheat_side": "away",
+   "cbb_tier": "STRONG",
+   "pinnacle_line": "Monmouth +3.5 -134 / Saint Joseph's -3.5 110",
+   "fair_prob": 0.4506,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4506,
+    0.454
+   ],
+   "devig_all": {
+    "multiplicative": 0.454,
+    "additive": 0.4517,
+    "power": 0.4506
+   },
+   "ev_pct": -13.99,
+   "min_ev": 1.76,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -15.39,
+   "trusted_prob": 0.4652,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 2.1
+  },
+  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "N Arizona @ Bakersfield",
    "pkey": "401920139",
    "stat": "spread",
    "stat_label": "Spread",
-   "title": "Bakersfield -5.5",
-   "line": -5.5,
+   "title": "Bakersfield -6.5",
+   "line": -6.5,
    "side": "home",
    "team": "Bakersfield",
    "opp": "N Arizona",
    "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/239070316440644",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/246691985279658",
    "game_id": "401920139",
    "kickoff": "2026-11-28T17:00:00-05:00",
    "home": "Bakersfield",
@@ -5189,39 +5512,39 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.943,
-     "b": 1.909
+     "a": 2.13,
+     "b": 1.741
     }
    ],
-   "model_prob": 0.835,
-   "model_edge": 10.7,
-   "model_edge_txt": "+10.7 pts \u00b7 STRONG",
+   "model_prob": 0.811,
+   "model_edge": 9.7,
+   "model_edge_txt": "+9.7 pts \u00b7 STRONG",
    "cheat_side": "home",
    "cbb_tier": "STRONG",
-   "pinnacle_line": "Bakersfield -5.5 -106 / N Arizona +5.5 -110",
-   "fair_prob": 0.4953,
+   "pinnacle_line": "Bakersfield -6.5 113 / N Arizona +6.5 -135",
+   "fair_prob": 0.4464,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4953,
-    0.4956
+    0.4464,
+    0.4498
    ],
    "devig_all": {
-    "multiplicative": 0.4956,
-    "additive": 0.4954,
-    "power": 0.4953
+    "multiplicative": 0.4498,
+    "additive": 0.4476,
+    "power": 0.4464
    },
-   "ev_pct": -4.6,
+   "ev_pct": -14.02,
    "min_ev": 1.82,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -4.97,
-   "trusted_prob": 0.5001,
+   "kelly_pct": -15.14,
+   "trusted_prob": 0.461,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -3.7,
-   "pinn_dec": 1.943
+   "pinn_dec": 2.13
   },
   {
    "kind": "ml",
@@ -5458,89 +5781,6 @@
    "pinn_dec": 2.01
   },
   {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "N Colorado @ San Diego",
-   "pkey": "401917549",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "N Colorado +14.5",
-   "line": -14.5,
-   "side": "away",
-   "team": "N Colorado",
-   "opp": "San Diego",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/231272805395450",
-   "game_id": "401917549",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "San Diego",
-   "away": "N Colorado",
-   "dec": 1.758,
-   "american": -132,
-   "game_model": {
-    "game_id": "401917549",
-    "home": "San Diego",
-    "away": "N Colorado",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 75.7,
-    "proj_away": 70.6,
-    "proj_margin": 5.1,
-    "proj_total": 146.2,
-    "home_win_prob": 0.678,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.27,
-    "home_em": 4.9,
-    "away_em": -10.8,
-    "home_t": 67.0,
-    "away_t": 69.9,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.971,
-     "b": 1.758
-    },
-    {
-     "book": "pinnacle",
-     "a": 2.15,
-     "b": 1.719
-    }
-   ],
-   "model_prob": 0.804,
-   "model_edge": 9.4,
-   "model_edge_txt": "+9.4 pts \u00b7 STRONG",
-   "cheat_side": "away",
-   "cbb_tier": "STRONG",
-   "pinnacle_line": "San Diego -14.5 115 / N Colorado +14.5 -139",
-   "fair_prob": 0.5557,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5557,
-    0.5596
-   ],
-   "devig_all": {
-    "multiplicative": 0.5557,
-    "additive": 0.5583,
-    "power": 0.5596
-   },
-   "ev_pct": -2.31,
-   "min_ev": 1.29,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -3.04,
-   "trusted_prob": 0.5583,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.719
-  },
-  {
    "kind": "ml",
    "week": "2026-11-28",
    "player": "Drake @ N Dakota St",
@@ -5772,6 +6012,60 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "Alcorn St @ Georgia Tech",
+   "pkey": "401920310",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Georgia Tech -26.5",
+   "line": -26.5,
+   "side": "home",
+   "team": "Georgia Tech",
+   "opp": "Alcorn St",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/154953442022400",
+   "game_id": "401920310",
+   "kickoff": "2026-11-28T13:00:00-05:00",
+   "home": "Georgia Tech",
+   "away": "Alcorn St",
+   "dec": 1.893,
+   "american": -112,
+   "game_model": {
+    "game_id": "401920310",
+    "home": "Georgia Tech",
+    "away": "Alcorn St",
+    "kickoff": "2026-11-28T13:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 99.4,
+    "proj_away": 64.1,
+    "proj_margin": 35.3,
+    "proj_total": 163.5,
+    "home_win_prob": 0.999,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 4.154,
+    "home_em": 0.8,
+    "away_em": -23.4,
+    "home_t": 72.4,
+    "away_t": 71.8,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.893,
+     "b": 1.926
+    }
+   ],
+   "model_prob": 0.788,
+   "model_edge": 8.8,
+   "model_edge_txt": "+8.8 pts \u00b7 STRONG",
+   "cheat_side": "home",
+   "cbb_tier": "STRONG"
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "Austin Peay @ Furman",
    "pkey": "401917954",
    "stat": "spread",
@@ -5851,6 +6145,94 @@
    "tier": "single",
    "second_ev": null,
    "pinn_dec": 1.794
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "N Colorado @ San Diego",
+   "pkey": "401917549",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "N Colorado +13.5",
+   "line": -13.5,
+   "side": "away",
+   "team": "N Colorado",
+   "opp": "San Diego",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/110512690704192",
+   "game_id": "401917549",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "San Diego",
+   "away": "N Colorado",
+   "dec": 1.98,
+   "american": -102,
+   "game_model": {
+    "game_id": "401917549",
+    "home": "San Diego",
+    "away": "N Colorado",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 75.7,
+    "proj_away": 70.6,
+    "proj_margin": 5.1,
+    "proj_total": 146.2,
+    "home_win_prob": 0.678,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.27,
+    "home_em": 4.9,
+    "away_em": -10.8,
+    "home_t": 67.0,
+    "away_t": 69.9,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.901,
+     "b": 1.926
+    },
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 1.98
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.952,
+     "b": 1.885
+    }
+   ],
+   "model_prob": 0.777,
+   "model_edge": 8.4,
+   "model_edge_txt": "+8.4 pts \u00b7 STRONG",
+   "cheat_side": "away",
+   "cbb_tier": "STRONG",
+   "pinnacle_line": "San Diego -13.5 -105 / N Colorado +13.5 -113",
+   "fair_prob": 0.5087,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5087,
+    0.5093
+   ],
+   "devig_all": {
+    "multiplicative": 0.5087,
+    "additive": 0.5091,
+    "power": 0.5093
+   },
+   "ev_pct": 0.73,
+   "min_ev": 1.99,
+   "units": 0.1487131209012124,
+   "base_units": 0.1487131209012124,
+   "kelly_pct": 0.74,
+   "trusted_prob": 0.508,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -1.69,
+   "pinn_dec": 1.885
   },
   {
    "kind": "ml",
@@ -6114,65 +6496,6 @@
    "pinn_dec": 2.63
   },
   {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Alcorn St @ Georgia Tech",
-   "pkey": "401920310",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Georgia Tech -27.5",
-   "line": -27.5,
-   "side": "home",
-   "team": "Georgia Tech",
-   "opp": "Alcorn St",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/166099107624219",
-   "game_id": "401920310",
-   "kickoff": "2026-11-28T13:00:00-05:00",
-   "home": "Georgia Tech",
-   "away": "Alcorn St",
-   "dec": 1.926,
-   "american": -108,
-   "game_model": {
-    "game_id": "401920310",
-    "home": "Georgia Tech",
-    "away": "Alcorn St",
-    "kickoff": "2026-11-28T13:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 99.4,
-    "proj_away": 64.1,
-    "proj_margin": 35.3,
-    "proj_total": 163.5,
-    "home_win_prob": 0.999,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 4.154,
-    "home_em": 0.8,
-    "away_em": -23.4,
-    "home_t": 72.4,
-    "away_t": 71.8,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.926,
-     "b": 1.893
-    },
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    }
-   ],
-   "model_prob": 0.761,
-   "model_edge": 7.8,
-   "model_edge_txt": "+7.8 pts \u00b7 STRONG",
-   "cheat_side": "home",
-   "cbb_tier": "STRONG"
-  },
-  {
    "kind": "total",
    "week": "2026-11-28",
    "player": "San Jos\u00e9 St @ Utah Valley",
@@ -6272,8 +6595,8 @@
    "kickoff": "2026-11-28T17:00:00-05:00",
    "home": "Bakersfield",
    "away": "N Arizona",
-   "dec": 1.901,
-   "american": -111,
+   "dec": 1.943,
+   "american": -106,
    "game_model": {
     "game_id": "401920139",
     "home": "Bakersfield",
@@ -6298,8 +6621,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.901,
-     "b": 1.917
+     "a": 1.943,
+     "b": 1.877
     },
     {
      "book": "fanduel",
@@ -6329,16 +6652,16 @@
     "additive": 0.5,
     "power": 0.5
    },
-   "ev_pct": -4.95,
-   "min_ev": 1.74,
+   "ev_pct": -2.85,
+   "min_ev": 1.87,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -5.49,
-   "trusted_prob": 0.5052,
+   "kelly_pct": -3.02,
+   "trusted_prob": 0.5029,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.91,
+   "second_ev": -0.77,
    "pinn_dec": 1.901
   },
   {
@@ -6617,6 +6940,11 @@
     "league_avg": 108.2
    },
    "books": [
+    {
+     "book": "draftkings",
+     "a": 1.87,
+     "b": 1.952
+    },
     {
      "book": "fanduel",
      "a": 1.909,
@@ -6940,8 +7268,8 @@
    "kickoff": "2026-11-28T19:30:00-05:00",
    "home": "Duquesne",
    "away": "SC State",
-   "dec": 1.98,
-   "american": -102,
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
     "game_id": "401925783",
     "home": "Duquesne",
@@ -6971,8 +7299,8 @@
     },
     {
      "book": "fanduel",
-     "a": 1.833,
-     "b": 1.98
+     "a": 1.909,
+     "b": 1.909
     }
    ],
    "model_prob": 0.717,
@@ -6993,14 +7321,14 @@
    "side": "home",
    "team": "Hofstra",
    "opp": "Merrimack",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/89157949391698",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/68153478015930",
    "game_id": "401924811",
    "kickoff": "2026-11-28T15:30:00-05:00",
    "home": "Hofstra",
    "away": "Merrimack",
-   "dec": 1.909,
-   "american": -110,
+   "dec": 1.917,
+   "american": -109,
    "game_model": {
     "game_id": "401924811",
     "home": "Hofstra",
@@ -7025,8 +7353,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.877,
-     "b": 1.943
+     "a": 1.917,
+     "b": 1.901
     },
     {
      "book": "fanduel",
@@ -7057,16 +7385,16 @@
     "additive": 0.5173,
     "power": 0.5176
    },
-   "ev_pct": -1.38,
-   "min_ev": 1.76,
+   "ev_pct": -0.96,
+   "min_ev": 1.79,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -1.52,
-   "trusted_prob": 0.5181,
+   "kelly_pct": -1.05,
+   "trusted_prob": 0.5176,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.9,
+   "second_ev": -4.15,
    "pinn_dec": 1.862
   },
   {
@@ -7496,6 +7824,59 @@
    "cheat_side": "under"
   },
   {
+   "kind": "total",
+   "week": "2026-11-28",
+   "player": "McNeese @ Louisiana",
+   "pkey": "401925033",
+   "stat": "total",
+   "stat_label": "Total",
+   "title": "Over 137.5",
+   "line": 137.5,
+   "side": "over",
+   "team": null,
+   "opp": null,
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/38480912787070",
+   "game_id": "401925033",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Louisiana",
+   "away": "McNeese",
+   "dec": 1.943,
+   "american": -106,
+   "game_model": {
+    "game_id": "401925033",
+    "home": "Louisiana",
+    "away": "McNeese",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 69.0,
+    "proj_away": 74.0,
+    "proj_margin": -4.9,
+    "proj_total": 143.0,
+    "home_win_prob": 0.327,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -1.019,
+    "home_em": -12.4,
+    "away_em": 6.9,
+    "home_t": 66.3,
+    "away_t": 68.4,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.943,
+     "b": 1.877
+    }
+   ],
+   "model_prob": 0.643,
+   "model_edge": 5.5,
+   "model_edge_txt": "+5.5 pts",
+   "cheat_side": "over"
+  },
+  {
    "kind": "ml",
    "week": "2026-11-28",
    "player": "UT Rio Grande @ UNLV",
@@ -7907,8 +8288,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.206,
-     "b": 4.7
+     "a": 1.187,
+     "b": 5.0
     },
     {
      "book": "fanduel",
@@ -9183,11 +9564,6 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.926,
-     "b": 1.893
-    },
-    {
      "book": "fanduel",
      "a": 1.847,
      "b": 1.962
@@ -9496,6 +9872,60 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "Weber St @ Fullerton",
+   "pkey": "401920160",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Fullerton -10.5",
+   "line": -10.5,
+   "side": "home",
+   "team": "Fullerton",
+   "opp": "Weber St",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/163018991696738",
+   "game_id": "401920160",
+   "kickoff": "2026-11-28T17:00:00-05:00",
+   "home": "Fullerton",
+   "away": "Weber St",
+   "dec": 1.917,
+   "american": -109,
+   "game_model": {
+    "game_id": "401920160",
+    "home": "Fullerton",
+    "away": "Weber St",
+    "kickoff": "2026-11-28T17:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 88.4,
+    "proj_away": 76.1,
+    "proj_margin": 12.3,
+    "proj_total": 164.5,
+    "home_win_prob": 0.868,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.194,
+    "home_em": -0.0,
+    "away_em": -14.2,
+    "home_t": 72.7,
+    "away_t": 71.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.917,
+     "b": 1.901
+    }
+   ],
+   "model_prob": 0.565,
+   "model_edge": 1.8,
+   "model_edge_txt": "+1.8 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN"
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "Bethune @ San Francisco",
    "pkey": "401921065",
    "stat": "spread",
@@ -9505,14 +9935,14 @@
    "side": "home",
    "team": "San Francisco",
    "opp": "Bethune",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/140120933149902",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/242408942438939",
    "game_id": "401921065",
    "kickoff": "2026-11-28T19:00:00-05:00",
    "home": "San Francisco",
    "away": "Bethune",
-   "dec": 1.87,
-   "american": -115,
+   "dec": 1.833,
+   "american": -120,
    "game_model": {
     "game_id": "401921065",
     "home": "San Francisco",
@@ -9536,11 +9966,6 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.87,
-     "b": 1.952
-    },
-    {
      "book": "fanduel",
      "a": 1.833,
      "b": 1.98
@@ -9555,8 +9980,8 @@
  ],
  "matchups": [],
  "slate_units": {
-  "ev": 0.5,
+  "ev": 1.25,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T08:22:17-05:00"
+ "odds_as_of": "2026-11-28T08:32:52-05:00"
 }
