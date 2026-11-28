@@ -1,6 +1,6 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T11:22:24-05:00",
+ "generated_at": "2026-11-28T11:32:59-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
@@ -16,7 +16,7 @@
   ],
   "pinnacle_game_lines": 1065,
   "pinnacle_unmatched": 4,
-  "pinnacle_as_of": "2026-11-28T11:11:48-05:00"
+  "pinnacle_as_of": "2026-11-28T11:32:59-05:00"
  },
  "settings": {
   "unit_pct": 1.0,
@@ -2522,44 +2522,148 @@
  "combined": [],
  "ev": [
   {
-   "kind": "spread",
+   "kind": "total",
    "week": "2026-11-28",
-   "player": "UMass Lowell @ American",
-   "pkey": "401912214",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "UMass Lowell +4.5",
-   "line": -4.5,
-   "side": "away",
-   "team": "UMass Lowell",
-   "opp": "American",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/200631849412293",
-   "game_id": "401912214",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "American",
-   "away": "UMass Lowell",
-   "dec": 1.877,
-   "american": -114,
+   "player": "UT Rio Grande @ UNLV",
+   "pkey": "401924913",
+   "stat": "total",
+   "stat_label": "Total",
+   "title": "Over 148.5",
+   "line": 148.5,
+   "side": "over",
+   "team": null,
+   "opp": null,
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/127097877791940",
+   "game_id": "401924913",
+   "kickoff": "2026-11-28T15:00:00-05:00",
+   "home": "UNLV",
+   "away": "UT Rio Grande",
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
-    "game_id": "401912214",
-    "home": "American",
-    "away": "UMass Lowell",
-    "kickoff": "2026-11-28T16:00:00-05:00",
+    "game_id": "401924913",
+    "home": "UNLV",
+    "away": "UT Rio Grande",
+    "kickoff": "2026-11-28T15:00:00-05:00",
     "neutral": false,
     "non_d1": null,
-    "proj_home": 74.1,
-    "proj_away": 67.7,
-    "proj_margin": 6.4,
-    "proj_total": 141.8,
-    "home_win_prob": 0.72,
+    "proj_home": 80.3,
+    "proj_away": 67.2,
+    "proj_margin": 13.1,
+    "proj_total": 147.5,
+    "home_win_prob": 0.883,
     "model": "BASE",
     "slope": 11.33,
-    "matchup_x": 0.301,
-    "home_em": -0.9,
-    "away_em": -4.7,
-    "home_t": 67.4,
-    "away_t": 69.2,
+    "matchup_x": 0.89,
+    "home_em": 4.9,
+    "away_em": -6.3,
+    "home_t": 72.0,
+    "away_t": 65.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.73,
+     "b": 2.1
+    }
+   ],
+   "model_prob": 0.473,
+   "model_edge": -1.0,
+   "model_edge_txt": "-1.0 pts",
+   "cheat_side": null,
+   "pinnacle_line": "148.5 o-137/u110",
+   "fair_prob": 0.5483,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5483,
+    0.5523
+   ],
+   "devig_all": {
+    "multiplicative": 0.5483,
+    "additive": 0.5509,
+    "power": 0.5523
+   },
+   "ev_pct": 4.67,
+   "min_ev": 1.76,
+   "units": 0.25,
+   "base_units": 1.0277267935670855,
+   "kelly_pct": 5.14,
+   "trusted_prob": 0.5434,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.73,
+   "lane": "cbb:total",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 39,
+    "days": 2,
+    "ev_vs_close": 0.14,
+    "roi_pct": 19.2
+   },
+   "sizing": {
+    "base": 1.03,
+    "conf": 0.38,
+    "conf_why": [
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 2,
+    "player_bets": 1,
+    "corr": 0.71,
+    "cap": 2.0,
+    "raw": 0.27
+   },
+   "exp_profit_units": 0.012
+  },
+  {
+   "kind": "total",
+   "week": "2026-11-28",
+   "player": "UT Rio Grande @ UNLV",
+   "pkey": "401924913",
+   "stat": "total",
+   "stat_label": "Total",
+   "title": "Over 149.5",
+   "line": 149.5,
+   "side": "over",
+   "team": null,
+   "opp": null,
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/275084928628276",
+   "game_id": "401924913",
+   "kickoff": "2026-11-28T15:00:00-05:00",
+   "home": "UNLV",
+   "away": "UT Rio Grande",
+   "dec": 1.943,
+   "american": -106,
+   "game_model": {
+    "game_id": "401924913",
+    "home": "UNLV",
+    "away": "UT Rio Grande",
+    "kickoff": "2026-11-28T15:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 80.3,
+    "proj_away": 67.2,
+    "proj_margin": 13.1,
+    "proj_total": 147.5,
+    "home_win_prob": 0.883,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.89,
+    "home_em": 4.9,
+    "away_em": -6.3,
+    "home_t": 72.0,
+    "away_t": 65.7,
     "league_avg": 108.2
    },
    "books": [
@@ -2570,62 +2674,61 @@
     },
     {
      "book": "pinnacle",
-     "a": 2.11,
-     "b": 1.758
+     "a": 1.813,
+     "b": 2.0
     }
    ],
-   "model_prob": 0.431,
-   "model_edge": -1.9,
-   "model_edge_txt": "-1.9 pts",
+   "model_prob": 0.447,
+   "model_edge": -2.0,
+   "model_edge_txt": "-2.0 pts",
    "cheat_side": null,
-   "cbb_tier": null,
-   "pinnacle_line": "American -4.5 111 / UMass Lowell +4.5 -132",
-   "fair_prob": 0.5455,
+   "pinnacle_line": "149.5 o-123/u100",
+   "fair_prob": 0.5245,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5455,
-    0.5484
+    0.5245,
+    0.5264
    ],
    "devig_all": {
-    "multiplicative": 0.5455,
-    "additive": 0.5474,
-    "power": 0.5484
+    "multiplicative": 0.5245,
+    "additive": 0.5258,
+    "power": 0.5264
    },
-   "ev_pct": 2.39,
-   "min_ev": 1.66,
+   "ev_pct": 1.91,
+   "min_ev": 1.87,
    "units": 0.25,
-   "base_units": 0.545186125021962,
-   "kelly_pct": 2.73,
-   "trusted_prob": 0.543,
+   "base_units": 0.4060451783664692,
+   "kelly_pct": 2.03,
+   "trusted_prob": 0.5226,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": null,
-   "pinn_dec": 1.758,
-   "lane": "cbb:spread",
+   "pinn_dec": 1.813,
+   "lane": "cbb:total",
    "lane_status": "testing",
    "lane_info": {
-    "graded": 53,
+    "graded": 39,
     "days": 2,
-    "ev_vs_close": -0.83,
-    "roi_pct": -38.2
+    "ev_vs_close": 0.14,
+    "roi_pct": 19.2
    },
    "sizing": {
-    "base": 0.55,
+    "base": 0.41,
     "conf": 0.22,
     "conf_why": [
      "matchup points the other way",
      "one sharp source only",
      "lane still testing"
     ],
-    "game_bets": 1,
+    "game_bets": 2,
     "player_bets": 1,
-    "corr": 1.0,
+    "corr": 0.71,
     "cap": 2.0,
-    "raw": 0.12
+    "raw": 0.06
    },
-   "exp_profit_units": 0.006
+   "exp_profit_units": 0.005
   }
  ],
  "cheat": [
@@ -2857,7 +2960,7 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.741,
+     "a": 1.735,
      "b": 2.16
     }
    ],
@@ -2865,25 +2968,25 @@
    "model_edge": 36.74,
    "model_edge_txt": "+36.7%",
    "cheat_side": "away",
-   "pinnacle_line": "Gardner-Webb -135 / NC Central +116",
-   "fair_prob": 0.4433,
+   "pinnacle_line": "Gardner-Webb -136 / NC Central +116",
+   "fair_prob": 0.4422,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4433,
-    0.4463
+    0.4422,
+    0.4454
    ],
    "devig_all": {
-    "multiplicative": 0.4463,
-    "additive": 0.4443,
-    "power": 0.4433
+    "multiplicative": 0.4454,
+    "additive": 0.4433,
+    "power": 0.4422
    },
-   "ev_pct": -5.14,
+   "ev_pct": -5.36,
    "min_ev": 2.49,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -4.5,
-   "trusted_prob": 0.4481,
+   "kelly_pct": -4.71,
+   "trusted_prob": 0.4472,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
@@ -3350,38 +3453,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 2.64,
-     "b": 1.515
+     "a": 2.66,
+     "b": 1.51
     }
    ],
    "model_prob": 0.904,
    "model_edge": 29.72,
    "model_edge_txt": "+29.7%",
    "cheat_side": "away",
-   "pinnacle_line": "Monmouth +164 / Saint Joseph's -194",
-   "fair_prob": 0.6354,
+   "pinnacle_line": "Monmouth +166 / Saint Joseph's -196",
+   "fair_prob": 0.6379,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.6354,
-    0.6433
+    0.6379,
+    0.6458
    ],
    "devig_all": {
-    "multiplicative": 0.6354,
-    "additive": 0.6406,
-    "power": 0.6433
+    "multiplicative": 0.6379,
+    "additive": 0.6432,
+    "power": 0.6458
    },
-   "ev_pct": -0.37,
+   "ev_pct": 0.02,
    "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -0.66,
-   "trusted_prob": 0.6359,
+   "units": 0.007430675178176156,
+   "base_units": 0.007430675178176156,
+   "kelly_pct": 0.04,
+   "trusted_prob": 0.6379,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -0.13,
-   "pinn_dec": 1.515
+   "pinn_dec": 1.51
   },
   {
    "kind": "ml",
@@ -3640,38 +3743,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.336,
-     "b": 3.44
+     "a": 1.333,
+     "b": 3.47
     }
    ],
    "model_prob": 0.93,
    "model_edge": 23.42,
    "model_edge_txt": "+23.4%",
    "cheat_side": "home",
-   "pinnacle_line": "Bakersfield -298 / N Arizona +244",
-   "fair_prob": 0.7203,
+   "pinnacle_line": "Bakersfield -300 / N Arizona +247",
+   "fair_prob": 0.7225,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.7203,
-    0.7334
+    0.7225,
+    0.7355
    ],
    "devig_all": {
-    "multiplicative": 0.7203,
-    "additive": 0.7289,
-    "power": 0.7334
+    "multiplicative": 0.7225,
+    "additive": 0.731,
+    "power": 0.7355
    },
-   "ev_pct": -0.82,
+   "ev_pct": -0.52,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.17,
-   "trusted_prob": 0.7215,
+   "kelly_pct": -1.37,
+   "trusted_prob": 0.7232,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.3,
-   "pinn_dec": 1.336
+   "pinn_dec": 1.333
   },
   {
    "kind": "ml",
@@ -5257,38 +5360,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.568,
-     "b": 2.5
+     "a": 1.546,
+     "b": 2.55
     }
    ],
    "model_prob": 0.72,
    "model_edge": 10.93,
    "model_edge_txt": "+10.9%",
    "cheat_side": "home",
-   "pinnacle_line": "American -176 / UMass Lowell +150",
-   "fair_prob": 0.6146,
+   "pinnacle_line": "American -183 / UMass Lowell +155",
+   "fair_prob": 0.6226,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.6146,
-    0.6211
+    0.6226,
+    0.6298
    ],
    "devig_all": {
-    "multiplicative": 0.6146,
-    "additive": 0.6189,
-    "power": 0.6211
+    "multiplicative": 0.6226,
+    "additive": 0.6273,
+    "power": 0.6298
    },
-   "ev_pct": -3.64,
+   "ev_pct": -2.38,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -6.41,
-   "trusted_prob": 0.6192,
+   "kelly_pct": -4.2,
+   "trusted_prob": 0.6256,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -3.35,
-   "pinn_dec": 1.568
+   "pinn_dec": 1.546
   },
   {
    "kind": "ml",
@@ -5514,8 +5617,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.885,
-     "b": 1.952
+     "a": 1.893,
+     "b": 1.943
     }
    ],
    "model_prob": 0.816,
@@ -5523,30 +5626,30 @@
    "model_edge_txt": "+9.9 pts \u00b7 STRONG",
    "cheat_side": "away",
    "cbb_tier": "STRONG",
-   "pinnacle_line": "Monmouth +4.5 -113 / Saint Joseph's -4.5 -105",
-   "fair_prob": 0.4907,
+   "pinnacle_line": "Monmouth +4.5 -112 / Saint Joseph's -4.5 -106",
+   "fair_prob": 0.4931,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4907,
-    0.4913
+    0.4931,
+    0.4935
    ],
    "devig_all": {
-    "multiplicative": 0.4913,
-    "additive": 0.4909,
-    "power": 0.4907
+    "multiplicative": 0.4935,
+    "additive": 0.4932,
+    "power": 0.4931
    },
-   "ev_pct": -2.84,
+   "ev_pct": -2.37,
    "min_ev": 1.99,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.9,
-   "trusted_prob": 0.4936,
+   "kelly_pct": -2.42,
+   "trusted_prob": 0.4955,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.39,
-   "pinn_dec": 1.952
+   "pinn_dec": 1.943
   },
   {
    "kind": "spread",
@@ -5602,8 +5705,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.826,
-     "b": 2.02
+     "a": 1.813,
+     "b": 2.03
     }
    ],
    "model_prob": 0.811,
@@ -5611,30 +5714,30 @@
    "model_edge_txt": "+9.7 pts \u00b7 STRONG",
    "cheat_side": "home",
    "cbb_tier": "STRONG",
-   "pinnacle_line": "Bakersfield -6.5 -121 / N Arizona +6.5 102",
-   "fair_prob": 0.5252,
+   "pinnacle_line": "Bakersfield -6.5 -123 / N Arizona +6.5 103",
+   "fair_prob": 0.5282,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5252,
-    0.5268
+    0.5282,
+    0.5301
    ],
    "devig_all": {
-    "multiplicative": 0.5252,
-    "additive": 0.5263,
-    "power": 0.5268
+    "multiplicative": 0.5282,
+    "additive": 0.5295,
+    "power": 0.5301
    },
-   "ev_pct": 0.26,
+   "ev_pct": 0.84,
    "min_ev": 1.76,
-   "units": 0.058237753052479045,
-   "base_units": 0.058237753052479045,
-   "kelly_pct": 0.29,
-   "trusted_prob": 0.5249,
+   "units": 0.1847543588602943,
+   "base_units": 0.1847543588602943,
+   "kelly_pct": 0.92,
+   "trusted_prob": 0.5274,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -3.73,
-   "pinn_dec": 1.826
+   "pinn_dec": 1.813
   },
   {
    "kind": "ml",
@@ -6210,38 +6313,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.877,
-     "b": 1.926
+     "a": 1.926,
+     "b": 1.877
     }
    ],
    "model_prob": 0.717,
    "model_edge": 8.6,
    "model_edge_txt": "+8.6 pts",
    "cheat_side": "over",
-   "pinnacle_line": "148.5 o-114/u-108",
-   "fair_prob": 0.5064,
-   "fair_method": "multiplicative",
+   "pinnacle_line": "148.5 o-108/u-114",
+   "fair_prob": 0.493,
+   "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5064,
-    0.507
+    0.493,
+    0.4936
    ],
    "devig_all": {
-    "multiplicative": 0.5064,
-    "additive": 0.5068,
-    "power": 0.507
+    "multiplicative": 0.4936,
+    "additive": 0.4932,
+    "power": 0.493
    },
-   "ev_pct": -3.32,
+   "ev_pct": -5.88,
    "min_ev": 1.76,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -3.65,
-   "trusted_prob": 0.5099,
+   "kelly_pct": -6.47,
+   "trusted_prob": 0.4992,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -4.55,
-   "pinn_dec": 1.877
+   "pinn_dec": 1.926
   },
   {
    "kind": "ml",
@@ -6922,14 +7025,14 @@
    "side": "over",
    "team": null,
    "opp": null,
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/105278899240526",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/60360197243958",
    "game_id": "401925033",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "Louisiana",
    "away": "McNeese",
-   "dec": 1.926,
-   "american": -108,
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
     "game_id": "401925033",
     "home": "Louisiana",
@@ -6954,8 +7057,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.926,
-     "b": 1.893
+     "a": 1.901,
+     "b": 1.926
     },
     {
      "book": "fanduel",
@@ -6964,38 +7067,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.943,
-     "b": 1.862
+     "a": 1.813,
+     "b": 2.0
     }
    ],
    "model_prob": 0.691,
    "model_edge": 7.5,
    "model_edge_txt": "+7.5 pts",
    "cheat_side": "over",
-   "pinnacle_line": "135.5 o-106/u-116",
-   "fair_prob": 0.4885,
-   "fair_method": "power",
+   "pinnacle_line": "135.5 o-123/u100",
+   "fair_prob": 0.5245,
+   "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4885,
-    0.4894
+    0.5245,
+    0.5264
    ],
    "devig_all": {
-    "multiplicative": 0.4894,
-    "additive": 0.4888,
-    "power": 0.4885
+    "multiplicative": 0.5245,
+    "additive": 0.5258,
+    "power": 0.5264
    },
-   "ev_pct": -5.91,
-   "min_ev": 1.82,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -6.38,
-   "trusted_prob": 0.4947,
+   "ev_pct": 0.13,
+   "min_ev": 1.76,
+   "units": 0.028851560739603703,
+   "base_units": 0.028851560739603703,
+   "kelly_pct": 0.14,
+   "trusted_prob": 0.5244,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.7,
-   "pinn_dec": 1.943
+   "second_ev": -3.93,
+   "pinn_dec": 1.813
   },
   {
    "kind": "ml",
@@ -7046,43 +7149,43 @@
     },
     {
      "book": "fanduel",
-     "a": 1.562,
+     "a": 1.549,
      "b": 2.5
     },
     {
      "book": "pinnacle",
-     "a": 1.521,
-     "b": 2.62
+     "a": 1.526,
+     "b": 2.61
     }
    ],
    "model_prob": 0.438,
    "model_edge": 7.49,
    "model_edge_txt": "+7.5%",
    "cheat_side": "away",
-   "pinnacle_line": "Boise St -192 / North Texas +162",
-   "fair_prob": 0.3595,
+   "pinnacle_line": "Boise St -190 / North Texas +161",
+   "fair_prob": 0.3614,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.3595,
-    0.3673
+    0.3614,
+    0.369
    ],
    "devig_all": {
-    "multiplicative": 0.3673,
-    "additive": 0.3621,
-    "power": 0.3595
+    "multiplicative": 0.369,
+    "additive": 0.3639,
+    "power": 0.3614
    },
-   "ev_pct": -5.1,
+   "ev_pct": -4.6,
    "min_ev": 4.51,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -3.11,
-   "trusted_prob": 0.3633,
+   "kelly_pct": -2.8,
+   "trusted_prob": 0.3649,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -0.33,
-   "pinn_dec": 2.62
+   "second_ev": -1.14,
+   "pinn_dec": 2.61
   },
   {
    "kind": "ml",
@@ -7128,8 +7231,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 3.6,
-     "b": 1.308
+     "a": 3.7,
+     "b": 1.294
     },
     {
      "book": "fanduel",
@@ -7138,38 +7241,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 3.89,
-     "b": 1.28
+     "a": 3.96,
+     "b": 1.272
     }
    ],
    "model_prob": 0.327,
    "model_edge": 7.41,
    "model_edge_txt": "+7.4%",
    "cheat_side": "home",
-   "pinnacle_line": "Louisiana +289 / McNeese -357",
-   "fair_prob": 0.2327,
+   "pinnacle_line": "Louisiana +296 / McNeese -368",
+   "fair_prob": 0.2278,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.2327,
-    0.2476
+    0.2278,
+    0.2431
    ],
    "devig_all": {
-    "multiplicative": 0.2476,
-    "additive": 0.2379,
-    "power": 0.2327
+    "multiplicative": 0.2431,
+    "additive": 0.2332,
+    "power": 0.2278
    },
-   "ev_pct": -11.56,
+   "ev_pct": -13.42,
    "min_ev": 6.8,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -4.13,
-   "trusted_prob": 0.2388,
+   "kelly_pct": -4.79,
+   "trusted_prob": 0.2349,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -4.49,
-   "pinn_dec": 3.89
+   "second_ev": -7.61,
+   "pinn_dec": 3.96
   },
   {
    "kind": "ml",
@@ -7225,38 +7328,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.3,
-     "b": 3.71
+     "a": 1.304,
+     "b": 3.68
     }
    ],
    "model_prob": 0.788,
    "model_edge": 7.05,
    "model_edge_txt": "+7.1%",
    "cheat_side": "home",
-   "pinnacle_line": "Marshall -333 / East Texas A&M +271",
-   "fair_prob": 0.7405,
+   "pinnacle_line": "Marshall -329 / East Texas A&M +268",
+   "fair_prob": 0.7384,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.7405,
-    0.7548
+    0.7384,
+    0.7524
    ],
    "devig_all": {
-    "multiplicative": 0.7405,
-    "additive": 0.7498,
-    "power": 0.7548
+    "multiplicative": 0.7384,
+    "additive": 0.7476,
+    "power": 0.7524
    },
-   "ev_pct": -0.84,
+   "ev_pct": -1.13,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.49,
-   "trusted_prob": 0.7418,
+   "kelly_pct": -3.34,
+   "trusted_prob": 0.7401,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.83,
-   "pinn_dec": 1.3
+   "pinn_dec": 1.304
   },
   {
    "kind": "ml",
@@ -7575,125 +7678,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.179,
-     "b": 5.25
+     "a": 1.178,
+     "b": 5.26
     }
    ],
    "model_prob": 0.883,
    "model_edge": 6.58,
    "model_edge_txt": "+6.6%",
    "cheat_side": "home",
-   "pinnacle_line": "UNLV -559 / UT Rio Grande +425",
-   "fair_prob": 0.8166,
+   "pinnacle_line": "UNLV -562 / UT Rio Grande +426",
+   "fair_prob": 0.817,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.8166,
-    0.8358
+    0.817,
+    0.8364
    ],
    "devig_all": {
-    "multiplicative": 0.8166,
-    "additive": 0.8289,
-    "power": 0.8358
+    "multiplicative": 0.817,
+    "additive": 0.8294,
+    "power": 0.8364
    },
-   "ev_pct": -4.13,
+   "ev_pct": -4.08,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -23.73,
-   "trusted_prob": 0.8236,
+   "kelly_pct": -23.46,
+   "trusted_prob": 0.824,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -3.54,
-   "pinn_dec": 1.179
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Chicago St @ Bradley",
-   "pkey": "401919736",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Bradley Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Bradley",
-   "opp": "Chicago St",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/165382101103559",
-   "game_id": "401919736",
-   "kickoff": "2026-11-28T14:00:00-05:00",
-   "home": "Bradley",
-   "away": "Chicago St",
-   "dec": 1.091,
-   "american": -1099,
-   "game_model": {
-    "game_id": "401919736",
-    "home": "Bradley",
-    "away": "Chicago St",
-    "kickoff": "2026-11-28T14:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 73.4,
-    "proj_away": 55.3,
-    "proj_margin": 18.1,
-    "proj_total": 128.7,
-    "home_win_prob": 0.95,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.936,
-    "home_em": -5.0,
-    "away_em": -17.0,
-    "home_t": 66.2,
-    "away_t": 65.4,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.063,
-     "b": 10.0
-    },
-    {
-     "book": "fanduel",
-     "a": 1.091,
-     "b": 8.4
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.081,
-     "b": 8.75
-    }
-   ],
-   "model_prob": 0.95,
-   "model_edge": 6.5,
-   "model_edge_txt": "+6.5%",
-   "cheat_side": "home",
-   "pinnacle_line": "Bradley -1235 / Chicago St +775",
-   "fair_prob": 0.89,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.89,
-    0.9152
-   ],
-   "devig_all": {
-    "multiplicative": 0.89,
-    "additive": 0.9054,
-    "power": 0.9152
-   },
-   "ev_pct": -2.9,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -31.83,
-   "trusted_prob": 0.8954,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -1.38,
-   "pinn_dec": 1.081
+   "pinn_dec": 1.178
   },
   {
    "kind": "total",
@@ -8130,6 +8146,93 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
+   "player": "Chicago St @ Bradley",
+   "pkey": "401919736",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Bradley Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Bradley",
+   "opp": "Chicago St",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/165382101103559",
+   "game_id": "401919736",
+   "kickoff": "2026-11-28T14:00:00-05:00",
+   "home": "Bradley",
+   "away": "Chicago St",
+   "dec": 1.083,
+   "american": -1205,
+   "game_model": {
+    "game_id": "401919736",
+    "home": "Bradley",
+    "away": "Chicago St",
+    "kickoff": "2026-11-28T14:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 73.4,
+    "proj_away": 55.3,
+    "proj_margin": 18.1,
+    "proj_total": 128.7,
+    "home_win_prob": 0.95,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.936,
+    "home_em": -5.0,
+    "away_em": -17.0,
+    "home_t": 66.2,
+    "away_t": 65.4,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.063,
+     "b": 10.0
+    },
+    {
+     "book": "fanduel",
+     "a": 1.083,
+     "b": 8.6
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.08,
+     "b": 8.84
+    }
+   ],
+   "model_prob": 0.95,
+   "model_edge": 6.18,
+   "model_edge_txt": "+6.2%",
+   "cheat_side": "home",
+   "pinnacle_line": "Bradley -1250 / Chicago St +784",
+   "fair_prob": 0.8911,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.8911,
+    0.9162
+   ],
+   "devig_all": {
+    "multiplicative": 0.8911,
+    "additive": 0.9064,
+    "power": 0.9162
+   },
+   "ev_pct": -3.49,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -42.06,
+   "trusted_prob": 0.8976,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.11,
+   "pinn_dec": 1.08
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
    "player": "N Illinois @ E Illinois",
    "pkey": "401920917",
    "stat": "ml",
@@ -8383,6 +8486,93 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
+   "player": "Bucknell @ Penn",
+   "pkey": "401921186",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Penn Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Penn",
+   "opp": "Bucknell",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/58931166795155",
+   "game_id": "401921186",
+   "kickoff": "2026-11-28T18:00:00-05:00",
+   "home": "Penn",
+   "away": "Bucknell",
+   "dec": 1.083,
+   "american": -1205,
+   "game_model": {
+    "game_id": "401921186",
+    "home": "Penn",
+    "away": "Bucknell",
+    "kickoff": "2026-11-28T18:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 84.1,
+    "proj_away": 66.5,
+    "proj_margin": 17.5,
+    "proj_total": 150.6,
+    "home_win_prob": 0.945,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.868,
+    "home_em": 2.2,
+    "away_em": -15.2,
+    "home_t": 71.5,
+    "away_t": 67.1,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.074,
+     "b": 9.0
+    },
+    {
+     "book": "fanduel",
+     "a": 1.083,
+     "b": 8.6
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.078,
+     "b": 8.98
+    }
+   ],
+   "model_prob": 0.945,
+   "model_edge": 5.68,
+   "model_edge_txt": "+5.7%",
+   "cheat_side": "home",
+   "pinnacle_line": "Penn -1282 / Bucknell +798",
+   "fair_prob": 0.8928,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.8928,
+    0.918
+   ],
+   "devig_all": {
+    "multiplicative": 0.8928,
+    "additive": 0.9081,
+    "power": 0.918
+   },
+   "ev_pct": -3.31,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -39.85,
+   "trusted_prob": 0.8989,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -3.25,
+   "pinn_dec": 1.078
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
    "player": "Weber St @ Fullerton",
    "pkey": "401920160",
    "stat": "ml",
@@ -8482,38 +8672,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.943,
-     "b": 1.87
+     "a": 1.962,
+     "b": 1.855
     }
    ],
    "model_prob": 0.646,
    "model_edge": 5.6,
    "model_edge_txt": "+5.6 pts",
    "cheat_side": "under",
-   "pinnacle_line": "148.5 o-106/u-115",
-   "fair_prob": 0.5096,
+   "pinnacle_line": "148.5 o-104/u-117",
+   "fair_prob": 0.514,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5096,
-    0.5103
+    0.514,
+    0.5151
    ],
    "devig_all": {
-    "multiplicative": 0.5096,
-    "additive": 0.51,
-    "power": 0.5103
+    "multiplicative": 0.514,
+    "additive": 0.5147,
+    "power": 0.5151
    },
-   "ev_pct": -5.12,
+   "ev_pct": -4.29,
    "min_ev": 1.62,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -5.94,
-   "trusted_prob": 0.5151,
+   "kelly_pct": -4.98,
+   "trusted_prob": 0.5186,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": null,
-   "pinn_dec": 1.87
+   "pinn_dec": 1.855
   },
   {
    "kind": "total",
@@ -8656,38 +8846,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.366,
-     "b": 3.26
+     "a": 1.37,
+     "b": 3.24
     }
    ],
    "model_prob": 0.75,
    "model_edge": 5.42,
    "model_edge_txt": "+5.4%",
    "cheat_side": "home",
-   "pinnacle_line": "Minnesota -273 / California +226",
-   "fair_prob": 0.7047,
+   "pinnacle_line": "Minnesota -270 / California +224",
+   "fair_prob": 0.7028,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.7047,
-    0.7168
+    0.7028,
+    0.7147
    ],
    "devig_all": {
-    "multiplicative": 0.7047,
-    "additive": 0.7127,
-    "power": 0.7168
+    "multiplicative": 0.7028,
+    "additive": 0.7106,
+    "power": 0.7147
    },
-   "ev_pct": -2.96,
+   "ev_pct": -3.22,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -7.85,
-   "trusted_prob": 0.709,
+   "kelly_pct": -8.55,
+   "trusted_prob": 0.7075,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.92,
-   "pinn_dec": 1.366
+   "pinn_dec": 1.37
   },
   {
    "kind": "total",
@@ -8707,8 +8897,8 @@
    "kickoff": "2026-11-28T13:00:00-05:00",
    "home": "Purdue FW",
    "away": "Wofford",
-   "dec": 1.909,
-   "american": -110,
+   "dec": 1.877,
+   "american": -114,
    "game_model": {
     "game_id": "401926212",
     "home": "Purdue FW",
@@ -8733,8 +8923,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.909,
-     "b": 1.909
+     "a": 1.877,
+     "b": 1.943
     }
    ],
    "model_prob": 0.641,
@@ -8760,8 +8950,8 @@
    "kickoff": "2026-11-28T13:00:00-05:00",
    "home": "Radford",
    "away": "Hampton",
-   "dec": 1.943,
-   "american": -106,
+   "dec": 1.917,
+   "american": -109,
    "game_model": {
     "game_id": "401921414",
     "home": "Radford",
@@ -8786,8 +8976,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.943,
-     "b": 1.877
+     "a": 1.917,
+     "b": 1.901
     },
     {
      "book": "fanduel",
@@ -8818,100 +9008,99 @@
     "additive": 0.4884,
     "power": 0.4882
    },
-   "ev_pct": -5.14,
-   "min_ev": 1.87,
+   "ev_pct": -6.41,
+   "min_ev": 1.79,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -5.45,
-   "trusted_prob": 0.4935,
+   "kelly_pct": -6.99,
+   "trusted_prob": 0.4949,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.85,
+   "second_ev": -4.15,
    "pinn_dec": 1.971
   },
   {
-   "kind": "spread",
+   "kind": "total",
    "week": "2026-11-28",
-   "player": "SC State @ Duquesne",
-   "pkey": "401925783",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "SC State +18.5",
-   "line": -18.5,
-   "side": "away",
-   "team": "SC State",
-   "opp": "Duquesne",
+   "player": "Hampton @ Radford",
+   "pkey": "401921414",
+   "stat": "total",
+   "stat_label": "Total",
+   "title": "Over 132.5",
+   "line": 132.5,
+   "side": "over",
+   "team": null,
+   "opp": null,
    "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/139291249346741",
-   "game_id": "401925783",
-   "kickoff": "2026-11-28T19:30:00-05:00",
-   "home": "Duquesne",
-   "away": "SC State",
-   "dec": 1.775,
-   "american": -129,
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/156528787290254",
+   "game_id": "401921414",
+   "kickoff": "2026-11-28T13:00:00-05:00",
+   "home": "Radford",
+   "away": "Hampton",
+   "dec": 1.901,
+   "american": -111,
    "game_model": {
-    "game_id": "401925783",
-    "home": "Duquesne",
-    "away": "SC State",
-    "kickoff": "2026-11-28T19:30:00-05:00",
-    "neutral": false,
+    "game_id": "401921414",
+    "home": "Radford",
+    "away": "Hampton",
+    "kickoff": "2026-11-28T13:00:00-05:00",
+    "neutral": true,
     "non_d1": null,
-    "proj_home": 79.7,
-    "proj_away": 66.4,
-    "proj_margin": 13.2,
-    "proj_total": 146.1,
-    "home_win_prob": 0.886,
+    "proj_home": 72.7,
+    "proj_away": 64.9,
+    "proj_margin": 7.8,
+    "proj_total": 137.7,
+    "home_win_prob": 0.76,
     "model": "FULL",
     "slope": 7.78,
-    "matchup_x": 1.316,
-    "home_em": 2.2,
-    "away_em": -14.7,
-    "home_t": 66.5,
-    "away_t": 71.3,
+    "matchup_x": 0.996,
+    "home_em": -6.8,
+    "away_em": -10.3,
+    "home_t": 69.2,
+    "away_t": 66.4,
     "league_avg": 108.2
    },
    "books": [
     {
      "book": "draftkings",
-     "a": 1.952,
-     "b": 1.775
+     "a": 1.901,
+     "b": 1.926
     },
     {
      "book": "pinnacle",
-     "a": 2.09,
-     "b": 1.769
+     "a": 1.847,
+     "b": 1.952
     }
    ],
-   "model_prob": 0.685,
-   "model_edge": 5.3,
-   "model_edge_txt": "+5.3 pts \u00b7 GOOD",
-   "cheat_side": "away",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Duquesne -18.5 109 / SC State +18.5 -130",
-   "fair_prob": 0.5416,
+   "model_prob": 0.636,
+   "model_edge": 5.2,
+   "model_edge_txt": "+5.2 pts",
+   "cheat_side": "over",
+   "pinnacle_line": "132.5 o-118/u-105",
+   "fair_prob": 0.5138,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5416,
-    0.5443
+    0.5138,
+    0.5149
    ],
    "devig_all": {
-    "multiplicative": 0.5416,
-    "additive": 0.5434,
-    "power": 0.5443
+    "multiplicative": 0.5138,
+    "additive": 0.5146,
+    "power": 0.5149
    },
-   "ev_pct": -3.87,
-   "min_ev": 1.34,
+   "ev_pct": -2.32,
+   "min_ev": 1.74,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -4.99,
-   "trusted_prob": 0.5459,
+   "kelly_pct": -2.58,
+   "trusted_prob": 0.5163,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": null,
-   "pinn_dec": 1.769
+   "pinn_dec": 1.847
   },
   {
    "kind": "spread",
@@ -9002,93 +9191,6 @@
    "pinn_dec": 1.952
   },
   {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "Bucknell @ Penn",
-   "pkey": "401921186",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Penn Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Penn",
-   "opp": "Bucknell",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/193430260971933",
-   "game_id": "401921186",
-   "kickoff": "2026-11-28T18:00:00-05:00",
-   "home": "Penn",
-   "away": "Bucknell",
-   "dec": 1.074,
-   "american": -1351,
-   "game_model": {
-    "game_id": "401921186",
-    "home": "Penn",
-    "away": "Bucknell",
-    "kickoff": "2026-11-28T18:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 84.1,
-    "proj_away": 66.5,
-    "proj_margin": 17.5,
-    "proj_total": 150.6,
-    "home_win_prob": 0.945,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.868,
-    "home_em": 2.2,
-    "away_em": -15.2,
-    "home_t": 71.5,
-    "away_t": 67.1,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.074,
-     "b": 9.0
-    },
-    {
-     "book": "fanduel",
-     "a": 1.071,
-     "b": 9.1
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.078,
-     "b": 8.98
-    }
-   ],
-   "model_prob": 0.945,
-   "model_edge": 5.16,
-   "model_edge_txt": "+5.2%",
-   "cheat_side": "home",
-   "pinnacle_line": "Penn -1282 / Bucknell +798",
-   "fair_prob": 0.8928,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.8928,
-    0.918
-   ],
-   "devig_all": {
-    "multiplicative": 0.8928,
-    "additive": 0.9081,
-    "power": 0.918
-   },
-   "ev_pct": -4.11,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -55.55,
-   "trusted_prob": 0.9005,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -3.91,
-   "pinn_dec": 1.078
-  },
-  {
    "kind": "total",
    "week": "2026-11-28",
    "player": "NC Central @ Gardner-Webb",
@@ -9142,38 +9244,38 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.935,
-     "b": 1.87
+     "a": 1.84,
+     "b": 1.962
     }
    ],
    "model_prob": 0.633,
    "model_edge": 5.1,
    "model_edge_txt": "+5.1 pts",
    "cheat_side": "over",
-   "pinnacle_line": "135.5 o-107/u-115",
-   "fair_prob": 0.4908,
-   "fair_method": "power",
+   "pinnacle_line": "135.5 o-119/u-104",
+   "fair_prob": 0.516,
+   "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4908,
-    0.4915
+    0.516,
+    0.5173
    ],
    "devig_all": {
-    "multiplicative": 0.4915,
-    "additive": 0.491,
-    "power": 0.4908
+    "multiplicative": 0.516,
+    "additive": 0.5169,
+    "power": 0.5173
    },
-   "ev_pct": -6.7,
+   "ev_pct": -1.9,
    "min_ev": 1.74,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -7.44,
-   "trusted_prob": 0.4978,
+   "kelly_pct": -2.11,
+   "trusted_prob": 0.518,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.91,
-   "pinn_dec": 1.935
+   "pinn_dec": 1.84
   },
   {
    "kind": "ml",
@@ -9404,8 +9506,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.885,
-     "b": 1.971
+     "a": 1.862,
+     "b": 1.99
     }
    ],
    "model_prob": 0.662,
@@ -9413,30 +9515,118 @@
    "model_edge_txt": "+4.6 pts \u00b7 GOOD",
    "cheat_side": "home",
    "cbb_tier": "GOOD",
-   "pinnacle_line": "Bradley -13.5 -113 / Chicago St +13.5 -103",
-   "fair_prob": 0.5112,
+   "pinnacle_line": "Bradley -13.5 -116 / Chicago St +13.5 -101",
+   "fair_prob": 0.5166,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5112,
-    0.5118
+    0.5166,
+    0.5176
    ],
    "devig_all": {
-    "multiplicative": 0.5112,
-    "additive": 0.5116,
-    "power": 0.5118
+    "multiplicative": 0.5166,
+    "additive": 0.5173,
+    "power": 0.5176
    },
-   "ev_pct": -2.42,
+   "ev_pct": -1.38,
    "min_ev": 1.76,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.66,
-   "trusted_prob": 0.5137,
+   "kelly_pct": -1.52,
+   "trusted_prob": 0.5181,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.05,
-   "pinn_dec": 1.885
+   "pinn_dec": 1.862
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "SC State @ Duquesne",
+   "pkey": "401925783",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "SC State +17.5",
+   "line": -17.5,
+   "side": "away",
+   "team": "SC State",
+   "opp": "Duquesne",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/206655737035790",
+   "game_id": "401925783",
+   "kickoff": "2026-11-28T19:30:00-05:00",
+   "home": "Duquesne",
+   "away": "SC State",
+   "dec": 1.98,
+   "american": -102,
+   "game_model": {
+    "game_id": "401925783",
+    "home": "Duquesne",
+    "away": "SC State",
+    "kickoff": "2026-11-28T19:30:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 79.7,
+    "proj_away": 66.4,
+    "proj_margin": 13.2,
+    "proj_total": 146.1,
+    "home_win_prob": 0.886,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.316,
+    "home_em": 2.2,
+    "away_em": -14.7,
+    "home_t": 66.5,
+    "away_t": 71.3,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.877,
+     "b": 1.943
+    },
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 1.98
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.909,
+     "b": 1.943
+    }
+   ],
+   "model_prob": 0.652,
+   "model_edge": 4.3,
+   "model_edge_txt": "+4.3 pts \u00b7 GOOD",
+   "cheat_side": "away",
+   "cbb_tier": "GOOD",
+   "pinnacle_line": "Duquesne -17.5 -110 / SC State +17.5 -106",
+   "fair_prob": 0.4953,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4953,
+    0.4956
+   ],
+   "devig_all": {
+    "multiplicative": 0.4956,
+    "additive": 0.4954,
+    "power": 0.4953
+   },
+   "ev_pct": -1.92,
+   "min_ev": 1.99,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -1.96,
+   "trusted_prob": 0.4973,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.83,
+   "pinn_dec": 1.943
   },
   {
    "kind": "spread",
@@ -9584,6 +9774,89 @@
    "tier": "single",
    "second_ev": -2.85,
    "pinn_dec": 1.935
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Bucknell @ Penn",
+   "pkey": "401921186",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Penn -13.5",
+   "line": -13.5,
+   "side": "home",
+   "team": "Penn",
+   "opp": "Bucknell",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/216184606153990",
+   "game_id": "401921186",
+   "kickoff": "2026-11-28T18:00:00-05:00",
+   "home": "Penn",
+   "away": "Bucknell",
+   "dec": 1.833,
+   "american": -120,
+   "game_model": {
+    "game_id": "401921186",
+    "home": "Penn",
+    "away": "Bucknell",
+    "kickoff": "2026-11-28T18:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 84.1,
+    "proj_away": 66.5,
+    "proj_margin": 17.5,
+    "proj_total": 150.6,
+    "home_win_prob": 0.945,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.868,
+    "home_em": 2.2,
+    "away_em": -15.2,
+    "home_t": 71.5,
+    "away_t": 67.1,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 1.98
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.855,
+     "b": 1.98
+    }
+   ],
+   "model_prob": 0.642,
+   "model_edge": 4.0,
+   "model_edge_txt": "+4.0 pts \u00b7 GOOD",
+   "cheat_side": "home",
+   "cbb_tier": "GOOD",
+   "pinnacle_line": "Penn -13.5 -117 / Bucknell +13.5 -102",
+   "fair_prob": 0.5163,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5163,
+    0.5174
+   ],
+   "devig_all": {
+    "multiplicative": 0.5163,
+    "additive": 0.517,
+    "power": 0.5174
+   },
+   "ev_pct": -5.36,
+   "min_ev": 1.52,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -6.44,
+   "trusted_prob": 0.5221,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.855
   },
   {
    "kind": "spread",
@@ -9800,8 +10073,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.794,
-     "b": 2.06
+     "a": 1.826,
+     "b": 2.02
     }
    ],
    "model_prob": 0.628,
@@ -9809,30 +10082,30 @@
    "model_edge_txt": "+3.6 pts \u00b7 GOOD",
    "cheat_side": "home",
    "cbb_tier": "GOOD",
-   "pinnacle_line": "Louisiana +8.5 -126 / McNeese -8.5 106",
-   "fair_prob": 0.5345,
+   "pinnacle_line": "Louisiana +8.5 -121 / McNeese -8.5 102",
+   "fair_prob": 0.5252,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5345,
-    0.5367
+    0.5252,
+    0.5268
    ],
    "devig_all": {
-    "multiplicative": 0.5345,
-    "additive": 0.536,
-    "power": 0.5367
+    "multiplicative": 0.5252,
+    "additive": 0.5263,
+    "power": 0.5268
    },
-   "ev_pct": -2.02,
+   "ev_pct": -3.73,
    "min_ev": 1.52,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.43,
-   "trusted_prob": 0.5367,
+   "kelly_pct": -4.47,
+   "trusted_prob": 0.5293,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": null,
-   "pinn_dec": 1.794
+   "pinn_dec": 1.826
   },
   {
    "kind": "spread",
@@ -10150,94 +10423,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "Bucknell @ Penn",
-   "pkey": "401921186",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Penn -14.5",
-   "line": -14.5,
-   "side": "home",
-   "team": "Penn",
-   "opp": "Bucknell",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/156787941437878",
-   "game_id": "401921186",
-   "kickoff": "2026-11-28T18:00:00-05:00",
-   "home": "Penn",
-   "away": "Bucknell",
-   "dec": 1.952,
-   "american": -105,
-   "game_model": {
-    "game_id": "401921186",
-    "home": "Penn",
-    "away": "Bucknell",
-    "kickoff": "2026-11-28T18:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 84.1,
-    "proj_away": 66.5,
-    "proj_margin": 17.5,
-    "proj_total": 150.6,
-    "home_win_prob": 0.945,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.868,
-    "home_em": 2.2,
-    "away_em": -15.2,
-    "home_t": 71.5,
-    "away_t": 67.1,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.952,
-     "b": 1.862
-    },
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
-     "book": "pinnacle",
-     "a": 2.05,
-     "b": 1.8
-    }
-   ],
-   "model_prob": 0.607,
-   "model_edge": 3.0,
-   "model_edge_txt": "+3.0 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Penn -14.5 105 / Bucknell +14.5 -125",
-   "fair_prob": 0.4654,
-   "fair_method": "power",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.4654,
-    0.4675
-   ],
-   "devig_all": {
-    "multiplicative": 0.4675,
-    "additive": 0.4661,
-    "power": 0.4654
-   },
-   "ev_pct": -9.15,
-   "min_ev": 1.9,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -9.61,
-   "trusted_prob": 0.4748,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -2.4,
-   "pinn_dec": 2.05
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "UMass Lowell @ American",
    "pkey": "401912214",
    "stat": "spread",
@@ -10284,8 +10469,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.901,
-     "b": 1.935
+     "a": 1.862,
+     "b": 1.98
     }
    ],
    "model_prob": 0.604,
@@ -10293,30 +10478,30 @@
    "model_edge_txt": "+2.9 pts \u00b7 LEAN",
    "cheat_side": "home",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "American -3.5 -111 / UMass Lowell +3.5 -107",
-   "fair_prob": 0.5044,
+   "pinnacle_line": "American -3.5 -116 / UMass Lowell +3.5 -102",
+   "fair_prob": 0.5154,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5044,
-    0.5047
+    0.5154,
+    0.5163
    ],
    "devig_all": {
-    "multiplicative": 0.5044,
-    "additive": 0.5046,
-    "power": 0.5047
+    "multiplicative": 0.5154,
+    "additive": 0.516,
+    "power": 0.5163
    },
-   "ev_pct": -7.54,
+   "ev_pct": -5.54,
    "min_ev": 1.52,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -9.05,
-   "trusted_prob": 0.5127,
+   "kelly_pct": -6.64,
+   "trusted_prob": 0.5214,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": null,
-   "pinn_dec": 1.901
+   "pinn_dec": 1.862
   },
   {
    "kind": "spread",
@@ -10372,8 +10557,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.893,
-     "b": 1.962
+     "a": 1.935,
+     "b": 1.901
     }
    ],
    "model_prob": 0.6,
@@ -10381,30 +10566,30 @@
    "model_edge_txt": "+2.8 pts \u00b7 LEAN",
    "cheat_side": "away",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "Boise St -4.5 -112 / North Texas +4.5 -104",
-   "fair_prob": 0.4905,
-   "fair_method": "power",
+   "pinnacle_line": "Boise St -4.5 -107 / North Texas +4.5 -111",
+   "fair_prob": 0.5044,
+   "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4905,
-    0.4911
+    0.5044,
+    0.5047
    ],
    "devig_all": {
-    "multiplicative": 0.4911,
-    "additive": 0.4907,
-    "power": 0.4905
+    "multiplicative": 0.5044,
+    "additive": 0.5046,
+    "power": 0.5047
    },
-   "ev_pct": -7.14,
+   "ev_pct": -4.51,
    "min_ev": 1.71,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -8.0,
-   "trusted_prob": 0.4981,
+   "kelly_pct": -5.05,
+   "trusted_prob": 0.5092,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -3.71,
-   "pinn_dec": 1.962
+   "pinn_dec": 1.901
   },
   {
    "kind": "spread",
@@ -10460,8 +10645,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.8,
-     "b": 2.05
+     "a": 1.833,
+     "b": 2.01
     }
    ],
    "model_prob": 0.597,
@@ -10469,30 +10654,30 @@
    "model_edge_txt": "+2.7 pts \u00b7 LEAN",
    "cheat_side": "away",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "NC State -19.5 -125 / Elon +19.5 105",
-   "fair_prob": 0.4654,
+   "pinnacle_line": "NC State -19.5 -120 / Elon +19.5 101",
+   "fair_prob": 0.4755,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4654,
-    0.4675
+    0.4755,
+    0.477
    ],
    "devig_all": {
-    "multiplicative": 0.4675,
-    "additive": 0.4661,
-    "power": 0.4654
+    "multiplicative": 0.477,
+    "additive": 0.476,
+    "power": 0.4755
    },
-   "ev_pct": -7.85,
+   "ev_pct": -5.86,
    "min_ev": 1.99,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -8.01,
-   "trusted_prob": 0.4733,
+   "kelly_pct": -5.97,
+   "trusted_prob": 0.4814,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -1.92,
-   "pinn_dec": 2.05
+   "pinn_dec": 2.01
   },
   {
    "kind": "spread",
@@ -10585,94 +10770,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "GA Southern @ UNC Asheville",
-   "pkey": "401921031",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "GA Southern +1.5",
-   "line": -1.5,
-   "side": "away",
-   "team": "GA Southern",
-   "opp": "UNC Asheville",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/30202892843254",
-   "game_id": "401921031",
-   "kickoff": "2026-11-28T14:00:00-05:00",
-   "home": "UNC Asheville",
-   "away": "GA Southern",
-   "dec": 1.885,
-   "american": -113,
-   "game_model": {
-    "game_id": "401921031",
-    "home": "UNC Asheville",
-    "away": "GA Southern",
-    "kickoff": "2026-11-28T14:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 76.0,
-    "proj_away": 77.1,
-    "proj_margin": -1.1,
-    "proj_total": 153.0,
-    "home_win_prob": 0.458,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -0.533,
-    "home_em": -11.8,
-    "away_em": -9.9,
-    "home_t": 68.7,
-    "away_t": 71.8,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.935,
-     "b": 1.885
-    },
-    {
-     "book": "fanduel",
-     "a": 2.0,
-     "b": 1.82
-    },
-    {
-     "book": "pinnacle",
-     "a": 2.05,
-     "b": 1.8
-    }
-   ],
-   "model_prob": 0.593,
-   "model_edge": 2.6,
-   "model_edge_txt": "+2.6 pts \u00b7 LEAN",
-   "cheat_side": "away",
-   "cbb_tier": "LEAN",
-   "pinnacle_line": "UNC Asheville -1.5 105 / GA Southern +1.5 -125",
-   "fair_prob": 0.5325,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5325,
-    0.5346
-   ],
-   "devig_all": {
-    "multiplicative": 0.5325,
-    "additive": 0.5339,
-    "power": 0.5346
-   },
-   "ev_pct": 0.37,
-   "min_ev": 1.69,
-   "units": 0.08364516839093526,
-   "base_units": 0.08364516839093526,
-   "kelly_pct": 0.42,
-   "trusted_prob": 0.5321,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -1.31,
-   "pinn_dec": 1.8
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "UT Rio Grande @ UNLV",
    "pkey": "401924913",
    "stat": "spread",
@@ -10724,8 +10821,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.971,
-     "b": 1.862
+     "a": 1.962,
+     "b": 1.877
     }
    ],
    "model_prob": 0.593,
@@ -10733,30 +10830,30 @@
    "model_edge_txt": "+2.6 pts \u00b7 LEAN",
    "cheat_side": "home",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "UNLV -10.5 -103 / UT Rio Grande +10.5 -116",
-   "fair_prob": 0.4848,
+   "pinnacle_line": "UNLV -10.5 -104 / UT Rio Grande +10.5 -114",
+   "fair_prob": 0.4882,
    "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.4848,
-    0.4858
+    0.4882,
+    0.4889
    ],
    "devig_all": {
-    "multiplicative": 0.4858,
-    "additive": 0.4851,
-    "power": 0.4848
+    "multiplicative": 0.4889,
+    "additive": 0.4885,
+    "power": 0.4882
    },
-   "ev_pct": -6.62,
+   "ev_pct": -5.97,
    "min_ev": 1.82,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -7.15,
-   "trusted_prob": 0.4917,
+   "kelly_pct": -6.45,
+   "trusted_prob": 0.4944,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -3.7,
-   "pinn_dec": 1.971
+   "pinn_dec": 1.962
   },
   {
    "kind": "spread",
@@ -10812,8 +10909,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.794,
-     "b": 2.06
+     "a": 1.763,
+     "b": 2.1
     }
    ],
    "model_prob": 0.59,
@@ -10821,30 +10918,30 @@
    "model_edge_txt": "+2.5 pts \u00b7 LEAN",
    "cheat_side": "home",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "Navy +1.5 -126 / C Connecticut -1.5 106",
-   "fair_prob": 0.5345,
+   "pinnacle_line": "Navy +1.5 -131 / C Connecticut -1.5 110",
+   "fair_prob": 0.5436,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5345,
-    0.5367
+    0.5436,
+    0.5465
    ],
    "devig_all": {
-    "multiplicative": 0.5345,
-    "additive": 0.536,
-    "power": 0.5367
+    "multiplicative": 0.5436,
+    "additive": 0.5455,
+    "power": 0.5465
    },
-   "ev_pct": -1.28,
+   "ev_pct": 0.41,
    "min_ev": 1.57,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -1.51,
-   "trusted_prob": 0.5359,
+   "units": 0.09596691403106729,
+   "base_units": 0.09596691403106729,
+   "kelly_pct": 0.48,
+   "trusted_prob": 0.5432,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -1.32,
-   "pinn_dec": 1.794
+   "pinn_dec": 1.763
   },
   {
    "kind": "spread",
@@ -10900,8 +10997,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.855,
-     "b": 1.99
+     "a": 1.87,
+     "b": 1.971
     }
    ],
    "model_prob": 0.583,
@@ -10909,30 +11006,30 @@
    "model_edge_txt": "+2.3 pts \u00b7 LEAN",
    "cheat_side": "home",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "Marshall -6.5 -117 / East Texas A&M +6.5 -101",
-   "fair_prob": 0.5176,
+   "pinnacle_line": "Marshall -6.5 -115 / East Texas A&M +6.5 -103",
+   "fair_prob": 0.5131,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5176,
-    0.5187
+    0.5131,
+    0.514
    ],
    "devig_all": {
-    "multiplicative": 0.5176,
-    "additive": 0.5183,
-    "power": 0.5187
+    "multiplicative": 0.5131,
+    "additive": 0.5137,
+    "power": 0.514
    },
-   "ev_pct": -3.22,
+   "ev_pct": -4.04,
    "min_ev": 1.64,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -3.7,
-   "trusted_prob": 0.521,
+   "kelly_pct": -4.65,
+   "trusted_prob": 0.5175,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -2.9,
-   "pinn_dec": 1.855
+   "pinn_dec": 1.87
   },
   {
    "kind": "spread",
@@ -11154,8 +11251,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.952,
-     "b": 1.901
+     "a": 2.05,
+     "b": 1.8
     }
    ],
    "model_prob": 0.576,
@@ -11163,30 +11260,30 @@
    "model_edge_txt": "+2.1 pts \u00b7 LEAN",
    "cheat_side": "away",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "Iowa -33.5 -105 / Prairie View +33.5 -111",
-   "fair_prob": 0.5066,
+   "pinnacle_line": "Iowa -33.5 105 / Prairie View +33.5 -125",
+   "fair_prob": 0.5325,
    "fair_method": "multiplicative",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5066,
-    0.507
+    0.5325,
+    0.5346
    ],
    "devig_all": {
-    "multiplicative": 0.5066,
-    "additive": 0.5069,
-    "power": 0.507
+    "multiplicative": 0.5325,
+    "additive": 0.5339,
+    "power": 0.5346
    },
-   "ev_pct": -4.1,
+   "ev_pct": 0.8,
    "min_ev": 1.71,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -4.59,
-   "trusted_prob": 0.5109,
+   "units": 0.17829874492808795,
+   "base_units": 0.17829874492808795,
+   "kelly_pct": 0.89,
+   "trusted_prob": 0.5316,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": null,
-   "pinn_dec": 1.901
+   "pinn_dec": 1.8
   },
   {
    "kind": "spread",
@@ -11472,8 +11569,8 @@
     },
     {
      "book": "pinnacle",
-     "a": 1.926,
-     "b": 1.926
+     "a": 1.935,
+     "b": 1.917
     }
    ],
    "model_prob": 0.558,
@@ -11481,36 +11578,36 @@
    "model_edge_txt": "+1.6 pts \u00b7 LEAN",
    "cheat_side": "home",
    "cbb_tier": "LEAN",
-   "pinnacle_line": "San Francisco -9.5 -108 / Bethune +9.5 -108",
-   "fair_prob": 0.5,
-   "fair_method": "multiplicative",
+   "pinnacle_line": "San Francisco -9.5 -107 / Bethune +9.5 -109",
+   "fair_prob": 0.4975,
+   "fair_method": "power",
    "fair_source": "Pinnacle",
    "devig_range": [
-    0.5,
-    0.5
+    0.4975,
+    0.4977
    ],
    "devig_all": {
-    "multiplicative": 0.5,
-    "additive": 0.5,
-    "power": 0.5
+    "multiplicative": 0.4977,
+    "additive": 0.4976,
+    "power": 0.4975
    },
-   "ev_pct": -5.35,
+   "ev_pct": -5.82,
    "min_ev": 1.71,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -5.99,
-   "trusted_prob": 0.5057,
+   "kelly_pct": -6.51,
+   "trusted_prob": 0.5037,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
    "second_ev": -1.7,
-   "pinn_dec": 1.926
+   "pinn_dec": 1.935
   }
  ],
  "matchups": [],
  "slate_units": {
-  "ev": 0.25,
+  "ev": 0.5,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T11:22:24-05:00"
+ "odds_as_of": "2026-11-28T11:32:59-05:00"
 }
