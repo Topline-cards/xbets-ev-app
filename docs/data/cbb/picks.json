@@ -1,6 +1,6 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T14:23:13-05:00",
+ "generated_at": "2026-11-28T14:33:42-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
@@ -8,14 +8,21 @@
  "status": {
   "odds_checked": true,
   "book_game_lines": 217,
-  "book_unmatched": 8,
+  "book_unmatched": 15,
   "book_unmatched_games": [
+   "Canisius @ UIC",
+   "Dartmouth @ Appalachian State",
    "Davidson @ Florida Atlantic",
+   "IU Indianapolis @ Tulsa",
    "Loyola Chicago @ UMass",
    "Memphis @ Dayton",
+   "North Dakota @ Green Bay",
+   "Quinnipiac @ Yale",
+   "Rice @ Arkansas State",
    "SE Missouri St @ UMKC",
    "SE Missouri State @ UMKC",
    "South Florida @ Saint Louis",
+   "UL Monroe @ Tulane",
    "Utah State @ New Mexico",
    "Weber State @ CSU Fullerton"
   ],
@@ -1770,8 +1777,222 @@
    "league_avg": 108.2
   }
  ],
- "combined": [],
- "ev": [],
+ "combined": [
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Austin Peay @ Furman",
+   "pkey": "401917954",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Furman -6.5",
+   "line": -6.5,
+   "side": "home",
+   "team": "Furman",
+   "opp": "Austin Peay",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126056025149860",
+   "game_id": "401917954",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Furman",
+   "away": "Austin Peay",
+   "dec": 1.901,
+   "american": -111,
+   "game_model": {
+    "game_id": "401917954",
+    "home": "Furman",
+    "away": "Austin Peay",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 80.2,
+    "proj_away": 66.0,
+    "proj_margin": 14.2,
+    "proj_total": 146.3,
+    "home_win_prob": 0.901,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.436,
+    "home_em": 5.0,
+    "away_em": -2.9,
+    "home_t": 68.8,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.901,
+     "b": 1.917
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.781,
+     "b": 2.07
+    }
+   ],
+   "model_prob": 0.758,
+   "model_edge": 7.7,
+   "model_edge_txt": "+7.7 pts \u00b7 STRONG",
+   "cheat_side": "home",
+   "cbb_tier": "STRONG",
+   "pinnacle_line": "Furman -6.5 -128 / Austin Peay +6.5 107",
+   "fair_prob": 0.5375,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5375,
+    0.54
+   ],
+   "devig_all": {
+    "multiplicative": 0.5375,
+    "additive": 0.5392,
+    "power": 0.54
+   },
+   "ev_pct": 2.18,
+   "min_ev": 1.74,
+   "units": 0.25,
+   "base_units": 0.4845880871566888,
+   "kelly_pct": 2.42,
+   "trusted_prob": 0.5352,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.781,
+   "sizing": {
+    "base": 0.48,
+    "conf": 0.47,
+    "conf_why": [
+     "cheat sheet agrees",
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 1,
+    "player_bets": 1,
+    "corr": 1.0,
+    "cap": 2.0,
+    "raw": 0.23
+   },
+   "lane": "cbb:spread",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.75,
+    "roi_pct": -38.2
+   },
+   "exp_profit_units": 0.005
+  }
+ ],
+ "ev": [
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Austin Peay @ Furman",
+   "pkey": "401917954",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Furman -6.5",
+   "line": -6.5,
+   "side": "home",
+   "team": "Furman",
+   "opp": "Austin Peay",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126056025149860",
+   "game_id": "401917954",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Furman",
+   "away": "Austin Peay",
+   "dec": 1.901,
+   "american": -111,
+   "game_model": {
+    "game_id": "401917954",
+    "home": "Furman",
+    "away": "Austin Peay",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 80.2,
+    "proj_away": 66.0,
+    "proj_margin": 14.2,
+    "proj_total": 146.3,
+    "home_win_prob": 0.901,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.436,
+    "home_em": 5.0,
+    "away_em": -2.9,
+    "home_t": 68.8,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.901,
+     "b": 1.917
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.781,
+     "b": 2.07
+    }
+   ],
+   "model_prob": 0.758,
+   "model_edge": 7.7,
+   "model_edge_txt": "+7.7 pts \u00b7 STRONG",
+   "cheat_side": "home",
+   "cbb_tier": "STRONG",
+   "pinnacle_line": "Furman -6.5 -128 / Austin Peay +6.5 107",
+   "fair_prob": 0.5375,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5375,
+    0.54
+   ],
+   "devig_all": {
+    "multiplicative": 0.5375,
+    "additive": 0.5392,
+    "power": 0.54
+   },
+   "ev_pct": 2.18,
+   "min_ev": 1.74,
+   "units": 0.25,
+   "base_units": 0.4845880871566888,
+   "kelly_pct": 2.42,
+   "trusted_prob": 0.5352,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.781,
+   "lane": "cbb:spread",
+   "lane_status": "testing",
+   "lane_info": {
+    "graded": 53,
+    "days": 2,
+    "ev_vs_close": -0.75,
+    "roi_pct": -38.2
+   },
+   "sizing": {
+    "base": 0.48,
+    "conf": 0.47,
+    "conf_why": [
+     "cheat sheet agrees",
+     "one sharp source only",
+     "lane still testing"
+    ],
+    "game_bets": 1,
+    "player_bets": 1,
+    "corr": 1.0,
+    "cap": 2.0,
+    "raw": 0.23
+   },
+   "exp_profit_units": 0.005
+  }
+ ],
  "cheat": [
   {
    "kind": "ml",
@@ -2771,14 +2992,14 @@
    "side": "home",
    "team": "Furman",
    "opp": "Austin Peay",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/61568632411692",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/235707203676084",
    "game_id": "401917954",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "Furman",
    "away": "Austin Peay",
-   "dec": 1.333,
-   "american": -300,
+   "dec": 1.345,
+   "american": -290,
    "game_model": {
     "game_id": "401917954",
     "home": "Furman",
@@ -2803,8 +3024,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.328,
-     "b": 3.45
+     "a": 1.345,
+     "b": 3.35
     },
     {
      "book": "fanduel",
@@ -2818,8 +3039,8 @@
     }
    ],
    "model_prob": 0.901,
-   "model_edge": 17.97,
-   "model_edge_txt": "+18.0%",
+   "model_edge": 18.75,
+   "model_edge_txt": "+18.7%",
    "cheat_side": "home",
    "pinnacle_line": "Furman -315 / Austin Peay +258",
    "fair_prob": 0.7311,
@@ -2834,16 +3055,16 @@
     "additive": 0.74,
     "power": 0.7447
    },
-   "ev_pct": -2.55,
+   "ev_pct": -1.67,
    "min_ev": 1.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -7.66,
-   "trusted_prob": 0.7349,
+   "kelly_pct": -4.85,
+   "trusted_prob": 0.7335,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.75,
+   "second_ev": -2.98,
    "pinn_dec": 1.317
   },
   {
@@ -3195,6 +3416,93 @@
    "pinn_dec": 9.55
   },
   {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "South Alabama @ S Dakota St",
+   "pkey": "401929413",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "S Dakota St Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "S Dakota St",
+   "opp": "South Alabama",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/13805222080425",
+   "game_id": "401929413",
+   "kickoff": "2026-11-28T18:00:00-05:00",
+   "home": "S Dakota St",
+   "away": "South Alabama",
+   "dec": 1.87,
+   "american": -115,
+   "game_model": {
+    "game_id": "401929413",
+    "home": "S Dakota St",
+    "away": "South Alabama",
+    "kickoff": "2026-11-28T18:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 70.4,
+    "proj_away": 66.8,
+    "proj_margin": 3.6,
+    "proj_total": 137.2,
+    "home_win_prob": 0.627,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.458,
+    "home_em": -4.7,
+    "away_em": -5.9,
+    "home_t": 67.3,
+    "away_t": 61.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.82,
+     "b": 2.02
+    },
+    {
+     "book": "fanduel",
+     "a": 1.87,
+     "b": 1.962
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.862,
+     "b": 1.99
+    }
+   ],
+   "model_prob": 0.627,
+   "model_edge": 11.5,
+   "model_edge_txt": "+11.5%",
+   "cheat_side": "home",
+   "pinnacle_line": "S Dakota St -116 / South Alabama -101",
+   "fair_prob": 0.5166,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5166,
+    0.5176
+   ],
+   "devig_all": {
+    "multiplicative": 0.5166,
+    "additive": 0.5173,
+    "power": 0.5176
+   },
+   "ev_pct": -3.39,
+   "min_ev": 1.64,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -3.9,
+   "trusted_prob": 0.5202,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -1.63,
+   "pinn_dec": 1.862
+  },
+  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "Portland St @ S Illinois",
@@ -3543,93 +3851,6 @@
    "tier": "single",
    "second_ev": -2.04,
    "pinn_dec": 1.474
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
-   "player": "South Alabama @ S Dakota St",
-   "pkey": "401929413",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "S Dakota St Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "S Dakota St",
-   "opp": "South Alabama",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/13805222080425",
-   "game_id": "401929413",
-   "kickoff": "2026-11-28T18:00:00-05:00",
-   "home": "S Dakota St",
-   "away": "South Alabama",
-   "dec": 1.833,
-   "american": -120,
-   "game_model": {
-    "game_id": "401929413",
-    "home": "S Dakota St",
-    "away": "South Alabama",
-    "kickoff": "2026-11-28T18:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 70.4,
-    "proj_away": 66.8,
-    "proj_margin": 3.6,
-    "proj_total": 137.2,
-    "home_win_prob": 0.627,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.458,
-    "home_em": -4.7,
-    "away_em": -5.9,
-    "home_t": 67.3,
-    "away_t": 61.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.82,
-     "b": 2.02
-    },
-    {
-     "book": "fanduel",
-     "a": 1.833,
-     "b": 2.0
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.862,
-     "b": 1.99
-    }
-   ],
-   "model_prob": 0.627,
-   "model_edge": 10.52,
-   "model_edge_txt": "+10.5%",
-   "cheat_side": "home",
-   "pinnacle_line": "S Dakota St -116 / South Alabama -101",
-   "fair_prob": 0.5166,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5166,
-    0.5176
-   ],
-   "devig_all": {
-    "multiplicative": 0.5166,
-    "additive": 0.5173,
-    "power": 0.5176
-   },
-   "ev_pct": -5.3,
-   "min_ev": 1.52,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -6.37,
-   "trusted_prob": 0.5224,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -3.58,
-   "pinn_dec": 1.862
   },
   {
    "kind": "ml",
@@ -4288,6 +4509,11 @@
      "b": 2.3
     },
     {
+     "book": "draftkings",
+     "a": 1.645,
+     "b": 2.3
+    },
+    {
      "book": "pinnacle",
      "a": 1.685,
      "b": 2.25
@@ -4319,7 +4545,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -5.32,
    "pinn_dec": 2.25
   },
   {
@@ -4545,11 +4771,6 @@
      "b": 1.909
     },
     {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
      "book": "pinnacle",
      "a": 1.935,
      "b": 1.87
@@ -4581,7 +4802,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -4.55,
+   "second_ev": null,
    "pinn_dec": 1.935
   },
   {
@@ -4753,6 +4974,89 @@
    "tier": "single",
    "second_ev": -3.25,
    "pinn_dec": 1.926
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Austin Peay @ Furman",
+   "pkey": "401917954",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Furman -6.5",
+   "line": -6.5,
+   "side": "home",
+   "team": "Furman",
+   "opp": "Austin Peay",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126056025149860",
+   "game_id": "401917954",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Furman",
+   "away": "Austin Peay",
+   "dec": 1.901,
+   "american": -111,
+   "game_model": {
+    "game_id": "401917954",
+    "home": "Furman",
+    "away": "Austin Peay",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 80.2,
+    "proj_away": 66.0,
+    "proj_margin": 14.2,
+    "proj_total": 146.3,
+    "home_win_prob": 0.901,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 1.436,
+    "home_em": 5.0,
+    "away_em": -2.9,
+    "home_t": 68.8,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.901,
+     "b": 1.917
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.781,
+     "b": 2.07
+    }
+   ],
+   "model_prob": 0.758,
+   "model_edge": 7.7,
+   "model_edge_txt": "+7.7 pts \u00b7 STRONG",
+   "cheat_side": "home",
+   "cbb_tier": "STRONG",
+   "pinnacle_line": "Furman -6.5 -128 / Austin Peay +6.5 107",
+   "fair_prob": 0.5375,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5375,
+    0.54
+   ],
+   "devig_all": {
+    "multiplicative": 0.5375,
+    "additive": 0.5392,
+    "power": 0.54
+   },
+   "ev_pct": 2.18,
+   "min_ev": 1.74,
+   "units": 0.4845880871566888,
+   "base_units": 0.4845880871566888,
+   "kelly_pct": 2.42,
+   "trusted_prob": 0.5352,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.781
   },
   {
    "kind": "spread",
@@ -5035,94 +5339,6 @@
    "tier": "single",
    "second_ev": -9.32,
    "pinn_dec": 3.82
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
-   "player": "Austin Peay @ Furman",
-   "pkey": "401917954",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Furman -7.5",
-   "line": -7.5,
-   "side": "home",
-   "team": "Furman",
-   "opp": "Austin Peay",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/10874270656897",
-   "game_id": "401917954",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Furman",
-   "away": "Austin Peay",
-   "dec": 1.962,
-   "american": -104,
-   "game_model": {
-    "game_id": "401917954",
-    "home": "Furman",
-    "away": "Austin Peay",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 80.2,
-    "proj_away": 66.0,
-    "proj_margin": 14.2,
-    "proj_total": 146.3,
-    "home_win_prob": 0.901,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 1.436,
-    "home_em": 5.0,
-    "away_em": -2.9,
-    "home_t": 68.8,
-    "away_t": 69.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.962,
-     "b": 1.862
-    },
-    {
-     "book": "fanduel",
-     "a": 1.962,
-     "b": 1.847
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.962,
-     "b": 1.87
-    }
-   ],
-   "model_prob": 0.729,
-   "model_edge": 6.7,
-   "model_edge_txt": "+6.7 pts \u00b7 STRONG",
-   "cheat_side": "home",
-   "cbb_tier": "STRONG",
-   "pinnacle_line": "Furman -7.5 -104 / Austin Peay +7.5 -115",
-   "fair_prob": 0.4872,
-   "fair_method": "power",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.4872,
-    0.488
-   ],
-   "devig_all": {
-    "multiplicative": 0.488,
-    "additive": 0.4875,
-    "power": 0.4872
-   },
-   "ev_pct": -4.41,
-   "min_ev": 1.93,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -4.59,
-   "trusted_prob": 0.4917,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -5.09,
-   "pinn_dec": 1.962
   },
   {
    "kind": "ml",
@@ -6813,6 +7029,60 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "South Alabama @ S Dakota St",
+   "pkey": "401929413",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "S Dakota St -0.5",
+   "line": -0.5,
+   "side": "home",
+   "team": "S Dakota St",
+   "opp": "South Alabama",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/216335297877777",
+   "game_id": "401929413",
+   "kickoff": "2026-11-28T18:00:00-05:00",
+   "home": "S Dakota St",
+   "away": "South Alabama",
+   "dec": 1.847,
+   "american": -118,
+   "game_model": {
+    "game_id": "401929413",
+    "home": "S Dakota St",
+    "away": "South Alabama",
+    "kickoff": "2026-11-28T18:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 70.4,
+    "proj_away": 66.8,
+    "proj_margin": 3.6,
+    "proj_total": 137.2,
+    "home_win_prob": 0.627,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.458,
+    "home_em": -4.7,
+    "away_em": -5.9,
+    "home_t": 67.3,
+    "away_t": 61.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.847,
+     "b": 1.962
+    }
+   ],
+   "model_prob": 0.611,
+   "model_edge": 3.1,
+   "model_edge_txt": "+3.1 pts \u00b7 GOOD",
+   "cheat_side": "home",
+   "cbb_tier": "GOOD"
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "UMass Lowell @ American",
    "pkey": "401912214",
    "stat": "spread",
@@ -7112,14 +7382,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.862,
-     "b": 1.962
-    },
-    {
      "book": "fanduel",
      "a": 1.833,
      "b": 1.98
+    },
+    {
+     "book": "draftkings",
+     "a": 1.862,
+     "b": 1.962
     },
     {
      "book": "pinnacle",
@@ -7336,94 +7606,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "South Alabama @ S Dakota St",
-   "pkey": "401929413",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "S Dakota St -1.5",
-   "line": -1.5,
-   "side": "home",
-   "team": "S Dakota St",
-   "opp": "South Alabama",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/178985618505951",
-   "game_id": "401929413",
-   "kickoff": "2026-11-28T18:00:00-05:00",
-   "home": "S Dakota St",
-   "away": "South Alabama",
-   "dec": 1.943,
-   "american": -106,
-   "game_model": {
-    "game_id": "401929413",
-    "home": "S Dakota St",
-    "away": "South Alabama",
-    "kickoff": "2026-11-28T18:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 70.4,
-    "proj_away": 66.8,
-    "proj_margin": 3.6,
-    "proj_total": 137.2,
-    "home_win_prob": 0.627,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.458,
-    "home_em": -4.7,
-    "away_em": -5.9,
-    "home_t": 67.3,
-    "away_t": 61.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.943,
-     "b": 1.87
-    },
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.971,
-     "b": 1.87
-    }
-   ],
-   "model_prob": 0.576,
-   "model_edge": 2.1,
-   "model_edge_txt": "+2.1 pts \u00b7 LEAN",
-   "cheat_side": "home",
-   "cbb_tier": "LEAN",
-   "pinnacle_line": "S Dakota St -1.5 -103 / South Alabama +1.5 -115",
-   "fair_prob": 0.486,
-   "fair_method": "power",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.486,
-    0.4869
-   ],
-   "devig_all": {
-    "multiplicative": 0.4869,
-    "additive": 0.4863,
-    "power": 0.486
-   },
-   "ev_pct": -5.57,
-   "min_ev": 1.87,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -5.9,
-   "trusted_prob": 0.4917,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -2.85,
-   "pinn_dec": 1.971
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "Weber St @ Fullerton",
    "pkey": "401920160",
    "stat": "spread",
@@ -7566,8 +7748,8 @@
  ],
  "matchups": [],
  "slate_units": {
-  "ev": 0,
-  "combined": 0
+  "ev": 0.25,
+  "combined": 0.25
  },
- "odds_as_of": "2026-11-28T14:23:13-05:00"
+ "odds_as_of": "2026-11-28T14:33:42-05:00"
 }
