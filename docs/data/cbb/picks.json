@@ -1,13 +1,13 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T08:43:27-05:00",
+ "generated_at": "2026-11-28T08:54:03-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
  "next_kickoff": "2026-11-28T12:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 363,
+  "book_game_lines": 362,
   "book_unmatched": 3,
   "book_unmatched_games": [
    "SE Missouri St @ UMKC",
@@ -2607,7 +2607,7 @@
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.33,
+    "ev_vs_close": 0.44,
     "roi_pct": 19.2
    },
    "sizing": {
@@ -2711,7 +2711,7 @@
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.33,
+    "ev_vs_close": 0.44,
     "roi_pct": 19.2
    },
    "sizing": {
@@ -2816,7 +2816,7 @@
    "lane_info": {
     "graded": 39,
     "days": 2,
-    "ev_vs_close": 0.33,
+    "ev_vs_close": 0.44,
     "roi_pct": 19.2
    },
    "sizing": {
@@ -4182,14 +4182,14 @@
    "side": "away",
    "team": "N Colorado",
    "opp": "San Diego",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/179706498135422",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/18872398736452",
    "game_id": "401917549",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "San Diego",
    "away": "N Colorado",
-   "dec": 9.0,
-   "american": 800,
+   "dec": 8.6,
+   "american": 760,
    "game_model": {
     "game_id": "401917549",
     "home": "San Diego",
@@ -4214,8 +4214,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.074,
-     "b": 9.0
+     "a": 1.091,
+     "b": 8.0
     },
     {
      "book": "fanduel",
@@ -4229,8 +4229,8 @@
     }
    ],
    "model_prob": 0.322,
-   "model_edge": 21.54,
-   "model_edge_txt": "+21.5%",
+   "model_edge": 21.02,
+   "model_edge_txt": "+21.0%",
    "cheat_side": "away",
    "pinnacle_line": "San Diego -1042 / N Colorado +695",
    "fair_prob": 0.0977,
@@ -4245,16 +4245,16 @@
     "additive": 0.1067,
     "power": 0.0977
    },
-   "ev_pct": -12.05,
+   "ev_pct": -15.96,
    "min_ev": 10.0,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -1.51,
-   "trusted_prob": 0.1004,
+   "kelly_pct": -2.1,
+   "trusted_prob": 0.1014,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -22.02,
+   "second_ev": -18.98,
    "pinn_dec": 7.95
   },
   {
@@ -4579,93 +4579,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "Lehigh @ Pepperdine",
-   "pkey": "401926757",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "Pepperdine Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "Pepperdine",
-   "opp": "Lehigh",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/107226357643653",
-   "game_id": "401926757",
-   "kickoff": "2026-11-28T13:30:00-05:00",
-   "home": "Pepperdine",
-   "away": "Lehigh",
-   "dec": 1.182,
-   "american": -549,
-   "game_model": {
-    "game_id": "401926757",
-    "home": "Pepperdine",
-    "away": "Lehigh",
-    "kickoff": "2026-11-28T13:30:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 83.8,
-    "proj_away": 65.2,
-    "proj_margin": 18.6,
-    "proj_total": 149.1,
-    "home_win_prob": 0.954,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 2.386,
-    "home_em": 1.3,
-    "away_em": -7.3,
-    "home_t": 68.9,
-    "away_t": 68.5,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.182,
-     "b": 5.1
-    },
-    {
-     "book": "fanduel",
-     "a": 1.172,
-     "b": 5.3
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.176,
-     "b": 5.31
-    }
-   ],
-   "model_prob": 0.954,
-   "model_edge": 14.22,
-   "model_edge_txt": "+14.2%",
-   "cheat_side": "home",
-   "pinnacle_line": "Pepperdine -568 / Lehigh +431",
-   "fair_prob": 0.8187,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.8187,
-    0.838
-   ],
-   "devig_all": {
-    "multiplicative": 0.8187,
-    "additive": 0.831,
-    "power": 0.838
-   },
-   "ev_pct": -3.23,
-   "min_ev": 1.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -17.75,
-   "trusted_prob": 0.8242,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -3.2,
-   "pinn_dec": 1.176
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "VMI @ Richmond",
    "pkey": "401911242",
    "stat": "ml",
@@ -4836,6 +4749,88 @@
    "tier": "single",
    "second_ev": -0.98,
    "pinn_dec": 1.457
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "Lehigh @ Pepperdine",
+   "pkey": "401926757",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "Pepperdine Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "Pepperdine",
+   "opp": "Lehigh",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/157942473840067",
+   "game_id": "401926757",
+   "kickoff": "2026-11-28T13:30:00-05:00",
+   "home": "Pepperdine",
+   "away": "Lehigh",
+   "dec": 1.172,
+   "american": -581,
+   "game_model": {
+    "game_id": "401926757",
+    "home": "Pepperdine",
+    "away": "Lehigh",
+    "kickoff": "2026-11-28T13:30:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 83.8,
+    "proj_away": 65.2,
+    "proj_margin": 18.6,
+    "proj_total": 149.1,
+    "home_win_prob": 0.954,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 2.386,
+    "home_em": 1.3,
+    "away_em": -7.3,
+    "home_t": 68.9,
+    "away_t": 68.5,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "fanduel",
+     "a": 1.172,
+     "b": 5.3
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.176,
+     "b": 5.31
+    }
+   ],
+   "model_prob": 0.954,
+   "model_edge": 13.51,
+   "model_edge_txt": "+13.5%",
+   "cheat_side": "home",
+   "pinnacle_line": "Pepperdine -568 / Lehigh +431",
+   "fair_prob": 0.8187,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.8187,
+    0.838
+   ],
+   "devig_all": {
+    "multiplicative": 0.8187,
+    "additive": 0.831,
+    "power": 0.838
+   },
+   "ev_pct": -4.05,
+   "min_ev": 1.0,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -23.55,
+   "trusted_prob": 0.8256,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": null,
+   "pinn_dec": 1.176
   },
   {
    "kind": "ml",
@@ -5535,8 +5530,8 @@
    "side": "away",
    "team": "Le Moyne",
    "opp": "Niagara",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/250859021797033",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/236985684141830",
    "game_id": "401919787",
    "kickoff": "2026-11-28T14:00:00-05:00",
    "home": "Niagara",
@@ -5567,8 +5562,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.943,
-     "b": 1.877
+     "a": 1.909,
+     "b": 1.909
     },
     {
      "book": "fanduel",
@@ -6306,11 +6301,6 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.847,
-     "b": 1.971
-    },
-    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
@@ -6348,7 +6338,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.45,
+   "second_ev": null,
    "pinn_dec": 1.87
   },
   {
@@ -6537,8 +6527,8 @@
    "side": "over",
    "team": null,
    "opp": null,
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/171007277001570",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/183266353722496",
    "game_id": "401920436",
    "kickoff": "2026-11-28T16:00:00-05:00",
    "home": "Utah Valley",
@@ -6567,6 +6557,11 @@
     "league_avg": 108.2
    },
    "books": [
+    {
+     "book": "draftkings",
+     "a": 1.87,
+     "b": 1.952
+    },
     {
      "book": "fanduel",
      "a": 1.87,
@@ -6604,7 +6599,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -4.49,
    "pinn_dec": 1.826
   },
   {
@@ -6664,6 +6659,64 @@
    "model_edge": 7.6,
    "model_edge_txt": "+7.6 pts",
    "cheat_side": "over"
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "UMass Lowell @ American",
+   "pkey": "401912214",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "American Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "American",
+   "opp": "UMass Lowell",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/49597646373375",
+   "game_id": "401912214",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "American",
+   "away": "UMass Lowell",
+   "dec": 1.488,
+   "american": -205,
+   "game_model": {
+    "game_id": "401912214",
+    "home": "American",
+    "away": "UMass Lowell",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.1,
+    "proj_away": 67.7,
+    "proj_margin": 6.4,
+    "proj_total": 141.8,
+    "home_win_prob": 0.72,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.301,
+    "home_em": -0.9,
+    "away_em": -4.7,
+    "home_t": 67.4,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.488,
+     "b": 2.7
+    },
+    {
+     "book": "fanduel",
+     "a": 1.476,
+     "b": 2.72
+    }
+   ],
+   "model_prob": 0.72,
+   "model_edge": 7.53,
+   "model_edge_txt": "+7.5%",
+   "cheat_side": "home"
   },
   {
    "kind": "spread",
@@ -7144,8 +7197,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 2.7,
-     "b": 1.488
+     "a": 2.8,
+     "b": 1.459
     },
     {
      "book": "fanduel",
@@ -7184,7 +7237,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.3,
+   "second_ev": -1.39,
    "pinn_dec": 1.465
   },
   {
@@ -9647,14 +9700,14 @@
    "side": "home",
    "team": "S Dakota St",
    "opp": "South Alabama",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/178985618505951",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/216335297877777",
    "game_id": "401929413",
    "kickoff": "2026-11-28T18:00:00-05:00",
    "home": "S Dakota St",
    "away": "South Alabama",
-   "dec": 1.99,
-   "american": -101,
+   "dec": 1.98,
+   "american": -102,
    "game_model": {
     "game_id": "401929413",
     "home": "S Dakota St",
@@ -9679,8 +9732,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.99,
-     "b": 1.833
+     "a": 1.893,
+     "b": 1.926
     },
     {
      "book": "fanduel",
@@ -9711,16 +9764,16 @@
     "additive": 0.4909,
     "power": 0.4907
    },
-   "ev_pct": -2.35,
-   "min_ev": 2.02,
+   "ev_pct": -2.84,
+   "min_ev": 1.99,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.37,
-   "trusted_prob": 0.4931,
+   "kelly_pct": -2.9,
+   "trusted_prob": 0.4936,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -4.63,
+   "second_ev": -0.14,
    "pinn_dec": 1.952
   },
   {
@@ -9779,6 +9832,65 @@
    "model_prob": 0.572,
    "model_edge": 2.0,
    "model_edge_txt": "+2.0 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN"
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "UMass Lowell @ American",
+   "pkey": "401912214",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "American -4.5",
+   "line": -4.5,
+   "side": "home",
+   "team": "American",
+   "opp": "UMass Lowell",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/200631849412293",
+   "game_id": "401912214",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "American",
+   "away": "UMass Lowell",
+   "dec": 1.909,
+   "american": -110,
+   "game_model": {
+    "game_id": "401912214",
+    "home": "American",
+    "away": "UMass Lowell",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.1,
+    "proj_away": 67.7,
+    "proj_margin": 6.4,
+    "proj_total": 141.8,
+    "home_win_prob": 0.72,
+    "model": "BASE",
+    "slope": 11.33,
+    "matchup_x": 0.301,
+    "home_em": -0.9,
+    "away_em": -4.7,
+    "home_t": 67.4,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 1.98
+    }
+   ],
+   "model_prob": 0.569,
+   "model_edge": 1.9,
+   "model_edge_txt": "+1.9 pts \u00b7 LEAN",
    "cheat_side": "home",
    "cbb_tier": "LEAN"
   },
@@ -9898,6 +10010,60 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
+   "player": "East Texas A&M @ Marshall",
+   "pkey": "401920859",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "East Texas A&M +10.5",
+   "line": -10.5,
+   "side": "away",
+   "team": "East Texas A&M",
+   "opp": "Marshall",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/248550614987434",
+   "game_id": "401920859",
+   "kickoff": "2026-11-28T14:00:00-05:00",
+   "home": "Marshall",
+   "away": "East Texas A&M",
+   "dec": 1.775,
+   "american": -129,
+   "game_model": {
+    "game_id": "401920859",
+    "home": "Marshall",
+    "away": "East Texas A&M",
+    "kickoff": "2026-11-28T14:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 76.5,
+    "proj_away": 67.7,
+    "proj_margin": 8.8,
+    "proj_total": 144.2,
+    "home_win_prob": 0.788,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.746,
+    "home_em": -2.4,
+    "away_em": -9.1,
+    "home_t": 71.7,
+    "away_t": 67.9,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.952,
+     "b": 1.775
+    }
+   ],
+   "model_prob": 0.561,
+   "model_edge": 1.7,
+   "model_edge_txt": "+1.7 pts \u00b7 LEAN",
+   "cheat_side": "away",
+   "cbb_tier": "LEAN"
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
    "player": "Bethune @ San Francisco",
    "pkey": "401921065",
    "stat": "spread",
@@ -9955,5 +10121,5 @@
   "ev": 0.75,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T08:43:27-05:00"
+ "odds_as_of": "2026-11-28T08:54:03-05:00"
 }
