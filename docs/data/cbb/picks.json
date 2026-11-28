@@ -1,6 +1,6 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T12:36:31-05:00",
+ "generated_at": "2026-11-28T12:47:07-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
@@ -3763,13 +3763,13 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.741,
+     "book": "fanduel",
+     "a": 1.725,
      "b": 2.14
     },
     {
-     "book": "fanduel",
-     "a": 1.725,
+     "book": "draftkings",
+     "a": 1.741,
      "b": 2.14
     },
     {
@@ -3851,8 +3851,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.769,
-     "b": 2.1
+     "a": 1.8,
+     "b": 2.05
     },
     {
      "book": "fanduel",
@@ -4448,93 +4448,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "South Alabama @ S Dakota St",
-   "pkey": "401929413",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "S Dakota St Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "S Dakota St",
-   "opp": "South Alabama",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/13805222080425",
-   "game_id": "401929413",
-   "kickoff": "2026-11-28T18:00:00-05:00",
-   "home": "S Dakota St",
-   "away": "South Alabama",
-   "dec": 1.926,
-   "american": -108,
-   "game_model": {
-    "game_id": "401929413",
-    "home": "S Dakota St",
-    "away": "South Alabama",
-    "kickoff": "2026-11-28T18:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 70.4,
-    "proj_away": 66.8,
-    "proj_margin": 3.6,
-    "proj_total": 137.2,
-    "home_win_prob": 0.627,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.458,
-    "home_em": -4.7,
-    "away_em": -5.9,
-    "home_t": 67.3,
-    "away_t": 61.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.87,
-     "b": 1.952
-    },
-    {
-     "book": "fanduel",
-     "a": 1.926,
-     "b": 1.901
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.877,
-     "b": 1.98
-    }
-   ],
-   "model_prob": 0.627,
-   "model_edge": 13.03,
-   "model_edge_txt": "+13.0%",
-   "cheat_side": "home",
-   "pinnacle_line": "S Dakota St -114 / South Alabama -102",
-   "fair_prob": 0.5134,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.5134,
-    0.5141
-   ],
-   "devig_all": {
-    "multiplicative": 0.5134,
-    "additive": 0.5139,
-    "power": 0.5141
-   },
-   "ev_pct": -1.13,
-   "min_ev": 1.82,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -1.22,
-   "trusted_prob": 0.5145,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -1.63,
-   "pinn_dec": 1.877
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "VMI @ Richmond",
    "pkey": "401911242",
    "stat": "ml",
@@ -4618,6 +4531,93 @@
    "tier": "single",
    "second_ev": -28.77,
    "pinn_dec": 9.55
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "South Alabama @ S Dakota St",
+   "pkey": "401929413",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "S Dakota St Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "S Dakota St",
+   "opp": "South Alabama",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/181484989299892",
+   "game_id": "401929413",
+   "kickoff": "2026-11-28T18:00:00-05:00",
+   "home": "S Dakota St",
+   "away": "South Alabama",
+   "dec": 1.87,
+   "american": -115,
+   "game_model": {
+    "game_id": "401929413",
+    "home": "S Dakota St",
+    "away": "South Alabama",
+    "kickoff": "2026-11-28T18:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 70.4,
+    "proj_away": 66.8,
+    "proj_margin": 3.6,
+    "proj_total": 137.2,
+    "home_win_prob": 0.627,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.458,
+    "home_em": -4.7,
+    "away_em": -5.9,
+    "home_t": 67.3,
+    "away_t": 61.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.87,
+     "b": 1.952
+    },
+    {
+     "book": "fanduel",
+     "a": 1.833,
+     "b": 2.0
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.877,
+     "b": 1.98
+    }
+   ],
+   "model_prob": 0.627,
+   "model_edge": 11.63,
+   "model_edge_txt": "+11.6%",
+   "cheat_side": "home",
+   "pinnacle_line": "S Dakota St -114 / South Alabama -102",
+   "fair_prob": 0.5134,
+   "fair_method": "multiplicative",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.5134,
+    0.5141
+   ],
+   "devig_all": {
+    "multiplicative": 0.5134,
+    "additive": 0.5139,
+    "power": 0.5141
+   },
+   "ev_pct": -4.0,
+   "min_ev": 1.64,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -4.6,
+   "trusted_prob": 0.5176,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.43,
+   "pinn_dec": 1.877
   },
   {
    "kind": "spread",
@@ -5708,14 +5708,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.885,
-     "b": 1.935
-    },
-    {
      "book": "fanduel",
      "a": 1.833,
      "b": 1.98
+    },
+    {
+     "book": "draftkings",
+     "a": 1.885,
+     "b": 1.935
     },
     {
      "book": "pinnacle",
@@ -5984,93 +5984,6 @@
   {
    "kind": "ml",
    "week": "2026-11-28",
-   "player": "Ball State @ S Indiana",
-   "pkey": "401911031",
-   "stat": "ml",
-   "stat_label": "Moneyline",
-   "title": "S Indiana Moneyline",
-   "line": null,
-   "side": "home",
-   "team": "S Indiana",
-   "opp": "Ball State",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/234178975325393",
-   "game_id": "401911031",
-   "kickoff": "2026-11-28T14:00:00-05:00",
-   "home": "S Indiana",
-   "away": "Ball State",
-   "dec": 2.3,
-   "american": 130,
-   "game_model": {
-    "game_id": "401911031",
-    "home": "S Indiana",
-    "away": "Ball State",
-    "kickoff": "2026-11-28T14:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 68.3,
-    "proj_away": 68.2,
-    "proj_margin": 0.1,
-    "proj_total": 136.5,
-    "home_win_prob": 0.502,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": -0.378,
-    "home_em": -14.5,
-    "away_em": -11.7,
-    "home_t": 69.6,
-    "away_t": 65.2,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 2.3,
-     "b": 1.645
-    },
-    {
-     "book": "fanduel",
-     "a": 2.28,
-     "b": 1.658
-    },
-    {
-     "book": "pinnacle",
-     "a": 2.25,
-     "b": 1.685
-    }
-   ],
-   "model_prob": 0.502,
-   "model_edge": 8.5,
-   "model_edge_txt": "+8.5%",
-   "cheat_side": "home",
-   "pinnacle_line": "S Indiana +125 / Ball State -146",
-   "fair_prob": 0.4241,
-   "fair_method": "power",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.4241,
-    0.4282
-   ],
-   "devig_all": {
-    "multiplicative": 0.4282,
-    "additive": 0.4255,
-    "power": 0.4241
-   },
-   "ev_pct": -2.45,
-   "min_ev": 3.0,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -1.88,
-   "trusted_prob": 0.4263,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": -4.31,
-   "pinn_dec": 2.25
-  },
-  {
-   "kind": "ml",
-   "week": "2026-11-28",
    "player": "Brown @ Air Force",
    "pkey": "401911312",
    "stat": "ml",
@@ -6286,14 +6199,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.377,
-     "b": 3.15
-    },
-    {
      "book": "fanduel",
      "a": 1.4,
      "b": 3.05
+    },
+    {
+     "book": "draftkings",
+     "a": 1.377,
+     "b": 3.15
     },
     {
      "book": "pinnacle",
@@ -6417,6 +6330,93 @@
    "tier": "single",
    "second_ev": -2.05,
    "pinn_dec": 1.855
+  },
+  {
+   "kind": "ml",
+   "week": "2026-11-28",
+   "player": "Ball State @ S Indiana",
+   "pkey": "401911031",
+   "stat": "ml",
+   "stat_label": "Moneyline",
+   "title": "S Indiana Moneyline",
+   "line": null,
+   "side": "home",
+   "team": "S Indiana",
+   "opp": "Ball State",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/189527962971436",
+   "game_id": "401911031",
+   "kickoff": "2026-11-28T14:00:00-05:00",
+   "home": "S Indiana",
+   "away": "Ball State",
+   "dec": 2.28,
+   "american": 128,
+   "game_model": {
+    "game_id": "401911031",
+    "home": "S Indiana",
+    "away": "Ball State",
+    "kickoff": "2026-11-28T14:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 68.3,
+    "proj_away": 68.2,
+    "proj_margin": 0.1,
+    "proj_total": 136.5,
+    "home_win_prob": 0.502,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": -0.378,
+    "home_em": -14.5,
+    "away_em": -11.7,
+    "home_t": 69.6,
+    "away_t": 65.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 2.2,
+     "b": 1.704
+    },
+    {
+     "book": "fanduel",
+     "a": 2.28,
+     "b": 1.658
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.25,
+     "b": 1.685
+    }
+   ],
+   "model_prob": 0.502,
+   "model_edge": 8.1,
+   "model_edge_txt": "+8.1%",
+   "cheat_side": "home",
+   "pinnacle_line": "S Indiana +125 / Ball State -146",
+   "fair_prob": 0.4241,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4241,
+    0.4282
+   ],
+   "devig_all": {
+    "multiplicative": 0.4282,
+    "additive": 0.4255,
+    "power": 0.4241
+   },
+   "ev_pct": -3.3,
+   "min_ev": 2.94,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -2.58,
+   "trusted_prob": 0.427,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -1.39,
+   "pinn_dec": 2.25
   },
   {
    "kind": "total",
@@ -7793,7 +7793,7 @@
     {
      "book": "fanduel",
      "a": 1.625,
-     "b": 2.32
+     "b": 2.34
     },
     {
      "book": "pinnacle",
@@ -7827,7 +7827,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -0.6,
+   "second_ev": -1.01,
    "pinn_dec": 2.43
   },
   {
@@ -8485,6 +8485,59 @@
    "pinn_dec": 1.826
   },
   {
+   "kind": "total",
+   "week": "2026-11-28",
+   "player": "Wofford @ Purdue FW",
+   "pkey": "401926212",
+   "stat": "total",
+   "stat_label": "Total",
+   "title": "Over 154.5",
+   "line": 154.5,
+   "side": "over",
+   "team": null,
+   "opp": null,
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/108652610090053",
+   "game_id": "401926212",
+   "kickoff": "2026-11-28T13:00:00-05:00",
+   "home": "Purdue FW",
+   "away": "Wofford",
+   "dec": 1.87,
+   "american": -115,
+   "game_model": {
+    "game_id": "401926212",
+    "home": "Purdue FW",
+    "away": "Wofford",
+    "kickoff": "2026-11-28T13:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 83.3,
+    "proj_away": 76.7,
+    "proj_margin": 6.6,
+    "proj_total": 159.9,
+    "home_win_prob": 0.725,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.461,
+    "home_em": -7.5,
+    "away_em": -7.7,
+    "home_t": 68.7,
+    "away_t": 69.2,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.87,
+     "b": 1.952
+    }
+   ],
+   "model_prob": 0.641,
+   "model_edge": 5.4,
+   "model_edge_txt": "+5.4 pts",
+   "cheat_side": "over"
+  },
+  {
    "kind": "spread",
    "week": "2026-11-28",
    "player": "Hampton @ Radford",
@@ -8527,14 +8580,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.952,
-     "b": 1.87
-    },
-    {
      "book": "fanduel",
      "a": 1.909,
      "b": 1.909
+    },
+    {
+     "book": "draftkings",
+     "a": 1.952,
+     "b": 1.87
     },
     {
      "book": "pinnacle",
@@ -9332,89 +9385,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "Delaware @ Stony Brook",
-   "pkey": "401920906",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "Stony Brook -5.5",
-   "line": -5.5,
-   "side": "home",
-   "team": "Stony Brook",
-   "opp": "Delaware",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/184533434309289",
-   "game_id": "401920906",
-   "kickoff": "2026-11-28T16:00:00-05:00",
-   "home": "Stony Brook",
-   "away": "Delaware",
-   "dec": 1.885,
-   "american": -113,
-   "game_model": {
-    "game_id": "401920906",
-    "home": "Stony Brook",
-    "away": "Delaware",
-    "kickoff": "2026-11-28T16:00:00-05:00",
-    "neutral": false,
-    "non_d1": null,
-    "proj_home": 74.2,
-    "proj_away": 65.0,
-    "proj_margin": 9.3,
-    "proj_total": 139.2,
-    "home_win_prob": 0.8,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.804,
-    "home_em": -6.1,
-    "away_em": -6.1,
-    "home_t": 66.3,
-    "away_t": 66.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "draftkings",
-     "a": 1.885,
-     "b": 1.935
-    },
-    {
-     "book": "pinnacle",
-     "a": 1.82,
-     "b": 2.02
-    }
-   ],
-   "model_prob": 0.635,
-   "model_edge": 3.8,
-   "model_edge_txt": "+3.8 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD",
-   "pinnacle_line": "Stony Brook -5.5 -122 / Delaware +5.5 102",
-   "fair_prob": 0.526,
-   "fair_method": "multiplicative",
-   "fair_source": "Pinnacle",
-   "devig_range": [
-    0.526,
-    0.5278
-   ],
-   "devig_all": {
-    "multiplicative": 0.526,
-    "additive": 0.5272,
-    "power": 0.5278
-   },
-   "ev_pct": -0.84,
-   "min_ev": 1.69,
-   "units": 0.0,
-   "base_units": 0.0,
-   "kelly_pct": -0.95,
-   "trusted_prob": 0.5269,
-   "unit_note": null,
-   "edge_trust": 0.8,
-   "tier": "single",
-   "second_ev": null,
-   "pinn_dec": 1.82
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "Ball State @ S Indiana",
    "pkey": "401911031",
    "stat": "spread",
@@ -9621,14 +9591,14 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.935,
-     "b": 1.885
-    },
-    {
      "book": "fanduel",
      "a": 1.952,
      "b": 1.87
+    },
+    {
+     "book": "draftkings",
+     "a": 1.935,
+     "b": 1.885
     },
     {
      "book": "pinnacle",
@@ -9840,60 +9810,6 @@
   {
    "kind": "spread",
    "week": "2026-11-28",
-   "player": "South Alabama @ S Dakota St",
-   "pkey": "401929413",
-   "stat": "spread",
-   "stat_label": "Spread",
-   "title": "S Dakota St -0.5",
-   "line": -0.5,
-   "side": "home",
-   "team": "S Dakota St",
-   "opp": "South Alabama",
-   "book": "fanduel",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/216335297877777",
-   "game_id": "401929413",
-   "kickoff": "2026-11-28T18:00:00-05:00",
-   "home": "S Dakota St",
-   "away": "South Alabama",
-   "dec": 1.909,
-   "american": -110,
-   "game_model": {
-    "game_id": "401929413",
-    "home": "S Dakota St",
-    "away": "South Alabama",
-    "kickoff": "2026-11-28T18:00:00-05:00",
-    "neutral": true,
-    "non_d1": null,
-    "proj_home": 70.4,
-    "proj_away": 66.8,
-    "proj_margin": 3.6,
-    "proj_total": 137.2,
-    "home_win_prob": 0.627,
-    "model": "FULL",
-    "slope": 7.78,
-    "matchup_x": 0.458,
-    "home_em": -4.7,
-    "away_em": -5.9,
-    "home_t": 67.3,
-    "away_t": 61.7,
-    "league_avg": 108.2
-   },
-   "books": [
-    {
-     "book": "fanduel",
-     "a": 1.909,
-     "b": 1.909
-    }
-   ],
-   "model_prob": 0.611,
-   "model_edge": 3.1,
-   "model_edge_txt": "+3.1 pts \u00b7 GOOD",
-   "cheat_side": "home",
-   "cbb_tier": "GOOD"
-  },
-  {
-   "kind": "spread",
-   "week": "2026-11-28",
    "player": "UMass Lowell @ American",
    "pkey": "401912214",
    "stat": "spread",
@@ -9973,6 +9889,94 @@
    "tier": "single",
    "second_ev": null,
    "pinn_dec": 1.926
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "Delaware @ Stony Brook",
+   "pkey": "401920906",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "Stony Brook -6.5",
+   "line": -6.5,
+   "side": "home",
+   "team": "Stony Brook",
+   "opp": "Delaware",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/126262306973788",
+   "game_id": "401920906",
+   "kickoff": "2026-11-28T16:00:00-05:00",
+   "home": "Stony Brook",
+   "away": "Delaware",
+   "dec": 1.943,
+   "american": -106,
+   "game_model": {
+    "game_id": "401920906",
+    "home": "Stony Brook",
+    "away": "Delaware",
+    "kickoff": "2026-11-28T16:00:00-05:00",
+    "neutral": false,
+    "non_d1": null,
+    "proj_home": 74.2,
+    "proj_away": 65.0,
+    "proj_margin": 9.3,
+    "proj_total": 139.2,
+    "home_win_prob": 0.8,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.804,
+    "home_em": -6.1,
+    "away_em": -6.1,
+    "home_t": 66.3,
+    "away_t": 66.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.943,
+     "b": 1.87
+    },
+    {
+     "book": "fanduel",
+     "a": 1.943,
+     "b": 1.877
+    },
+    {
+     "book": "pinnacle",
+     "a": 2.01,
+     "b": 1.826
+    }
+   ],
+   "model_prob": 0.6,
+   "model_edge": 2.8,
+   "model_edge_txt": "+2.8 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN",
+   "pinnacle_line": "Stony Brook -6.5 101 / Delaware +6.5 -121",
+   "fair_prob": 0.4744,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4744,
+    0.476
+   ],
+   "devig_all": {
+    "multiplicative": 0.476,
+    "additive": 0.4749,
+    "power": 0.4744
+   },
+   "ev_pct": -7.83,
+   "min_ev": 1.87,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -8.3,
+   "trusted_prob": 0.4824,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -4.65,
+   "pinn_dec": 2.01
   },
   {
    "kind": "spread",
@@ -10421,14 +10425,14 @@
    "side": "away",
    "team": "Vermont",
    "opp": "Colgate",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/120139508917814",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/135951919940940",
    "game_id": "401920775",
    "kickoff": "2026-11-28T13:00:00-05:00",
    "home": "Colgate",
    "away": "Vermont",
-   "dec": 1.952,
-   "american": -105,
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
     "game_id": "401920775",
     "home": "Colgate",
@@ -10453,8 +10457,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.87,
-     "b": 1.952
+     "a": 1.917,
+     "b": 1.901
     },
     {
      "book": "fanduel",
@@ -10485,16 +10489,16 @@
     "additive": 0.5046,
     "power": 0.5047
    },
-   "ev_pct": -1.54,
-   "min_ev": 1.9,
+   "ev_pct": -3.71,
+   "min_ev": 1.76,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -1.62,
-   "trusted_prob": 0.506,
+   "kelly_pct": -4.08,
+   "trusted_prob": 0.5083,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -2.4,
+   "second_ev": -4.15,
    "pinn_dec": 1.909
   },
   {
@@ -10579,6 +10583,94 @@
    "tier": "single",
    "second_ev": null,
    "pinn_dec": 1.885
+  },
+  {
+   "kind": "spread",
+   "week": "2026-11-28",
+   "player": "South Alabama @ S Dakota St",
+   "pkey": "401929413",
+   "stat": "spread",
+   "stat_label": "Spread",
+   "title": "S Dakota St -1.5",
+   "line": -1.5,
+   "side": "home",
+   "team": "S Dakota St",
+   "opp": "South Alabama",
+   "book": "draftkings",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/178985618505951",
+   "game_id": "401929413",
+   "kickoff": "2026-11-28T18:00:00-05:00",
+   "home": "S Dakota St",
+   "away": "South Alabama",
+   "dec": 1.943,
+   "american": -106,
+   "game_model": {
+    "game_id": "401929413",
+    "home": "S Dakota St",
+    "away": "South Alabama",
+    "kickoff": "2026-11-28T18:00:00-05:00",
+    "neutral": true,
+    "non_d1": null,
+    "proj_home": 70.4,
+    "proj_away": 66.8,
+    "proj_margin": 3.6,
+    "proj_total": 137.2,
+    "home_win_prob": 0.627,
+    "model": "FULL",
+    "slope": 7.78,
+    "matchup_x": 0.458,
+    "home_em": -4.7,
+    "away_em": -5.9,
+    "home_t": 67.3,
+    "away_t": 61.7,
+    "league_avg": 108.2
+   },
+   "books": [
+    {
+     "book": "draftkings",
+     "a": 1.943,
+     "b": 1.87
+    },
+    {
+     "book": "fanduel",
+     "a": 1.909,
+     "b": 1.909
+    },
+    {
+     "book": "pinnacle",
+     "a": 1.98,
+     "b": 1.862
+    }
+   ],
+   "model_prob": 0.576,
+   "model_edge": 2.1,
+   "model_edge_txt": "+2.1 pts \u00b7 LEAN",
+   "cheat_side": "home",
+   "cbb_tier": "LEAN",
+   "pinnacle_line": "S Dakota St -1.5 -102 / South Alabama +1.5 -116",
+   "fair_prob": 0.4837,
+   "fair_method": "power",
+   "fair_source": "Pinnacle",
+   "devig_range": [
+    0.4837,
+    0.4846
+   ],
+   "devig_all": {
+    "multiplicative": 0.4846,
+    "additive": 0.484,
+    "power": 0.4837
+   },
+   "ev_pct": -6.02,
+   "min_ev": 1.87,
+   "units": 0.0,
+   "base_units": 0.0,
+   "kelly_pct": -6.39,
+   "trusted_prob": 0.4899,
+   "unit_note": null,
+   "edge_trust": 0.8,
+   "tier": "single",
+   "second_ev": -2.85,
+   "pinn_dec": 1.98
   },
   {
    "kind": "spread",
@@ -10711,6 +10803,11 @@
    },
    "books": [
     {
+     "book": "draftkings",
+     "a": 1.787,
+     "b": 1.935
+    },
+    {
      "book": "fanduel",
      "a": 1.833,
      "b": 1.98
@@ -10748,7 +10845,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": null,
+   "second_ev": -4.71,
    "pinn_dec": 1.781
   },
   {
@@ -10987,5 +11084,5 @@
   "ev": 0,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T12:36:31-05:00"
+ "odds_as_of": "2026-11-28T12:47:07-05:00"
 }
