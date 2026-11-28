@@ -1,33 +1,21 @@
 {
  "sport": "cbb",
- "generated_at": "2026-11-28T14:02:16-05:00",
+ "generated_at": "2026-11-28T14:12:46-05:00",
  "season": 2027,
  "week": "2026-11-28",
  "day": "2026-11-28",
  "next_kickoff": "2026-11-28T15:00:00-05:00",
  "status": {
   "odds_checked": true,
-  "book_game_lines": 218,
-  "book_unmatched": 20,
+  "book_game_lines": 215,
+  "book_unmatched": 8,
   "book_unmatched_games": [
-   "Ball State @ Southern Indiana",
-   "Central Connecticut State @ Navy",
-   "Chicago State @ Bradley",
    "Davidson @ Florida Atlantic",
-   "Delaware State @ North Carolina A&T",
-   "East Texas A&M @ Marshall",
-   "Fordham @ Harvard",
-   "Georgia Southern @ UNC Asheville",
    "Loyola Chicago @ UMass",
-   "Manhattan @ Morgan State",
    "Memphis @ Dayton",
-   "North Florida @ Columbia",
    "SE Missouri St @ UMKC",
    "SE Missouri State @ UMKC",
-   "Sacramento State @ Presbyterian",
    "South Florida @ Saint Louis",
-   "The Citadel @ High Point",
-   "Troy @ Chattanooga",
    "Utah State @ New Mexico",
    "Weber State @ CSU Fullerton"
   ],
@@ -3306,14 +3294,14 @@
    "side": "home",
    "team": "Valparaiso",
    "opp": "Toledo",
-   "book": "draftkings",
-   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/2576563623320",
+   "book": "fanduel",
+   "deep_link": "https://api.sharpapi.io/api/v1/deeplink/217450861429970",
    "game_id": "401928848",
    "kickoff": "2026-11-28T15:00:00-05:00",
    "home": "Valparaiso",
    "away": "Toledo",
-   "dec": 1.935,
-   "american": -107,
+   "dec": 1.909,
+   "american": -110,
    "game_model": {
     "game_id": "401928848",
     "home": "Valparaiso",
@@ -3338,8 +3326,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.935,
-     "b": 1.885
+     "a": 1.901,
+     "b": 1.917
     },
     {
      "book": "fanduel",
@@ -3370,16 +3358,16 @@
     "additive": 0.5046,
     "power": 0.5047
    },
-   "ev_pct": -2.4,
-   "min_ev": 1.85,
+   "ev_pct": -3.71,
+   "min_ev": 1.76,
    "units": 0.0,
    "base_units": 0.0,
-   "kelly_pct": -2.56,
-   "trusted_prob": 0.5069,
+   "kelly_pct": -4.08,
+   "trusted_prob": 0.5083,
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.25,
+   "second_ev": -4.15,
    "pinn_dec": 1.909
   },
   {
@@ -4212,11 +4200,6 @@
      "b": 2.3
     },
     {
-     "book": "fanduel",
-     "a": 1.667,
-     "b": 2.26
-    },
-    {
      "book": "pinnacle",
      "a": 1.676,
      "b": 2.26
@@ -4248,7 +4231,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.47,
+   "second_ev": null,
    "pinn_dec": 2.26
   },
   {
@@ -4639,11 +4622,6 @@
    },
    "books": [
     {
-     "book": "draftkings",
-     "a": 1.901,
-     "b": 1.926
-    },
-    {
      "book": "fanduel",
      "a": 1.833,
      "b": 1.98
@@ -4681,7 +4659,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -1.69,
+   "second_ev": null,
    "pinn_dec": 2.02
   },
   {
@@ -5102,7 +5080,7 @@
     },
     {
      "book": "fanduel",
-     "a": 3.65,
+     "a": 3.7,
      "b": 1.299
     },
     {
@@ -5137,7 +5115,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -8.81,
+   "second_ev": -9.32,
    "pinn_dec": 3.82
   },
   {
@@ -7130,8 +7108,8 @@
    "books": [
     {
      "book": "draftkings",
-     "a": 1.87,
-     "b": 1.943
+     "a": 1.862,
+     "b": 1.962
     },
     {
      "book": "fanduel",
@@ -7171,7 +7149,7 @@
    "unit_note": null,
    "edge_trust": 0.8,
    "tier": "single",
-   "second_ev": -3.04,
+   "second_ev": -3.77,
    "pinn_dec": 1.962
   },
   {
@@ -7669,5 +7647,5 @@
   "ev": 0,
   "combined": 0
  },
- "odds_as_of": "2026-11-28T14:02:16-05:00"
+ "odds_as_of": "2026-11-28T14:12:46-05:00"
 }
